@@ -1,0 +1,14 @@
+location_id: LOC_TARA_PORT
+name: Port of Tara
+description: Local harbor where Aaron and Aura board the Elgia.
+geography: Coastal port with rocks, anchored boats, and daily market activity.
+architecture: Docks, boats, pulleys, cargo, harbor infrastructure.
+lighting: Late-day sunlight glittering off waves.
+mood: Nervous departure and point of no return.
+recurring_props:
+- cargo crates
+- pulley system
+- Elgia stern name
+color_palette: sea blue, silver, weathered wood, iron
+visual_reference_notes: Smaller than Eros; The Elgia should stand out as a large possibility.
+continuity_notes: Aaron recognizes the Elgia as a ship that often brings goods back from Eros.

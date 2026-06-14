@@ -1,0 +1,14 @@
+location_id: LOC_TARA_WOODS
+name: Woods of Tara
+description: Aaron's refuge from farm responsibility and the natural path toward the river.
+geography: Forest between the mountains, Lake Tara, and the farm borders.
+architecture: No built architecture; paths, trees, gossamer, wildlife, and natural clearings.
+lighting: Morning gold through canopy; later moonlit darkness after the rain of lights.
+mood: Restorative, timeless, quietly uncanny.
+recurring_props:
+- grey belly bluebird
+- gossamer
+- forest path
+color_palette: gold, green, bark brown, soft blue-gray
+visual_reference_notes: Natural YA fantasy woodland; keep it grounded before cosmic events begin.
+continuity_notes: The woods should feel familiar to Aaron and spatially connected to the river, lake, and farm.

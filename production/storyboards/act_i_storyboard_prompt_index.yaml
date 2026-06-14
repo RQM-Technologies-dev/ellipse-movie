@@ -1,65 +1,78 @@
 project: Ellipse
 unit: Act I / film adaptation target
-status: in_progress
+status: needs_v2_upgrade
 source_layer: production/shotlists/act_i_shotlist_index.yaml
 source_layer_status: reviewed
-schema: production/storyboards/storyboard_prompt_schema.yaml
+schema_v1: production/storyboards/storyboard_prompt_schema.yaml
+schema_v2: production/storyboards/storyboard_prompt_schema_v2.yaml
+methodology: production/storyboards/storyboard_art_generation_methodology.md
+reference_notes: production/storyboards/reference_notes/uploaded_storyboard_reference_notes.md
 visual_direction: docs/visual_direction.md
 prompt_sets:
 - id: CH01_SC01
   type: scene
   source_shotlist: production/shotlists/scenes/CH01_SC01_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH01_SC01_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: SEQ_CH07_EROS_MARKET
   type: sequence
   source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
   prompt_file: production/storyboards/prompts/sequences/SEQ_CH07_EROS_MARKET_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH03_SC02
   type: scene
   source_shotlist: production/shotlists/scenes/CH03_SC02_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH03_SC02_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH03_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH03_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH03_SC03_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH06_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH06_SC03_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH08_SC04
   type: scene
   source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH08_SC04_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH09_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH09_SC03_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH10_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH10_SC03_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH11_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH11_SC03_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 - id: CH11_SC04
   type: scene
   source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH11_SC04_storyboard_prompts.yaml
-  status: drafted
+  status: drafted_v1
+  upgrade_status: needs_v2_upgrade
 next_priority:
-- review_visual_anchor_storyboard_prompts
-- generate_remaining_scene_storyboard_prompts
-- prepare_storyboard_prompt_review
+- upgrade_visual_anchor_storyboard_prompts_to_v2
+- generate_example_v2_storyboard_deck
+- review_v2_storyboard_outputs
 hold_until_review:
 - video_prompts
 - generated_media

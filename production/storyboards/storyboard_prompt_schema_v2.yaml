@@ -1,0 +1,66 @@
+schema_id: STORYBOARD_PROMPT_SCHEMA_V2
+schema_name: Ellipse Detailed Storyboard Prompt Schema
+version: 2
+supersedes: production/storyboards/storyboard_prompt_schema.yaml
+methodology: production/storyboards/storyboard_art_generation_methodology.md
+reference_notes: production/storyboards/reference_notes/uploaded_storyboard_reference_notes.md
+required_fields:
+- storyboard_prompt_id
+- source_shot_id
+- source_shotlist
+- scene_or_sequence_id
+- title
+- status
+- board_format
+- art_style
+- art_generation_prompt
+- negative_prompt
+- continuity
+- camera
+- blocking
+- foreground
+- midground
+- background
+- environment_detail
+- character_detail
+- emotional_intent
+- next_handoff
+field_definitions:
+  storyboard_prompt_id: Stable unique ID for the storyboard prompt, usually SB_<SHOT_ID>.
+  source_shot_id: Shot ID from the reviewed shot list.
+  source_shotlist: Path to the source shot-list YAML.
+  scene_or_sequence_id: Scene ID such as CH03_SC02 or sequence ID such as SEQ_CH07_EROS_MARKET.
+  title: Short human-readable board title.
+  status: draft, reviewed, or locked.
+  board_format: Widescreen storyboard panel, optional blank slate/header, no generated text labels.
+  art_style: Black-and-white rough pencil/ink production storyboard style, high detail, visible construction lines.
+  art_generation_prompt: Full image-generation prompt using the V2 detailed methodology.
+  negative_prompt: Visual elements and styles to avoid.
+  continuity: Character, location, object, visual motif, and lore constraints.
+  camera: Camera angle, lens feel, movement implication, and geography guidance.
+  blocking: Overall staging and movement relationship.
+  foreground: Foreground elements used for depth, framing, or story information.
+  midground: Main character action or subject area.
+  background: Environment, geography, architecture, crowd, or spectacle context.
+  environment_detail: Specific location details required for production usefulness.
+  character_detail: Character posture, silhouette, expression, scale, and continuity notes.
+  emotional_intent: Feeling the board must communicate.
+  next_handoff: Visual, emotional, object, sound, or movement cue that hands off to the next board.
+status_values:
+- draft
+- reviewed
+- locked
+baseline_art_style: Detailed black-and-white production storyboard panel, rough pencil and ink linework, widescreen cinematic frame, visible construction lines, high environmental detail, clear foreground/midground/background depth, readable character blocking, no color, no polished render.
+baseline_negative_prompt: no photorealism, no color render, no polished concept art, no anime style, no modern objects, no generated text labels, no empty background, no copied film still, no abstract composition without readable geography
+review_rules:
+- Prompts must cite a reviewed shot-list source.
+- Prompts must preserve character and location IDs.
+- Prompts must be detailed enough for storyboard composition and blocking.
+- Prompts must use the art generation methodology.
+- Prompts must follow docs/visual_direction.md.
+- Prompts must not request direct copying of any existing copyrighted shot, frame, or film still.
+- Prompts may reference broad classic adventure grammar, readable geography, motivated camera movement, and emotional clarity.
+output_folder_pattern:
+  scene_prompts: production/storyboards/prompts/scenes/CH##_SC##_storyboard_prompts.yaml
+  sequence_prompts: production/storyboards/prompts/sequences/SEQ_<ID>_storyboard_prompts.yaml
+upgrade_rule: Existing V1 storyboard prompt files should be upgraded to V2 before image generation.

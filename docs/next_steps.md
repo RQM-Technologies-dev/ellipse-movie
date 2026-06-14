@@ -1,46 +1,45 @@
 # Next Steps
 
-This is the current working checklist after drafting the remaining visual-anchor storyboard prompts on `main`.
+This is the current working checklist after adding a more detailed storyboard art-generation methodology based on the uploaded storyboard reference frames.
 
 ## Completed
 
 - Act I scene YAML files are locked.
 - Eros Market continuous sequence is locked and covered by a sequence shot list.
 - Shot lists exist for all locked scenes or are covered by the Eros Market sequence.
-- Act I shot-list conventions have been added.
 - Act I shot-list review record has been added.
-- Shot-list index records the shot-list layer as reviewed.
-- Storyboard prompt README added under `production/storyboards/`.
-- Storyboard prompt schema added.
-- Act I storyboard prompt index added.
-- First-pass storyboard prompt files started from reviewed shot lists.
-- Visual-anchor storyboard prompts drafted for Overture, Rain of Lights, Aura's emergence, Stars over the Elgia, Cottage Creation, Cosmic Transit, Garden of Time, Portara, Father and Son at the Gate, and the Eros Market sequence.
+- Storyboard prompt V1 framework was started.
+- Uploaded storyboard reference frames were reviewed for style and methodology.
+- Detailed storyboard art-generation methodology has been added.
+- Storyboard prompt V2 schema has been added.
+- Storyboard prompt index now marks existing prompt sets as needing V2 upgrade before image generation.
 
 ## Immediate next tasks
 
-1. Review the visual-anchor storyboard prompts against `docs/visual_direction.md`.
-2. Generate storyboard prompts for the remaining scene shot lists.
-3. Review all storyboard prompts for continuity, camera language, and storyboard usability.
-4. Keep video prompts and generated media downstream of storyboard prompt review.
+1. Upgrade the existing visual-anchor storyboard prompt files to V2 detail level.
+2. Generate a new example storyboard deck using the V2 methodology.
+3. Review whether the new deck matches the uploaded reference style: detailed black-and-white production boards with high environmental detail and readable cinematic staging.
+4. Generate remaining scene storyboard prompts only after the V2 method is approved.
 
-## Hold until storyboard prompt review
+## Hold until V2 storyboard review
 
 Do not start video prompts or generated media until:
 
-- storyboard prompts are generated from reviewed shot lists,
+- V2 storyboard prompts are generated from reviewed shot lists,
+- V2 example boards are reviewed against the uploaded storyboard reference methodology,
 - storyboard prompts are reviewed against `docs/visual_direction.md`,
 - character and location IDs remain stable,
 - visual continuity for Aura / Einai / Ousia, rain of lights, Eros, the Kingdom, and the Portara is confirmed.
 
 ## Recommended next commit
 
-`Generate remaining Act I storyboard prompts`
+`Upgrade visual-anchor storyboard prompts to V2 detail`
 
 Expected output:
 
-- storyboard prompt files for the remaining scene shot lists,
-- updated `production/storyboards/act_i_storyboard_prompt_index.yaml`,
-- no video prompts until storyboard prompt review is complete.
+- V2-upgraded prompt files for the existing visual-anchor prompt sets,
+- detailed black-and-white production-board methodology applied consistently,
+- a new pageable example storyboard deck generated from V2 prompts.
 
 Run validation afterward:
 

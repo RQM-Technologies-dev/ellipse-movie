@@ -16,7 +16,7 @@ Storyboard prompts are generated from the reviewed shot-list layer, not directly
 ```text
 locked scene YAML
 → reviewed shot list
-→ storyboard prompt
+→ detailed storyboard prompt
 → storyboard image
 → reviewed storyboard
 → video prompt
@@ -27,9 +27,10 @@ Do not generate video prompts or AI media directly from scene YAML or shot lists
 
 ## Current status
 
-- Storyboard prompt schema added.
-- Act I storyboard prompt index added.
-- First-pass storyboard prompt files started for the Overture, Eros Market sequence, and major visual anchors.
+- Storyboard prompt V1 schema exists.
+- Storyboard prompt V2 schema has been added after reviewing uploaded storyboard reference frames.
+- Detailed storyboard art-generation methodology has been added.
+- Existing first-pass prompt files should be upgraded to V2 before image generation.
 
 ## Global visual direction
 
@@ -43,6 +44,21 @@ All storyboard prompts should follow `docs/visual_direction.md`:
 - human anchor before fantasy spectacle,
 - no shot-for-shot imitation of any existing film.
 
+## Detailed storyboard art direction
+
+Use `production/storyboards/storyboard_art_generation_methodology.md` for prompt generation. The new target is:
+
+- black-and-white rough pencil/ink production storyboard panels,
+- wide cinematic frame,
+- high environmental detail,
+- visible construction lines,
+- layered foreground/midground/background,
+- readable character blocking,
+- detailed architecture, landscape, props, crowds, or spectacle where relevant,
+- no color render,
+- no polished concept art,
+- no generated text labels inside the image.
+
 ## Prompt style
 
-Storyboard prompts should be written for previsualization and blocking, not final image polish. A good prompt should describe composition, camera position, action, emotional purpose, continuity anchors, and what the board must hand off to next.
+Storyboard prompts should be written for previsualization and blocking, not final image polish. A good prompt should describe composition, camera position, action, emotional purpose, continuity anchors, environment detail, character scale, and what the board must hand off to next.

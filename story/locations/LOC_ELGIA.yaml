@@ -1,0 +1,15 @@
+location_id: LOC_ELGIA
+name: The Elgia
+description: Three-masted vessel that carries Aaron and Aura from Tara to Eros.
+geography: Sea vessel crossing from Tara toward Eros.
+architecture: Three masts, narrow build, Nonabel wood deck, ivory sails, captain's quarters, hull storage.
+lighting: Bright sea daylight, twilight meals, night deck under stars.
+mood: Adventure, suspicion, temporary community.
+recurring_props:
+- silver inscription
+- ivory sails
+- Nonabel wood
+- captain's door
+color_palette: weathered wood, ivory, sea blue, silver
+visual_reference_notes: Elegant working ship rather than pirate vessel.
+continuity_notes: Door inscription `ELGIA LORE LASANT, ENTA TY` must match Garden plaque.

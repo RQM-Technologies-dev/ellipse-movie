@@ -1,0 +1,14 @@
+location_id: LOC_WEST_EROS_STABLES
+name: West Eros Stables
+description: Stable near Eros where Aaron and Aura rent Peridot.
+geography: Near port/market edge, reached at twilight.
+architecture: Stable gate, hay, stalls, banner reading WEST EROS STABLES.
+lighting: Twilight into night.
+mood: Practical threshold to the Academy road.
+recurring_props:
+- hay fork
+- stable gate
+- Peridot
+color_palette: hay gold, stable brown, twilight purple
+visual_reference_notes: Grounded work setting before the ride into mystery.
+continuity_notes: Aura's silver changes the stable keeper's attitude.

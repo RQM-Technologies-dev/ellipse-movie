@@ -1,0 +1,83 @@
+prompt_set_id: SB_SET_CH08_SC04
+scene_id: CH08_SC04
+source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH08_SC04_SH001
+  source_shot_id: CH08_SC04_SH001
+  source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  scene_or_sequence_id: CH08_SC04
+  title: Aaron Asks for a Home
+  status: draft
+  prompt: Intimate night storyboard frame of Aaron facing Aura beside a suspended fire in the dark forest, asking her to create a home, Peridot barely visible nearby.
+  negative_prompt: no modern cabin, no daylight, no romantic poster framing, no copied film still.
+  continuity: Suspended fire from previous test; cottage does not exist yet.
+  camera: Intimate two-shot surrounded by forest darkness.
+  blocking: Aaron and Aura close, fire between or beside them, dark woods encircling.
+  emotional_intent: Vulnerability, final test, desire for home.
+  next_handoff: Aura becomes still before creation.
+- storyboard_prompt_id: SB_CH08_SC04_SH003
+  source_shot_id: CH08_SC04_SH003
+  source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  scene_or_sequence_id: CH08_SC04
+  title: First Pulse from Aura
+  status: draft
+  prompt: Storyboard frame of light building around Aura's arms and wrists as she turns them skyward, ground trembling, Aaron watching in awe and fear.
+  negative_prompt: no wand, no superhero pose, no lightning bolts, no generic magic circle.
+  continuity: Aura creates through body, emotion, and Aaron's imagination.
+  camera: Tighten on hands, wrists, face, and tremoring ground.
+  blocking: Aura central, Aaron offset, suspended fire still visible.
+  emotional_intent: Calm intent before overwhelming force.
+  next_handoff: Pulses rise through the trees.
+- storyboard_prompt_id: SB_CH08_SC04_SH004
+  source_shot_id: CH08_SC04_SH004
+  source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  scene_or_sequence_id: CH08_SC04
+  title: Rain of Lights Reborn as Creation
+  status: draft
+  prompt: Storyboard frame of colored pulses ascending through dark trees, echoing the rain of lights but now beautiful and purposeful, Aaron realizing the connection.
+  negative_prompt: no destructive blast, no city attack, no random fireworks.
+  continuity: Reuses rain-of-lights palette as creation, not terror.
+  camera: Rising composition following the pulses upward.
+  blocking: Forest verticals frame the light paths; Aaron visible below for scale.
+  emotional_intent: Revelation, awe, recontextualization.
+  next_handoff: Light descends and begins forming the cottage.
+- storyboard_prompt_id: SB_CH08_SC04_SH006
+  source_shot_id: CH08_SC04_SH006
+  source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  scene_or_sequence_id: CH08_SC04
+  title: Cottage Takes Shape
+  status: draft
+  prompt: Wide storyboard frame of petrified wood walls, amethyst structure, stream water, dust, and fire assembling into a cottage around Aaron's imagined home, Aura radiant nearby.
+  negative_prompt: no ordinary wooden cabin, no castle, no modern house, no construction workers.
+  continuity: Cottage is two-story, petrified wood and amethyst, built around fresh water.
+  camera: Follow elements becoming architecture while geography stays readable.
+  blocking: Emerging cottage midground, stream foreground, Aura and Aaron placed for scale.
+  emotional_intent: Miracle becoming habitable world.
+  next_handoff: Creation reaches storm peak.
+- storyboard_prompt_id: SB_CH08_SC04_SH008
+  source_shot_id: CH08_SC04_SH008
+  source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  scene_or_sequence_id: CH08_SC04
+  title: New Home Revealed
+  status: draft
+  prompt: Storyboard frame revealing the completed two-story cottage of petrified wood and amethyst, fresh stream running from its center past Aaron's feet, suspended fire and dust glowing in the night.
+  negative_prompt: no perfect suburban house, no palace, no overly polished fantasy mansion.
+  continuity: Cottage is newly born from Aura's creative force; brook is present.
+  camera: Slow reveal from stream at Aaron's feet to full cottage.
+  blocking: Aaron foreground in awe, cottage midground, Aura nearby recovering.
+  emotional_intent: Wonder, home, emotional surrender.
+  next_handoff: Aaron hears Aura fall.
+- storyboard_prompt_id: SB_CH08_SC04_SH010
+  source_shot_id: CH08_SC04_SH010
+  source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  scene_or_sequence_id: CH08_SC04
+  title: More Than My Imagination
+  status: draft
+  prompt: Intimate storyboard frame of Aaron and Aura before the newly created cottage, after the spectacle, Aaron emotionally accepting that Aura is more than his imagination.
+  negative_prompt: no melodramatic embrace, no comedy reaction, no explanatory text.
+  continuity: Aura is exhausted but real and autonomous; cottage remains visible.
+  camera: Close emotional beat after wide spectacle.
+  blocking: Aaron and Aura foreground, cottage and stream behind as proof.
+  emotional_intent: Acceptance, tenderness, awe.
+  next_handoff: Aura reveals she can take him places and wants to go home.

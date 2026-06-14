@@ -1,0 +1,70 @@
+prompt_set_id: SB_SET_CH09_SC03
+scene_id: CH09_SC03
+source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH09_SC03_SH002
+  source_shot_id: CH09_SC03_SH002
+  source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+  scene_or_sequence_id: CH09_SC03
+  title: Embrace as Anchor
+  status: draft
+  prompt: Night forest storyboard frame of Aura leaning into Aaron's chest and Aaron wrapping his arms around her, cottage and Peridot behind them, the embrace becoming the emotional anchor for cosmic travel.
+  negative_prompt: no romantic poster pose, no daylight, no immediate explosion.
+  continuity: Travel begins from trust and touch, not machinery.
+  camera: Close two-shot centered on contact.
+  blocking: Aaron and Aura central; cottage and forest dimly visible; Peridot released nearby.
+  emotional_intent: Trust, surrender, fear turning into choice.
+  next_handoff: Light begins to radiate from Aaron's chest.
+- storyboard_prompt_id: SB_CH09_SC03_SH004
+  source_shot_id: CH09_SC03_SH004
+  source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+  scene_or_sequence_id: CH09_SC03
+  title: Distance Distorts
+  status: draft
+  prompt: Storyboard frame of forest geometry expanding and contracting around Aaron and Aura's embrace, trees and ground bending subtly, distance no longer constant.
+  negative_prompt: no psychedelic abstraction, no sci-fi portal machine, no dismembered forms.
+  continuity: Spatial distortion begins around the embrace.
+  camera: Lensing effect with readable silhouettes.
+  blocking: Aaron and Aura remain clear center; forest warps around them.
+  emotional_intent: Reality loosening, trust under pressure.
+  next_handoff: Wind sphere forms around them.
+- storyboard_prompt_id: SB_CH09_SC03_SH005
+  source_shot_id: CH09_SC03_SH005
+  source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+  scene_or_sequence_id: CH09_SC03
+  title: Wind Sphere
+  status: draft
+  prompt: Storyboard frame of dust and wind forming a sphere around Aaron and Aura while they hold each other, sparks beginning to appear, the forest falling away.
+  negative_prompt: no tornado disaster, no superhero flight pose, no abstract tunnel.
+  continuity: Wind sphere is the physical grammar of travel.
+  camera: Circular motion implied around the embrace.
+  blocking: Embrace center, wind ring midground, forest fragments background.
+  emotional_intent: Acceleration, fear, commitment.
+  next_handoff: Elemental plasma ignites in the sphere.
+- storyboard_prompt_id: SB_CH09_SC03_SH007
+  source_shot_id: CH09_SC03_SH007
+  source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+  scene_or_sequence_id: CH09_SC03
+  title: Plasma Apex
+  status: draft
+  prompt: Intense storyboard frame of Aaron tucked into Aura amid ammolite, silver, turquoise, and azure plasma flares, chaos surrounding them while the embrace remains the only stable element.
+  negative_prompt: no generic hyperspace tunnel, no spaceship, no battle energy clash.
+  continuity: Echoes rain of lights and Overture; emotion is trust, not attack.
+  camera: Tight on human anchor amid overwhelming plasma.
+  blocking: Aaron and Aura central; plasma wraps around them; no other figures.
+  emotional_intent: Overwhelming velocity, trust as constant.
+  next_handoff: Plasma decays into gold and wind.
+- storyboard_prompt_id: SB_CH09_SC03_SH009
+  source_shot_id: CH09_SC03_SH009
+  source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+  scene_or_sequence_id: CH09_SC03
+  title: Feet on Regolith
+  status: draft
+  prompt: Storyboard frame tilting from Aaron's feet landing on cracked dry regolith to Aaron and Aura as dust settles, strange star-warmed twilight beginning around them.
+  negative_prompt: no Earth forest floor, no spaceship landing, no city skyline.
+  continuity: Arrival at Kingdom ground; cosmic twilight follows.
+  camera: Tilt from ground contact upward to bodies.
+  blocking: Feet and regolith foreground; Aaron and Aura recovering midground.
+  emotional_intent: Arrival, disorientation, awe beginning.
+  next_handoff: Aaron looks up to the palace and sky.

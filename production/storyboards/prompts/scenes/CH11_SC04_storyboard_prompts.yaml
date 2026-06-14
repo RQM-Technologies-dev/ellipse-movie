@@ -1,0 +1,83 @@
+prompt_set_id: SB_SET_CH11_SC04
+scene_id: CH11_SC04
+source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH11_SC04_SH001
+  source_shot_id: CH11_SC04_SH001
+  source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  scene_or_sequence_id: CH11_SC04
+  title: Aura Enters the Portara Chamber
+  status: draft
+  prompt: Storyboard frame of Aura entering the amethyst Portara chamber, Aaron visibly steadied by her presence, the Pezzotaite arch glowing behind or beside them.
+  negative_prompt: no action entrance, no battle pose, no romantic cliché, no modern doorway.
+  continuity: Aura reassures Aaron by presence; Portara chamber, amethyst walls, Pezzotaite arch.
+  camera: Aaron's perspective softening as Aura appears.
+  blocking: Aura enters from side, Aaron between Aura and Eternity, Portara looming.
+  emotional_intent: Trust, reassurance, final courage.
+  next_handoff: Aaron asks whether he will see Eternity again.
+- storyboard_prompt_id: SB_CH11_SC04_SH002
+  source_shot_id: CH11_SC04_SH002
+  source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  scene_or_sequence_id: CH11_SC04
+  title: Between Aura, Eternity, and the Gate
+  status: draft
+  prompt: Balanced storyboard frame of Aaron standing between Aura, Eternity, and the towering Portara, three-point blocking that makes the final choice clear without explanation.
+  negative_prompt: no crowded scene, no combat formation, no visual clutter.
+  continuity: Final threshold; Aura, Aaron, Eternity, Portara all present.
+  camera: Balanced composition with Portara looming in readable geography.
+  blocking: Aaron central, Aura as emotional anchor, Eternity as guide, gate as destination.
+  emotional_intent: Farewell, fear, responsibility.
+  next_handoff: Aaron asks the death question.
+- storyboard_prompt_id: SB_CH11_SC04_SH004
+  source_shot_id: CH11_SC04_SH004
+  source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  scene_or_sequence_id: CH11_SC04
+  title: Will I Die
+  status: draft
+  prompt: Quiet stripped-down storyboard frame of Aaron looking into the Portara and asking if he will die, the chamber vast around him, the question small and human against cosmic architecture.
+  negative_prompt: no horror skull imagery, no melodramatic tears, no explanatory afterlife visuals.
+  continuity: Fear becomes simple and direct before father-son reveal.
+  camera: Quiet, emotionally direct, with Aaron and gate in relation.
+  blocking: Aaron near threshold, Eternity nearby, Aura present as support.
+  emotional_intent: Vulnerability, fear, human scale.
+  next_handoff: Eternity answers by calling him Dad.
+- storyboard_prompt_id: SB_CH11_SC04_SH005
+  source_shot_id: CH11_SC04_SH005
+  source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  scene_or_sequence_id: CH11_SC04
+  title: O Dad
+  status: draft
+  prompt: Storyboard frame holding on Eternity as he calls Aaron Dad and repeats the Elgia phrase, old-man warmth and cosmic sadness in his face, refracted Portara light surrounding him.
+  negative_prompt: no text overlay, no family-tree diagram, no comedic surprise, no literal flashback collage.
+  continuity: Payoff of father-son loop and Elgia phrase; Eternity's ice-blue eyes echo Aaron.
+  camera: Hold on Eternity, then allow Aaron's reaction in the handoff.
+  blocking: Eternity foreground or center, Aaron receiving the line, Portara light present.
+  emotional_intent: Revelation, grief, love beyond time.
+  next_handoff: Aaron looks to Aura before crossing.
+- storyboard_prompt_id: SB_CH11_SC04_SH007
+  source_shot_id: CH11_SC04_SH007
+  source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  scene_or_sequence_id: CH11_SC04
+  title: Final Look to Aura
+  status: draft
+  prompt: Intimate storyboard frame of Aaron looking to Aura before entering the Portara, Aura's quiet smile giving him courage, the gate's light waiting behind him.
+  negative_prompt: no exaggerated romance, no kiss, no action pose, no dialogue text.
+  continuity: Aura is the trust anchor; final decision belongs to Aaron.
+  camera: Close emotional exchange before crossing.
+  blocking: Aaron foreground turned toward Aura; Aura steady; Portara light behind.
+  emotional_intent: Trust, courage, ache.
+  next_handoff: Aaron enters the gate.
+- storyboard_prompt_id: SB_CH11_SC04_SH008
+  source_shot_id: CH11_SC04_SH008
+  source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  scene_or_sequence_id: CH11_SC04
+  title: Aaron Walks Through the Gate
+  status: draft
+  prompt: Final-threshold storyboard frame of Aaron stepping into the Pezzotaite Portara, light taking him as Aura and Eternity remain in the chamber, mystery preserved.
+  negative_prompt: no destination reveal, no modern portal effects, no explanatory text, no battle climax.
+  continuity: This is the film endpoint; do not show where Aaron lands.
+  camera: Follow Aaron until the frame or light takes him.
+  blocking: Aaron crossing threshold, Portara dominant, Aura and Eternity held behind.
+  emotional_intent: Choice, grief, wonder, forward motion.
+  next_handoff: End on mystery and final feeling.

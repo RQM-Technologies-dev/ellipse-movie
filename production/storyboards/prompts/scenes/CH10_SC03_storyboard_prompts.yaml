@@ -1,0 +1,83 @@
+prompt_set_id: SB_SET_CH10_SC03
+scene_id: CH10_SC03
+source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH10_SC03_SH001
+  source_shot_id: CH10_SC03_SH001
+  source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  scene_or_sequence_id: CH10_SC03
+  title: Garden of Time Opens
+  status: draft
+  prompt: Storyboard frame of Eternity leading Aaron and Aura from ordered amethyst palace geometry into the open Garden of Time, architecture giving way to living color and warm cosmic light.
+  negative_prompt: no ordinary palace garden, no modern greenhouse, no heaven cliché, no copied film still.
+  continuity: Garden is warmer and more alive than the palace halls; Aaron and Aura follow Eternity.
+  camera: Move from controlled architecture into living color.
+  blocking: Eternity guides foreground path; Aaron and Aura follow; Garden opens wide ahead.
+  emotional_intent: Revelation, warmth after intellectual vertigo.
+  next_handoff: Aaron experiences colors beyond ordinary sight.
+- storyboard_prompt_id: SB_CH10_SC03_SH002
+  source_shot_id: CH10_SC03_SH002
+  source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  scene_or_sequence_id: CH10_SC03
+  title: Colors Aaron Can Feel
+  status: draft
+  prompt: Storyboard frame of Aaron reacting to impossible Garden colors he can feel as much as see, flowers and leaves glowing with subtle metaphysical life, Aura present within the warmth.
+  negative_prompt: no psychedelic chaos, no neon nightclub palette, no abstract color field without characters.
+  continuity: Garden of Time provides sensory/metaphysical revelation while staying emotionally accessible.
+  camera: Discover through Aaron's reaction first, then the environment.
+  blocking: Aaron foreground; impossible flora around him; Aura/Eternity in spatial relation.
+  emotional_intent: Awe, wonder, sensory expansion.
+  next_handoff: Eternity starts translating Garden beauty into meaning.
+- storyboard_prompt_id: SB_CH10_SC03_SH004
+  source_shot_id: CH10_SC03_SH004
+  source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  scene_or_sequence_id: CH10_SC03
+  title: Scaffolding of Beings
+  status: draft
+  prompt: Close storyboard frame of a morphing Garden leaf, impossible flower, or branching living structure suggesting the scaffolding of all beings, with Eternity's explanation felt through image rather than lecture.
+  negative_prompt: no literal diagram, no science chart, no text labels, no mechanical machinery.
+  continuity: Visualize Garden lore organically; no exposition graphic.
+  camera: Close natural detail that suggests cosmic order.
+  blocking: Living structure foreground; characters softly present or implied beyond it.
+  emotional_intent: Sacred intelligence, hidden order.
+  next_handoff: Focus returns to Aura's origin.
+- storyboard_prompt_id: SB_CH10_SC03_SH005
+  source_shot_id: CH10_SC03_SH005
+  source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  scene_or_sequence_id: CH10_SC03
+  title: Aura Born of the Garden
+  status: draft
+  prompt: Reverent storyboard frame of Aura standing within Garden light, surrounded by impossible warm flora, seen through Aaron's newly understanding perspective as Eternity explains she was born of the Garden.
+  negative_prompt: no angel wings, no goddess statue pose, no adult glamorization, no literal birth scene.
+  continuity: Aura is autonomous, sacred, her own Ousia; not merely Aaron's projection.
+  camera: Aaron's view, reverent and intimate.
+  blocking: Aura central in Garden light; Aaron/Eternity present in relation if needed.
+  emotional_intent: Recognition, reverence, correction.
+  next_handoff: Aaron processes The Teacher's incomplete explanation.
+- storyboard_prompt_id: SB_CH10_SC03_SH007
+  source_shot_id: CH10_SC03_SH007
+  source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  scene_or_sequence_id: CH10_SC03
+  title: Time Rivers Branch
+  status: draft
+  prompt: Storyboard frame of Garden pathways or subtle light streams branching from the Kingdom like rivers of time, Aaron observing rather than understanding fully, Eternity guiding the idea without a lecture diagram.
+  negative_prompt: no literal clock tunnel, no calendar pages, no sci-fi time machine, no text labels.
+  continuity: Time does not flow as one uniform river; it branches from the Kingdom.
+  camera: Visualized branching movement, still grounded in the Garden.
+  blocking: Aaron placed where branching paths surround but do not swallow him.
+  emotional_intent: Intellectual awe, cosmic humility.
+  next_handoff: Eternity, Aura, and Aaron compose into the lineage reveal.
+- storyboard_prompt_id: SB_CH10_SC03_SH008
+  source_shot_id: CH10_SC03_SH008
+  source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  scene_or_sequence_id: CH10_SC03
+  title: Aura Is Eternity's Mother
+  status: draft
+  prompt: Still storyboard frame holding Eternity, Aura, and Aaron in one clear emotional triangle inside the Garden of Time as Eternity reveals Aura is his mother.
+  negative_prompt: no melodramatic shock pose, no family-tree graphic, no literal time-loop diagram.
+  continuity: This is lineage revelation; Aura remains calm and autonomous; Aaron is destabilized.
+  camera: Settle into a still legible emotional triangle.
+  blocking: Eternity, Aura, and Aaron placed so family relationship feels inevitable but impossible.
+  emotional_intent: Revelation, awe, emotional vertigo.
+  next_handoff: Aaron enters the final movement with a changed sense of time and family.

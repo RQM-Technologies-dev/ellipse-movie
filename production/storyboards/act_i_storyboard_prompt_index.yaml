@@ -30,36 +30,36 @@ prompt_sets:
   type: scene
   source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH06_SC03_storyboard_prompts.yaml
-  status: pending
+  status: drafted
 - id: CH08_SC04
   type: scene
   source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH08_SC04_storyboard_prompts.yaml
-  status: pending
+  status: drafted
 - id: CH09_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH09_SC03_storyboard_prompts.yaml
-  status: pending
+  status: drafted
 - id: CH10_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH10_SC03_storyboard_prompts.yaml
-  status: pending
+  status: drafted
 - id: CH11_SC03
   type: scene
   source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH11_SC03_storyboard_prompts.yaml
-  status: pending
+  status: drafted
 - id: CH11_SC04
   type: scene
   source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
   prompt_file: production/storyboards/prompts/scenes/CH11_SC04_storyboard_prompts.yaml
-  status: pending
+  status: drafted
 next_priority:
-- draft_remaining_visual_anchor_storyboard_prompts
-- review_prompt_schema_against_visual_direction
+- review_visual_anchor_storyboard_prompts
 - generate_remaining_scene_storyboard_prompts
+- prepare_storyboard_prompt_review
 hold_until_review:
 - video_prompts
 - generated_media

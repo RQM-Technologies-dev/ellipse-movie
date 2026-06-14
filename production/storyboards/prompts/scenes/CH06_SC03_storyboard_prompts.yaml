@@ -1,0 +1,83 @@
+prompt_set_id: SB_SET_CH06_SC03
+scene_id: CH06_SC03
+source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH06_SC03_SH001
+  source_shot_id: CH06_SC03_SH001
+  source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  scene_or_sequence_id: CH06_SC03
+  title: Quiet Night Deck
+  status: draft
+  prompt: Storyboard frame of Aaron climbing from the Elgia hull onto a quiet moonlit deck, open sea and starfield above, Jericks distant at the rudder, the ship mostly asleep.
+  negative_prompt: no storm, no crowded deck, no daylight, no modern ship details.
+  continuity: Elgia deck at late night; Aaron alone before finding Aura.
+  camera: Gentle discovery from cramped hull to open sky.
+  blocking: Aaron emerges foreground, empty deck midground, rudder and night sea background.
+  emotional_intent: Restless curiosity and uneasy quiet.
+  next_handoff: Aaron discovers Aura at the forecastle.
+- storyboard_prompt_id: SB_CH06_SC03_SH002
+  source_shot_id: CH06_SC03_SH002
+  source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  scene_or_sequence_id: CH06_SC03
+  title: Aura Against the Stars
+  status: draft
+  prompt: Storyboard frame of Aura standing near the forecastle against sea and immense starfield, calm and mysterious, Aaron approaching from behind or beside her.
+  negative_prompt: no angel wings, no glowing superhero effect, no romantic cliché pose.
+  continuity: Aura appears calm, young, mysterious, tied visually to the night sky.
+  camera: Calm lateral reveal, preserving ship rail and open sea geography.
+  blocking: Aura by rail, Aaron entering the frame, stars dominating above.
+  emotional_intent: Wonder, intimacy, unease.
+  next_handoff: Aaron's hunger leads to the sapphire fruit reveal.
+- storyboard_prompt_id: SB_CH06_SC03_SH003
+  source_shot_id: CH06_SC03_SH003
+  source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  scene_or_sequence_id: CH06_SC03
+  title: Sapphire Fruit Appears
+  status: draft
+  prompt: Close storyboard frame of Aura's hand offering a sapphire fruit in moonlight, Aaron suspicious and hungry, the fruit appearing too perfect and impossible.
+  negative_prompt: no glowing magic burst, no modern fruit, no comedy prop.
+  continuity: Aura creates the fruit because Aaron wanted it; first casual miracle of the scene.
+  camera: Simple close reveal, emotionally grounded.
+  blocking: Aura's hand foreground, Aaron's uncertain face midground.
+  emotional_intent: Casual impossibility, suspicion.
+  next_handoff: Aaron asks how she made it.
+- storyboard_prompt_id: SB_CH06_SC03_SH005
+  source_shot_id: CH06_SC03_SH005
+  source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  scene_or_sequence_id: CH06_SC03
+  title: Aura Reaches to the Sky
+  status: draft
+  prompt: Storyboard frame of Aura raising both arms toward the night sky from the Elgia deck, masts and stars framing her gesture, Aaron watching with growing fear.
+  negative_prompt: no combat magic, no lightning spell, no angelic halo.
+  continuity: Aura rotates her wrist and pulls downward; the gesture must be clear.
+  camera: Widen to include masts, deck, Aaron, and starfield.
+  blocking: Aura centered under sky; Aaron offset, reacting.
+  emotional_intent: Anticipation, impossible control.
+  next_handoff: Stars descend toward the deck.
+- storyboard_prompt_id: SB_CH06_SC03_SH006
+  source_shot_id: CH06_SC03_SH006
+  source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  scene_or_sequence_id: CH06_SC03
+  title: Stars Descend Over the Elgia
+  status: draft
+  prompt: Wide storyboard frame of luminous motes descending from the starfield over the Elgia deck, blues, yellows, and whites floating around Aaron and Aura like a river of sky.
+  negative_prompt: no fireworks, no modern hologram, no laser show, no chaotic explosion.
+  continuity: This is serene and impossible, not violent; Jericks may remain distant at rudder.
+  camera: Floating movement implied through foreground motes and ship geometry.
+  blocking: Aaron inside the lights, Aura controlling gesture, foremast and deck readable.
+  emotional_intent: Awe turning into fear.
+  next_handoff: Aaron is surrounded by stars and freezes.
+- storyboard_prompt_id: SB_CH06_SC03_SH009
+  source_shot_id: CH06_SC03_SH009
+  source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  scene_or_sequence_id: CH06_SC03
+  title: Aaron Forgets to Breathe
+  status: draft
+  prompt: Tight storyboard frame of Aaron frozen on the deck after the stars return to the sky, Aura gently nudging him back into breath, his face terrified that reality has broken.
+  negative_prompt: no slapstick, no exaggerated horror face, no monster.
+  continuity: The Elgia continues as if nothing happened; Aaron's fear carries into the hull scene.
+  camera: Close emotional beat after spectacle.
+  blocking: Aaron foreground frozen, Aura beside him, quiet deck behind.
+  emotional_intent: Psychological shock, fragile reassurance.
+  next_handoff: Aaron retreats below deck to try to sleep.

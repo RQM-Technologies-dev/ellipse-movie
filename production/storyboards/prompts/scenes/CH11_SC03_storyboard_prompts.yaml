@@ -1,0 +1,70 @@
+prompt_set_id: SB_SET_CH11_SC03
+scene_id: CH11_SC03
+source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH11_SC03_SH001
+  source_shot_id: CH11_SC03_SH001
+  source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+  scene_or_sequence_id: CH11_SC03
+  title: Toward the Portara Chamber
+  status: draft
+  prompt: Storyboard frame of Eternity leading Aaron through a third-floor amethyst palace corridor, originless light guiding them, the architecture solemn and ordered before the final threshold.
+  negative_prompt: no dungeon corridor, no modern hallway, no horror lighting, no text signs.
+  continuity: Kingdom palace, amethyst architecture, Eternity as guide, Portara ahead.
+  camera: Measured tracking through amethyst architecture.
+  blocking: Eternity ahead, Aaron following, corridor lines guiding toward chamber.
+  emotional_intent: Solemn anticipation, burden.
+  next_handoff: The Portara is revealed.
+- storyboard_prompt_id: SB_CH11_SC03_SH002
+  source_shot_id: CH11_SC03_SH002
+  source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+  scene_or_sequence_id: CH11_SC03
+  title: Towering Pezzotaite Arch
+  status: draft
+  prompt: Storyboard frame revealing the towering Pezzotaite Portara arch inside an amethyst chamber, four times Aaron's height, geometric and organic, overwhelming but righteous in proportion.
+  negative_prompt: no ordinary doorway, no stone ruins, no sci-fi portal ring, no modern technology.
+  continuity: Portara is Pezzotaite, ancient, geometric, organic, final threshold.
+  camera: Reveal from Aaron's scale upward to the full arch.
+  blocking: Aaron small at base, arch dominating chamber, refracted light across walls.
+  emotional_intent: Awe, dread, inevitability.
+  next_handoff: Detail of crystal growth and refracted light.
+- storyboard_prompt_id: SB_CH11_SC03_SH003
+  source_shot_id: CH11_SC03_SH003
+  source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+  scene_or_sequence_id: CH11_SC03
+  title: Portara Crystal Detail
+  status: draft
+  prompt: Close storyboard frame of organic and geometric Pezzotaite crystals growing from the Portara base and sides, refracting originless light across amethyst walls.
+  negative_prompt: no cheap gemstone prop, no neon plastic, no technological interface.
+  continuity: Portara material identity must be clear and unique.
+  camera: Slow detail pass with refracted light.
+  blocking: Crystal growth fills foreground, Aaron/Eternity silhouettes optional for scale.
+  emotional_intent: Sacred object, ancient mechanism.
+  next_handoff: Eternity explains what the gate will do.
+- storyboard_prompt_id: SB_CH11_SC03_SH004
+  source_shot_id: CH11_SC03_SH004
+  source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+  scene_or_sequence_id: CH11_SC03
+  title: Mission Beside the Gate
+  status: draft
+  prompt: Storyboard frame of Eternity and Aaron circling or standing beside the Portara, the arch always present between or behind them as Eternity says Aaron's future is not his past.
+  negative_prompt: no lecture hall, no diagram, no casual doorway framing.
+  continuity: Portara sends Aaron to his world but not his past; emotional stakes before mechanics.
+  camera: Keep the gate present in the composition behind the dialogue.
+  blocking: Eternity weighted by staff, Aaron facing him, Portara looming.
+  emotional_intent: Responsibility, dread, destiny.
+  next_handoff: Aaron questions why he needs the gate.
+- storyboard_prompt_id: SB_CH11_SC03_SH008
+  source_shot_id: CH11_SC03_SH008
+  source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+  scene_or_sequence_id: CH11_SC03
+  title: Be Exactly Who You Are
+  status: draft
+  prompt: Still emotionally legible storyboard frame of Eternity answering Aaron in refracted Portara light, staff in hand, saying the mission is for Aaron to be exactly who he is.
+  negative_prompt: no heroic speech pose, no battle stance, no text caption.
+  continuity: Moral instruction before final gate crossing; mechanics remain incomplete.
+  camera: Still, clear, emotionally direct.
+  blocking: Eternity framed by light, Aaron receiving the burden, Portara present.
+  emotional_intent: Weight, simplicity, calling.
+  next_handoff: Aura enters and steadies Aaron before the final question.

@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after preparing the Act I storyboard prompt layer on `main`.
+This is the current working checklist after drafting the remaining visual-anchor storyboard prompts on `main`.
 
 ## Completed
 
@@ -14,18 +14,13 @@ This is the current working checklist after preparing the Act I storyboard promp
 - Storyboard prompt schema added.
 - Act I storyboard prompt index added.
 - First-pass storyboard prompt files started from reviewed shot lists.
+- Visual-anchor storyboard prompts drafted for Overture, Rain of Lights, Aura's emergence, Stars over the Elgia, Cottage Creation, Cosmic Transit, Garden of Time, Portara, Father and Son at the Gate, and the Eros Market sequence.
 
 ## Immediate next tasks
 
-1. Draft the remaining visual-anchor storyboard prompt files:
-   - `CH06_SC03_storyboard_prompts.yaml`
-   - `CH08_SC04_storyboard_prompts.yaml`
-   - `CH09_SC03_storyboard_prompts.yaml`
-   - `CH10_SC03_storyboard_prompts.yaml`
-   - `CH11_SC03_storyboard_prompts.yaml`
-   - `CH11_SC04_storyboard_prompts.yaml`
-2. Generate storyboard prompts for the remaining scene shot lists after the visual anchors are complete.
-3. Review storyboard prompts against `docs/visual_direction.md`.
+1. Review the visual-anchor storyboard prompts against `docs/visual_direction.md`.
+2. Generate storyboard prompts for the remaining scene shot lists.
+3. Review all storyboard prompts for continuity, camera language, and storyboard usability.
 4. Keep video prompts and generated media downstream of storyboard prompt review.
 
 ## Hold until storyboard prompt review
@@ -39,16 +34,13 @@ Do not start video prompts or generated media until:
 
 ## Recommended next commit
 
-`Draft remaining visual-anchor storyboard prompts`
+`Generate remaining Act I storyboard prompts`
 
 Expected output:
 
-- first-pass storyboard prompts for Stars over the Elgia,
-- Cottage Creation,
-- Cosmic Transit,
-- Garden of Time,
-- Portara,
-- Father and Son at the Gate.
+- storyboard prompt files for the remaining scene shot lists,
+- updated `production/storyboards/act_i_storyboard_prompt_index.yaml`,
+- no video prompts until storyboard prompt review is complete.
 
 Run validation afterward:
 

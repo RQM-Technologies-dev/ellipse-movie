@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after updating the Act I treatment and beat sheet from the reviewed scene YAML files on `main`.
+This is the current working checklist after applying the human adaptation decisions to the Act I treatment and beat sheet on `main`.
 
 ## Completed
 
@@ -19,13 +19,13 @@ This is the current working checklist after updating the Act I treatment and bea
 - Clean Act I manuscript layer produced under `manuscript/clean/` without changing the raw manuscript.
 - Act I scene YAML files reviewed and filled with scene metadata.
 - Act I treatment and beat sheet updated from reviewed scene YAML.
+- Human adaptation decisions applied: no Act II framing, wordless Overture, augmented Teacher explanation, bittersweet Captain translation, and full/expanded Eros market.
 
 ## Immediate next tasks
 
-1. Perform a final human review of the filled scene YAML files, treatment, and beat sheet.
-2. Resolve the remaining adaptation questions in `adaptation/beat_sheet.md`.
-3. Mark approved scene YAML files from `reviewed` to `locked`.
-4. After scenes are locked, begin Act I shot-list generation under `production/shotlists/`.
+1. Decide whether the Eros market needs additional micro-scenes before lock.
+2. If no new Eros micro-scenes are needed, mark approved scene YAML files from `reviewed` to `locked`.
+3. After scenes are locked, begin Act I shot-list generation under `production/shotlists/`.
 
 ## Hold until lock
 
@@ -34,16 +34,16 @@ Do not start storyboard prompts, video prompts, or generated media until:
 - scene statuses are locked,
 - character and location IDs remain stable after review,
 - Aura / Einai / Ousia continuity remains confirmed,
-- Portara / Act II handoff is clarified.
+- the Portara ending is confirmed as the film endpoint.
 
 ## Recommended next commit
 
-`Lock reviewed Act I scene YAML files after human approval`
+`Lock reviewed Act I scene YAML files after Eros market decision`
 
 Expected output:
 
 - Approved `adaptation/scenes/CH##_SC##.yaml` statuses move from `reviewed` to `locked`.
-- Any scene-boundary edits from human review are applied.
+- Any additional Eros market micro-scenes are added before lock if needed.
 - Treatment and beat sheet remain aligned with the locked scene sequence.
 
 Run validation afterward:

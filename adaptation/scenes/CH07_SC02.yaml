@@ -6,16 +6,18 @@ time_of_day: day
 characters:
 - CHAR_AARON
 - CHAR_AURA
-scene_purpose: Turn wonder into frustration as Aaron and Aura fail to find The Teacher.
-emotional_turn: Excitement erodes into suspicion and fatigue.
-plot_turn: Aaron realizes Eros is too large to search casually and notices how easily things happen around Aura.
-summary: Aaron and Aura push through the crowded Eros market, passing merchants, food, fabric, scopes, birds, and alleys. The city delights Aaron at first, but his doubts return as the search goes nowhere.
+scene_purpose: Turn wonder into frustration as Aaron and Aura fail to find The Teacher while discovering Eros as a living fantasy world.
+emotional_turn: Excitement erodes into suspicion and fatigue, then sets up renewed hope through the clue chain.
+plot_turn: Aaron realizes Eros is too large to search casually and notices how easily people and circumstances bend around Aura.
+summary: Aaron and Aura enter the crowded Eros market as one continuous chain of discoveries: vendors, foods, fabrics, scopes, birds, alleys, fragrance, the flower shop clue, twilight fatigue, and the Academy textbook clue. The city delights Aaron at first, but his doubts return as the search seems to expand rather than narrow.
 key_dialogue: Market calls such as 'Pocket Scopes!' and 'Euclidian roots!' define the soundscape.
 props:
 - market stalls
 - pocket scopes
 - fabric stand
 - spice smells
-continuity_notes: Aaron's suspicion about Aura's silver and influence should simmer through the market sequence.
-adaptation_notes: Can be partly montage, but preserve the sense of sensory overload.
+- vendor calls
+- lamplighters
+continuity_notes: Aaron's suspicion about Aura's silver and influence should simmer through the market sequence. This scene should link directly into the flower shop, textbook boy, West Eros Stables, Peridot, and the ride to the Academy.
+adaptation_notes: Do not play this as a compressed montage. Treat it as a continuous stitched sequence of chained events, with Eros world-building as a major audience reward. See `adaptation/sequences/CH07_eros_market_sequence.yaml` and `docs/visual_direction.md`.
 status: reviewed

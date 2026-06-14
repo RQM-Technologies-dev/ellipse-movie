@@ -1,0 +1,18 @@
+character_id: CHAR_ETERNITY
+name: Eternity / The Father of Time
+age_range: ageless; appears elderly
+role: cosmic guide / Father of Time / Aaron and Aura's son
+physical_description: Epic figure with long white hair, beard to the sternum, brilliant ice-blue eyes, ivory cloak, and a staff as tall as his body.
+wardrobe: Ivory cloak and hood; carries tall staff.
+personality: Grand, warm, amused, authoritative, burdened by knowledge of future danger.
+character_arc: Appears first as a mysterious palace heir, later welcomes Aaron to the Kingdom, reveals Aura's origin, and completes the Act I father-son loop.
+relationships:
+- character_id: CHAR_AARON
+  relationship: son to Aaron, though revealed before Aaron can fully understand the causal loop
+- character_id: CHAR_AURA
+  relationship: son of Aura / Spirit of All Things
+- character_id: CHAR_TEACHER
+  relationship: knows The Teacher's role in securing Aaron's future
+voice_notes: Grandfatherly warmth blended with cosmic authority; can be playful when withholding future knowledge.
+visual_reference_notes: Must visually echo Aaron enough that the father-son reveal feels inevitable in retrospect.
+continuity_notes: His first Overture appearance and final Portara reveal should mirror each other.

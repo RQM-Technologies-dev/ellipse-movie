@@ -1,0 +1,20 @@
+character_id: CHAR_CAPTAIN_ELGIA
+name: Captain of the Elgia
+age_range: middle-aged adult
+role: passage-giver / motif translator
+physical_description: Broad, disheveled man with gritty scars and possessive juvenile eyes; intimidating deck presence.
+wardrobe: Practical sea captain clothing, weathered and salt-worn.
+personality: Gruff, suspicious, nostalgic beneath the surface, amused by the Elgia inscription.
+character_arc: Begins as obstacle to passage, becomes practical ally and translator of the phrase that pays off at the Portara.
+relationships:
+- character_id: CHAR_AARON
+  relationship: grants passage and offers knowledge of The Teacher
+- character_id: CHAR_AURA
+  relationship: softened by Aura's presence
+- character_id: CHAR_MATIS
+  relationship: crew member
+- character_id: CHAR_JERICKS
+  relationship: crew member
+voice_notes: Booming, blunt, sea-worn; can shift unexpectedly into nostalgia.
+visual_reference_notes: Weathered fantasy sea captain; no direct pirate caricature.
+continuity_notes: Translation of `Elgia lore lasant, enta ty` must match later Garden/Portara use.

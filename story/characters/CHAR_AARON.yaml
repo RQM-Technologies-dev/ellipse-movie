@@ -1,0 +1,20 @@
+character_id: CHAR_AARON
+name: Aaron
+age_range: teenage
+role: protagonist
+physical_description: Lean teenage boy with sun-darkened skin and frightening ocean-blue eyes, often described as if haunted by the ocean.
+wardrobe: Practical farm and travel clothing; torn and bruised after the rain of lights; later ship/travel wear.
+personality: Restless, empathetic, imaginative, duty-bound but eager for a larger world; prone to doubt when reality stops behaving normally.
+character_arc: Begins as a farm boy longing for freedom, follows Aura into mystery, doubts her reality, accepts imagination as creative force, and steps through the Portara into cosmic responsibility.
+relationships:
+- character_id: CHAR_AURA
+  relationship: co-protagonist, guide, love/fate bond, creative partner
+- character_id: CHAR_ETERNITY
+  relationship: future son, revealed at the Portara
+- character_id: CHAR_TEACHER
+  relationship: temporary mentor who destabilizes Aaron's belief in Aura
+- character_id: CHAR_PERIDOT
+  relationship: mount and threshold companion in Eros
+voice_notes: Plainspoken, sincere, often overwhelmed; internal questions should drive his perspective.
+visual_reference_notes: YA fantasy protagonist; natural rural texture; ocean-blue eyes are a key visual anchor. Avoid celebrity references.
+continuity_notes: Aaron's eyes, longing for flight/freedom, connection to the river, and father-son link to Eternity must remain consistent.

@@ -1,0 +1,106 @@
+sequence_id: SEQ_CH07_EROS_MARKET
+chapter: CH07
+title: Eros Market Continuous Sequence
+status: reviewed
+source_scenes:
+- CH07_SC01
+- CH07_SC02
+- CH07_SC03
+- CH07_SC04
+- CH07_SC05
+primary_location: LOC_EROS_MARKET
+secondary_locations:
+- LOC_EROS_PORT
+- LOC_EROS_FLOWER_SHOP
+- LOC_WEST_EROS_STABLES
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_FLOWER_SELLER
+- CHAR_EROS_BOY
+- CHAR_STABLE_KEEPER
+- CHAR_PERIDOT
+sequence_purpose: Turn arrival in Eros into a continuous fantasy-world discovery sequence that carries Aaron and Aura from port awe to Academy clue to Peridot without feeling like separate plot errands.
+sequence_design: The Eros Market should play as one stitched chain of events. It is not a compressed montage. The camera, blocking, crowd movement, vendor calls, Aura's ease with people, and Aaron's changing emotional state should carry the audience continuously from one discovery to the next.
+emotional_progression:
+- awe
+- delight
+- sensory overload
+- curiosity
+- suspicion
+- fatigue
+- renewed hope
+- urgency
+- threshold momentum
+plot_progression:
+- Aaron steps off the Elgia and sees Eros at full scale.
+- Aaron and Aura enter the market current and are carried through competing sights, smells, vendors, and bodies.
+- Aaron's wonder is repeatedly interrupted by signs that Aura can move through this world with unnatural ease.
+- The flower shop offers the first meaningful clue: The Teacher runs an Academy up north.
+- The market keeps opening outward instead of collapsing into a simple objective.
+- Twilight arrives, lamplighters appear, and the search begins to feel lost.
+- The Academy textbook boy provides the route to Tritaselo Pass.
+- The West Eros Stables become the practical exit from the market sequence.
+- Aura's silver secures Peridot, and Aaron glimpses the world as an extension of Aura when helping her mount.
+- The sequence exits into the ride toward the Academy.
+continuous_subbeats:
+- beat_id: ERM_01
+  title: First Step Off the Elgia
+  function: Move Aaron from shipboard contained world into the scale of Eros.
+  visual_notes: Ship ramp, harbor, vanilla sails, banners, dockhands, market beyond.
+- beat_id: ERM_02
+  title: Market Current
+  function: Let the crowd physically carry Aaron and Aura into the city.
+  visual_notes: Bodies crossing foreground, vendors calling, food smoke, fabrics, birds, scopes.
+- beat_id: ERM_03
+  title: Aaron Pulls Toward Wonder
+  function: Show Aaron trying to take in everything at once.
+  visual_notes: Aaron points, turns, nearly collides, tugs Aura toward details.
+- beat_id: ERM_04
+  title: Aura Moves Too Easily
+  function: Seed Aaron's suspicion that people and circumstances bend around Aura.
+  visual_notes: People soften, make room, accept silver, or redirect without obvious magic.
+- beat_id: ERM_05
+  title: Strange Vendor Chain
+  function: Expand the fantasy texture before the plot clue.
+  visual_notes: Cardamom, chili, purple fabric, bird seller, Euclidian roots, pocket scopes, snargle pods.
+- beat_id: ERM_06
+  title: Fragrance Pull
+  function: Let the market itself guide Aura and Aaron to the flower shop.
+  visual_notes: Sound drops slightly as scent and color draw them down a side alley.
+- beat_id: ERM_07
+  title: Flower Shop Pocket of Calm
+  function: Provide the first Academy clue while contrasting the loud market.
+  visual_notes: Mint doorway, open windows, protocultures, older flower seller.
+- beat_id: ERM_08
+  title: Back Into the Market
+  function: Avoid making the clue feel like the end of the market; Eros continues around them.
+  visual_notes: Re-enter noise, crowds, late-day commerce, Aaron's doubt returning.
+- beat_id: ERM_09
+  title: Twilight Fatigue
+  function: Shift the sequence from wonder into worry as the search seems to fail.
+  visual_notes: Merchants closing, lamplighters, lavender sky, Aaron's legs and confidence fading.
+- beat_id: ERM_10
+  title: Academy Textbook Boy
+  function: Deliver the practical route to the Academy through a character moment rather than exposition dump.
+  visual_notes: Thick green book, silver triangle, defensive boy, directions to Tritaselo Pass.
+- beat_id: ERM_11
+  title: Race to West Eros Stables
+  function: Convert clue into movement before night fully falls.
+  visual_notes: Passing closing stalls, stable banner, hay fork, practical urgency.
+- beat_id: ERM_12
+  title: Peridot and Aura's Silver
+  function: Secure the horse and show another instance of Aura bending circumstances.
+  visual_notes: Stable keeper changes attitude, Peridot revealed, silver in Aura's hand.
+- beat_id: ERM_13
+  title: Aaron's Aura Glimpse
+  function: Plant the Garden/All Things connection before the Kingdom reveal.
+  visual_notes: When Aaron helps Aura mount, the stable, horse, arm, face, and world briefly feel like one extension of Aura.
+- beat_id: ERM_14
+  title: Exit the Market Into Night
+  function: End the sequence by transforming world-building into forward adventure.
+  visual_notes: Peridot canters away, market lanterns fall behind, road darkens toward Tritaselo Pass.
+blocking_notes: Treat the sequence as a chain of motivated handoffs. Each vendor, crowd movement, clue, sound, color, or character look should lead naturally into the next beat.
+camera_notes: Prefer motivated camera movement, foreground/midground/background storytelling, reveals through blocking, and continuous spatial flow. The camera should discover Eros with Aaron, not merely catalogue it.
+continuity_notes: Do not lose the core story function: the market must still deliver the flower-shop clue, Academy textbook clue, West Eros Stables, Peridot, and Aaron's growing suspicion about Aura.
+adaptation_notes: This sequence is a fantasy-world reward. Keep or expand it. Do not compress it into a montage unless a later runtime pass requires it.

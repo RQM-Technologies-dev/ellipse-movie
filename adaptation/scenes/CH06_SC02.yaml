@@ -2,17 +2,21 @@ scene_id: CH06_SC02
 chapter: CH06
 title: The First Point of Aries
 location: LOC_ELGIA_DECK
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_CAPTAIN_ELGIA
 scene_purpose: Make The Teacher credible through celestial navigation and ship lore.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Curiosity becomes hope.
+plot_turn: The Captain confirms The Teacher's wisdom and strengthens Aaron's reason to seek him.
+summary: Aaron asks the Captain about The Teacher. The Captain points to the Ram and the First Point of Aries, explaining how The Teacher taught celestial navigation and balance.
+key_dialogue: 'Captain: ''Whatever you want from The Teacher, I’d say he’s probably got the answer.'''
+props:
+- stars
+- The Ram constellation
+- ship rail
+- night sky
+continuity_notes: This anchors The Teacher in astronomy and balance before the Academy reveal.
+adaptation_notes: Keep the star navigation language because it connects The Teacher to the cosmic framework.
+status: reviewed

@@ -2,17 +2,21 @@ scene_id: CH07_SC04
 chapter: CH07
 title: Academy Textbook and West Eros Stables
 location: LOC_EROS_MARKET
-time_of_day: ''
+time_of_day: twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_EROS_BOY
 scene_purpose: Give practical directions and move Aaron and Aura to Peridot.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Defeat becomes renewed momentum.
+plot_turn: A boy's Academy textbook provides the route to Tritaselo Pass and the need for a horse.
+summary: As the market closes, Aaron sees a boy with a green Academy textbook bearing a silver triangle. The boy gives directions north through the city to Tritaselo Pass, and Aaron and Aura hurry to West Eros Stables.
+key_dialogue: 'Boy: ''Exit north through the city and follow the main route to Tritaselo Pass.'''
+props:
+- green textbook
+- silver triangle
+- market lamps
+- West Eros Stables banner
+continuity_notes: Textbook title and triangle marker connect Eros to the Academy's visual system.
+adaptation_notes: This scene may include the stable keeper and Peridot acquisition if compressed.
+status: reviewed

@@ -2,16 +2,19 @@ scene_id: CH06_SC04
 chapter: CH06
 title: Aaron Tries to Sleep
 location: LOC_ELGIA_HULL
-time_of_day: ''
+time_of_day: late night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Ground the cosmic reveal in Aaron's anxiety and fear for his sanity.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Shock collapses into fragile reassurance.
+plot_turn: Aaron retreats to the hull and tests whether ordinary reality still holds.
+summary: After the star reveal, Aaron awkwardly returns to the room by the spices and lies down while his heart pounds. He says good night to Aura as if checking whether the world still works.
+key_dialogue: 'Aaron: ''Good night, Aura.'' Aura: ''Good night, Aaron.'''
+props:
+- two cots
+- spice racks
+- blankets
+continuity_notes: This emotional destabilization prepares the Eros/Teacher crisis.
+adaptation_notes: A short quiet beat after spectacle; let the audience sit with Aaron's fear.
+status: reviewed

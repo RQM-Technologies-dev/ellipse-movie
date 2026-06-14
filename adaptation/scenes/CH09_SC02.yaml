@@ -2,17 +2,21 @@ scene_id: CH09_SC02
 chapter: CH09
 title: Untethering the Imagination
 location: LOC_FOREST_COTTAGE
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_PERIDOT
 scene_purpose: 'Teach the mechanism of travel: release the mind from the present place.'
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Resistance becomes connection.
+plot_turn: Aaron sees the Kingdom in his mind and begins to untether from the present.
+summary: Aura tells Aaron he must release his imagination and stop holding onto the present place. Through a pacifying connection, Aaron sees the Kingdom and understands wordlessly that he and Aura are a team.
+key_dialogue: 'Aura: ''Close your eyes, Aaron.'''
+props:
+- Peridot
+- forest ground
+- gem
+- cottage
+continuity_notes: The pacification echoes Aaron wading into the split river before he consciously chose to.
+adaptation_notes: Make this an emotional mind-link scene, not just a magic tutorial.
+status: reviewed

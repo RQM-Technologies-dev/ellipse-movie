@@ -2,17 +2,21 @@ scene_id: CH11_SC03
 chapter: CH11
 title: The Portara
 location: LOC_PORTARA_CHAMBER
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ETERNITY
 scene_purpose: Present Aaron's mission and the gate that will send him to a new beginning.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Curiosity becomes dread and responsibility.
+plot_turn: Eternity shows Aaron the Portara and explains that his future is not his past.
+summary: Eternity leads Aaron to a third-floor chamber containing a towering Pezzotaite arch. He explains that the Portara will send Aaron back to his world, but somewhere he can start from the beginning, because others will follow the path he lays out.
+key_dialogue: 'Eternity: ''Your future is not your past.'''
+props:
+- Pezzotaite arch
+- amethyst walls
+- Eternity's staff
+- refracted light
+continuity_notes: The Portara must be a threshold into Act II, not a casual travel device.
+adaptation_notes: Keep the mechanics incomplete; the emotional stakes matter more than the rules.
+status: reviewed

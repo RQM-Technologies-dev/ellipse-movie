@@ -2,7 +2,7 @@ scene_id: CH06_SC01
 chapter: CH06
 title: Life Aboard the Elgia
 location: LOC_ELGIA_DECK
-time_of_day: ''
+time_of_day: voyage day four, twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
@@ -10,11 +10,15 @@ characters:
 - CHAR_ILYICH
 - CHAR_CAPTAIN_ELGIA
 scene_purpose: Build shipboard routine and temporary community before the next supernatural reveal.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Anxiety settles into camaraderie.
+plot_turn: Aaron grows comfortable enough aboard the Elgia to ask the Captain about The Teacher.
+summary: By the fourth day, Aaron's anxieties fade as the crew becomes familiar. He learns knots, watches ship routines, and shares twilight meals before standing with Aura and the Captain under the stars.
+key_dialogue: Captain jokingly calls Aaron and Aura his stowaways.
+props:
+- knots
+- meal barrel
+- forecastle
+- deck rail
+continuity_notes: Aaron's shipboard ease should contrast with his later anxiety as Eros approaches.
+adaptation_notes: A montage can condense this scene while preserving the sense of community.
+status: reviewed

@@ -2,17 +2,21 @@ scene_id: CH08_SC02
 chapter: CH08
 title: Make Us a Light
 location: LOC_TRITASELO_PASS
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_PERIDOT
 scene_purpose: Begin Aaron's test of Aura through direct imagined creation.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Denial becomes first confirmation.
+plot_turn: Aura creates suspended fire exactly as Aaron asks.
+summary: In the dark woods, Aaron confronts Aura with The Teacher's explanation. Aura offers to show him, and when he asks her to make a light, a fire appears suspended between branches.
+key_dialogue: 'Aaron: ''Make us a light.'''
+props:
+- suspended fire
+- trees
+- Peridot
+- dark path
+continuity_notes: Aura does not deny The Teacher in the way Aaron wants; she demonstrates instead.
+adaptation_notes: This is the first clear test, so keep the effect simple and undeniable.
+status: reviewed

@@ -2,15 +2,18 @@ scene_id: CH03_SC01
 chapter: CH03
 title: Aaron Wakes Under the Stars
 location: LOC_LAKE_TARA
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
-scene_purpose: Shift peaceful longing into dread through rumble, vibration, and unnaturally clear stars.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Shift the tone from peaceful longing into dread.
+emotional_turn: Drowsy confusion becomes alarm.
+plot_turn: The first rumble and ground vibration announce that something unnatural is moving through Tara.
+summary: Aaron wakes after dark under a sky crowded with stars. He hears a rumble, feels the ground vibrate, and realizes the sound is moving like something passing by rather than weather or earthquake.
+key_dialogue: 'Aaron''s fear: ''Was this an Earthquake?'''
+props:
+- star reflections
+- lake horizon
+- ground vibration
+continuity_notes: The lake's star reflections connect ordinary Tara to the cosmic imagery that follows.
+adaptation_notes: 'Build sound design gradually: rumble, silence, vibration, then light.'
+status: reviewed

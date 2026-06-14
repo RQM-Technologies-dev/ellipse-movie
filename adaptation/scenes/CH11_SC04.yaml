@@ -2,17 +2,21 @@ scene_id: CH11_SC04
 chapter: CH11
 title: Father and Son at the Gate
 location: LOC_PORTARA_CHAMBER
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ETERNITY
 scene_purpose: End Act I with Eternity's reveal and Aaron walking through the Portara.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Fear resolves into trust and impossible grief.
+plot_turn: Eternity reveals the father-son connection and Aaron crosses through the Portara.
+summary: Aura enters and reassures Aaron by her presence. Aaron asks whether he will see Eternity again and whether he will die; Eternity answers by calling him Dad and repeating the translated Elgia phrase. Aaron walks through the gate.
+key_dialogue: 'Eternity: ''O, Dad… The Horizon of Your Love Has No End.'''
+props:
+- Portara
+- Aura's smile
+- Eternity's staff
+- refracted light
+continuity_notes: This is the Act I endpoint and must echo the Overture's heir thinking of his father.
+adaptation_notes: Cut Act I on Aaron entering the gate. Do not explain where he lands until Act II.
+status: reviewed

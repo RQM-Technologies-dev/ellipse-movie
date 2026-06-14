@@ -2,16 +2,20 @@ scene_id: CH03_SC04
 chapter: CH03
 title: Thought-Mirroring Panic
 location: LOC_TARA_RIVER
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
-scene_purpose: Establish Aura's mind-emotion link with Aaron and end the inciting sequence with her name.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Establish Aura's mind-emotion link with Aaron and end the inciting sequence by naming her.
+emotional_turn: Empathy turns to fear, then brief stillness.
+plot_turn: Aaron realizes Aura is voicing his thoughts; his panic culminates in her declaration of identity.
+summary: Aaron pulls Aura from the eroding mound, but she begins repeating thoughts he has not spoken. His fear rises until he mentally demands everything stop; the river quiets and she tells him her name.
+key_dialogue: 'Aura: ''My name is Aura.'''
+props:
+- eroding mound
+- river current
+- wet clothes
+- shoreline
+continuity_notes: The thought-mirroring must later support The Teacher's Ousia explanation without making Aura only imaginary.
+adaptation_notes: 'This scene should end the inciting incident with a clear character hook: Aura is here, and she knows Aaron.'
+status: reviewed

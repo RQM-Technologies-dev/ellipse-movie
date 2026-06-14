@@ -2,16 +2,20 @@ scene_id: CH11_SC02
 chapter: CH11
 title: Plaque in the Garden
 location: LOC_GARDEN_OF_TIME
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Bring the Elgia phrase into the Kingdom and prepare its final emotional use.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Peace becomes renewed curiosity and nervousness.
+plot_turn: Aaron finds the Elgia phrase engraved in the Garden, proving the motif is cosmic, not just ship lore.
+summary: Aaron imagines the cottage life he could have with Aura, then wonders what Eternity wants. On the way back, he uncovers a plaque beneath topaz ivy and recognizes the phrase from the Captain's door.
+key_dialogue: 'Plaque text: ''ELGIA LORE LASANT, ENTA TY.'''
+props:
+- topaz ivy
+- engraved plaque
+- semi-transparent fruit
+- Garden path
+continuity_notes: This phrase must match the Elgia inscription and set up Eternity's final translation.
+adaptation_notes: Keep the plaque discovery quiet and mysterious; it is the final motif setup.
+status: reviewed

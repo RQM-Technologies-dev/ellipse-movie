@@ -2,16 +2,20 @@ scene_id: CH04_SC02
 chapter: CH04
 title: Recovery and Memory
 location: LOC_AARON_FARM
-time_of_day: ''
+time_of_day: midday
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Confirm that the rain of lights was not a dream and that Aura remains physically present.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Disbelief becomes grounded reality.
+plot_turn: Aaron wakes injured and discovers both his bandages and Aura in the next room.
+summary: Aaron wakes in pain, remembers the rain of lights and the girl, and realizes the wounds prove it happened. He finds Aura asleep in the next room and retreats to the kitchen to search for answers.
+key_dialogue: No key dialogue; the bandages prove reality.
+props:
+- bandages
+- bed
+- kitchen
+- pantry
+continuity_notes: Aaron's injuries should carry into the early farm and departure scenes.
+adaptation_notes: 'This is the verification beat: dream logic becomes physical consequence.'
+status: reviewed

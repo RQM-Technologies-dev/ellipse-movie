@@ -2,17 +2,21 @@ scene_id: CH10_SC03
 chapter: CH10
 title: Garden of Time
 location: LOC_GARDEN_OF_TIME
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ETERNITY
 scene_purpose: Reveal the Garden, Aura's origin, and the incomplete nature of The Teacher's explanation.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Wonder becomes revelation.
+plot_turn: Eternity explains the Garden's role, Aura's true nature, the Kingdom's time logic, and his lineage.
+summary: Eternity brings Aaron and Aura into the Garden of Time, where colors can be felt. He explains that the Garden provides the scaffolding of all beings, that Aura is the Spirit of All Things, and that she is his mother.
+key_dialogue: 'Eternity: ''Aura… is my mother.'''
+props:
+- Garden of Time
+- impossible colors
+- morphing leaves
+- nebula atrium
+continuity_notes: This corrects The Teacher without making him false. Aura is not merely Aaron's projection.
+adaptation_notes: This is a dense lore scene; stage it emotionally through Aaron's questions and Aura's presence.
+status: reviewed

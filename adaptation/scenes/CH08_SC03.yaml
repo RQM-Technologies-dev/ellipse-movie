@@ -2,16 +2,19 @@ scene_id: CH08_SC03
 chapter: CH08
 title: The Thousand-Faceted Gem
 location: LOC_TRITASELO_PASS
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Show that Aura can create something Aaron believes should be impossible.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Fear becomes awe and reluctant acceptance.
+plot_turn: Aura creates the impossible jewelry box and gem from Aaron's imagination.
+summary: Aaron imagines a jewelry box containing a stone of a color no one has seen. Aura produces it instantly, and Aaron opens the box to find an impossibly brilliant thousand-faceted gem.
+key_dialogue: 'Aura: ''Is there something impossible?'''
+props:
+- jewelry box
+- thousand-faceted gem
+- suspended fire
+continuity_notes: The gem's colors must connect to the later Garden of Time.
+adaptation_notes: Use the gem as a visual bridge between imagination, creation, and the Garden.
+status: reviewed

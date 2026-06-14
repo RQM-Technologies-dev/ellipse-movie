@@ -2,17 +2,21 @@ scene_id: CH07_SC05
 chapter: CH07
 title: Ride to the Academy
 location: LOC_TRITASELO_PASS
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_PERIDOT
 scene_purpose: Move from city commerce to ancient mystery while showing Aura's light-making.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Urgency becomes tense anticipation.
+plot_turn: Aaron and Aura leave Eros on Peridot, follow the Academy marker, and reach the bluffside structure.
+summary: Aura's silver secures Peridot, and Aaron glimpses everything as an extension of Aura while helping her mount. They ride into night, Aura raises a hovering light, and the pine marker leads them to the Academy.
+key_dialogue: 'Aaron: ''There, that’s the sign of the Academy.'''
+props:
+- Peridot
+- hovering light
+- pine marker
+- silver triangle
+continuity_notes: Aaron's Peridot vision foreshadows Aura's connection to the Garden and all things.
+adaptation_notes: Keep the ride dreamlike; it bridges market realism and Academy metaphysics.
+status: reviewed

@@ -2,16 +2,20 @@ scene_id: CH07_SC08
 chapter: CH07
 title: The Den Conversation
 location: LOC_ACADEMY_DEN
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_TEACHER
 scene_purpose: Force Aaron to confront the possibility that Aura is his imagination made substance.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Shock hardens into internal crisis.
+plot_turn: The Teacher privately presses Aaron to recognize how Aura reflects his wants and thoughts.
+summary: 'In the warm den, The Teacher reveals he knows Aaron''s name and speaks more directly: Aura is without form and appears as what Aaron wants her to be. Aaron realizes the explanation fits the mirrored thoughts, silver, fruit, and stars.'
+key_dialogue: 'Teacher: ''Let’s talk about Aura.'''
+props:
+- fire
+- rose cushion
+- round table
+- pine smoke
+continuity_notes: Aaron leaves this scene emotionally primed to flee and test Aura.
+adaptation_notes: This is the midpoint crisis. Keep the fire warm but the truth suffocating.
+status: reviewed

@@ -2,17 +2,21 @@ scene_id: CH07_SC07
 chapter: CH07
 title: The Teacher Names Aura
 location: LOC_ACADEMY_LIBRARY
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_TEACHER
 scene_purpose: Deliver the Einai/Ousia explanation and destabilize Aaron's faith in Aura.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Hope for answers becomes existential shock.
+plot_turn: The Teacher reframes Aura as Einai/Ousia and says Aaron is the one with answers about her.
+summary: The Teacher leads Aaron and Aura into the Athenaeum, recognizes Tara, and says Aaron came for answers about Aura. He explains Aura as energy without form that becomes the substance of human imagination.
+key_dialogue: 'Teacher: ''Aura is an Einai… she is… energy without form.'''
+props:
+- Athenaeum
+- illuminated scrolls
+- gray robes
+- library levels
+continuity_notes: The explanation must be true enough to destabilize Aaron but incomplete enough for Eternity to correct later.
+adaptation_notes: Keep the language clear; the scene is philosophical but must play emotionally through Aaron.
+status: reviewed

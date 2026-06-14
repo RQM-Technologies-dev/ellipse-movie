@@ -2,16 +2,19 @@ scene_id: CH04_SC01
 chapter: CH04
 title: Return to the Farm
 location: LOC_TARA_WOODS
-time_of_day: ''
+time_of_day: pre-dawn to sunrise
 characters:
 - CHAR_AARON
 - CHAR_AURA
-scene_purpose: Let Aaron choose care and bring Aura out of danger.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Show Aaron choosing care for Aura and beginning their partnership.
+emotional_turn: Panic settles into protective responsibility.
+plot_turn: Aaron brings Aura away from the river and commits to helping her recover at his farm.
+summary: After the river encounter, Aaron notices Aura's injuries and asks her to come back to his farm for ointment and shelter. They walk through the dark woods toward sunrise, with Aura's strange statement that she is Tara deepening the mystery.
+key_dialogue: 'Aura: ''I am Tara, yes.'''
+props:
+- moonlit woods
+- scrapes
+- dawn horizon
+continuity_notes: Aura seems detached from pain; this supports later nonhuman/Ousia continuity.
+adaptation_notes: A quiet decompression after the inciting event; keep emotional intimacy and exhaustion.
+status: reviewed

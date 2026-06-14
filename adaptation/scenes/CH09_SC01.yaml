@@ -2,16 +2,20 @@ scene_id: CH09_SC01
 chapter: CH09
 title: Trust Conflict
 location: LOC_FOREST_COTTAGE
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Put Aaron's doubt and Aura's purpose in direct conflict.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Wonder curdles into suspicion.
+plot_turn: Aaron learns Aura's home is the Kingdom at the beginning and end of the universe, but he questions whether he has been guided into a trap.
+summary: Aura tells Aaron her home is a kingdom in a nebula at the beginning and end of the universe. Aaron fears the whole journey may have been engineered and questions how trustworthy she is.
+key_dialogue: 'Aura: ''We work together. You imagine and I create…'''
+props:
+- cottage
+- stream
+- gem
+- Peridot nearby
+continuity_notes: Do not make Aura manipulative; the conflict is Aaron's fear of agency and trust.
+adaptation_notes: This scene should clarify the rules of travel without over-explaining mechanics.
+status: reviewed

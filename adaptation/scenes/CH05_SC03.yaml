@@ -2,18 +2,22 @@ scene_id: CH05_SC03
 chapter: CH05
 title: Tara Falls Behind
 location: LOC_ELGIA_DECK
-time_of_day: ''
+time_of_day: departure, late afternoon
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ILYICH
 - CHAR_JERICKS
 scene_purpose: Mark the point of no return and Aaron's growing attachment to Aura.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Doubt becomes surrender to destiny.
+plot_turn: The Elgia casts off and Tara recedes behind Aaron.
+summary: The crew throws off the ropes, ivory sails unfurl, and the Elgia leaves port. Aaron notices Aura affecting sailors with unusual ease and realizes leaving has become as simple as walking through a door.
+key_dialogue: No central dialogue; Aaron's thought that he would follow Aura anywhere drives the scene.
+props:
+- ivory sails
+- ropes
+- Tara shoreline
+- nets
+continuity_notes: Jericks and Ilyich begin as shipboard texture; Aura's social influence must remain subtle.
+adaptation_notes: This is a visual point-of-no-return sequence, not just travel logistics.
+status: reviewed

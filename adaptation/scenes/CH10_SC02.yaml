@@ -2,17 +2,21 @@ scene_id: CH10_SC02
 chapter: CH10
 title: Palace of Impossible Rooms
 location: LOC_KINGDOM_BEGINNING_END
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ETERNITY
 scene_purpose: Make the cosmic rules visual through pendulum, tesseract, and impossible architecture.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Awe becomes intellectual vertigo.
+plot_turn: Eternity guides Aaron through impossible rooms toward the Garden of Time.
+summary: Inside the palace, Aaron sees crystal columns, an elliptical chamber with a pendulum and liquid metal, a rotating tesseract shadow, and morphing rooms. Eternity says there is one room he has wanted to show Aaron for years.
+key_dialogue: 'Eternity: ''There is only one I’ve been wanting to show you for years.'''
+props:
+- pendulum
+- liquid metal
+- tesseract shadow
+- spiral staircase
+continuity_notes: The palace should feel ordered and musical, not random surrealism.
+adaptation_notes: Use these rooms as visual exposition for time, balance, and impossible geometry.
+status: reviewed

@@ -2,15 +2,19 @@ scene_id: CH03_SC02
 chapter: CH03
 title: The Rain of Lights Attacks Tara
 location: LOC_TARA_VALLEY
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
-scene_purpose: Deliver the inciting spectacle and drive Aaron toward the river.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Deliver the inciting spectacle and physically force Aaron toward the river.
+emotional_turn: Fear escalates into survival panic.
+plot_turn: The rain of lights bombards Tara, and Aaron is blasted toward the threshold where Aura will appear.
+summary: Shockwaves and descending colors tear across Tara. Aaron runs through the valley toward the river, pulled by an irrational sensation of speed and direction, before an iron and turquoise explosion throws him backward.
+key_dialogue: 'Aaron''s panicked question: ''Is someone attacking?!'''
+props:
+- falling lights
+- shockwaves
+- panicked birds
+- iron/turquoise blast
+continuity_notes: The sequence must be terrifying before later being reinterpreted as Aura's creative force.
+adaptation_notes: Use the lore file's elemental palette, but stage it as disaster, not magic wonder.
+status: reviewed

@@ -2,15 +2,19 @@ scene_id: CH02_SC03
 chapter: CH02
 title: Lake Tara Sunset
 location: LOC_LAKE_TARA
-time_of_day: ''
+time_of_day: sunset into night
 characters:
 - CHAR_AARON
-scene_purpose: Close the ordinary-world day with Aaron wishing for something other than farm responsibility.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: End Aaron's ordinary-world day with a wish for something beyond farm responsibility.
+emotional_turn: Peaceful rest becomes vulnerable longing.
+plot_turn: Aaron falls asleep at Lake Tara, placing him in position for the rain of lights.
+summary: Aaron reaches Lake Tara and watches orange and crimson sunset over the water. He lies in the grass, wishes for something else to happen, and drifts to sleep while imagining the path back to the river.
+key_dialogue: No dialogue; the wish for something else is the scene's emotional statement.
+props:
+- grass clearing
+- sunset
+- Lake Tara
+- path memory
+continuity_notes: This is the final calm image before the inciting incident.
+adaptation_notes: Hold this beat long enough for the audience to feel what will be lost when the night erupts.
+status: reviewed

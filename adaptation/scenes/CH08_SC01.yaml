@@ -2,17 +2,21 @@ scene_id: CH08_SC01
 chapter: CH08
 title: Aaron Flees the Academy
 location: LOC_ACADEMY
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_PERIDOT
 scene_purpose: Externalize Aaron's fear by physically leaving The Teacher's explanation behind.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Internal crisis becomes outward escape.
+plot_turn: Aaron leaves the Academy with Aura but no longer trusts what she is.
+summary: After The Teacher leaves him to think, Aaron rushes past Aura, across the library, and out into the night. He mounts Peridot, takes Aura with him, and flees down the hill without knowing where to go.
+key_dialogue: 'Aura: ''Let’s get out of here.'''
+props:
+- Academy doors
+- Peridot
+- moonlight
+- woods
+continuity_notes: Aaron's refusal to look at Aura should contrast with his earlier fascination.
+adaptation_notes: Play this as a panic escape, not a planned departure.
+status: reviewed

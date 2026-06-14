@@ -2,18 +2,22 @@ scene_id: CH07_SC01
 chapter: CH07
 title: Arrival in Eros
 location: LOC_EROS_PORT
-time_of_day: ''
+time_of_day: morning
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_CAPTAIN_ELGIA
 - CHAR_JERICKS
 scene_purpose: Open the larger world and give Aaron his first view of Eros.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Sleep disruption turns into enchantment.
+plot_turn: The Elgia reaches Eros and Aaron steps off the ship into the city.
+summary: Crew footsteps wake Aaron as the Elgia arrives in Eros. He climbs to the deck, sees vanilla sails and a vast market, then races with Aura to the ramp and takes his first step off the ship.
+key_dialogue: 'Aaron: ''You ready?!'''
+props:
+- vanilla sails
+- anchor chains
+- dock ramp
+- market banners
+continuity_notes: Eros must feel much larger and more overwhelming than Tara.
+adaptation_notes: This is the new-world arrival image; sell scale, noise, and color.
+status: reviewed

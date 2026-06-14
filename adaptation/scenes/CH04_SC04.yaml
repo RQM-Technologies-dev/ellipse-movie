@@ -2,16 +2,20 @@ scene_id: CH04_SC04
 chapter: CH04
 title: Leaving Tara
 location: LOC_AARON_FARM
-time_of_day: ''
+time_of_day: two days later, day
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Commit Aaron to adventure and separate him from the farm life he has outgrown.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Hesitation becomes overwhelmed commitment.
+plot_turn: Aaron packs for Eros and leaves Tara with Aura.
+summary: Aura's silver removes the money obstacle, and Aaron's imagination fills with Eros. Two days later he packs his bag, takes a final look around Tara, and accepts Aura's promise that they will be a good team.
+key_dialogue: 'Aura: ''Trust in me, we’ll be a good team.'''
+props:
+- silver
+- packed bag
+- farm room
+- birds
+continuity_notes: This is Aaron's first deliberate break from his ordinary world.
+adaptation_notes: The departure should feel exciting but unnervingly easy because Aura is smoothing reality around him.
+status: reviewed

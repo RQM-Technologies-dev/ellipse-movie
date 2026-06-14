@@ -2,17 +2,22 @@ scene_id: CH08_SC04
 chapter: CH08
 title: The Cottage Is Created
 location: LOC_FOREST_COTTAGE
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_PERIDOT
 scene_purpose: Recontextualize the rain of lights as Aura's creative force and create the Act I love/home image.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Testing becomes emotional surrender.
+plot_turn: Aura creates a home from Aaron's imagination, and Aaron realizes the rain of lights was Aura.
+summary: Aaron asks Aura to create a strong home around a fresh spring. Aura erupts in pulses of color, elemental light, wind, and dust, forming a two-story cottage of petrified wood and amethyst around running water.
+key_dialogue: 'Aaron: ''You are more, much more… than my own imagination.'''
+props:
+- petrified wood cottage
+- amethyst
+- stream
+- suspended fire
+- dust
+continuity_notes: Reuse the rain-of-lights palette with the emotional charge of creation rather than terror.
+adaptation_notes: This is one of Act I's major visual set pieces. It should feel miraculous and intimate.
+status: reviewed

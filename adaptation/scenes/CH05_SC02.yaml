@@ -2,18 +2,22 @@ scene_id: CH05_SC02
 chapter: CH05
 title: Captain's Quarters
 location: LOC_ELGIA
-time_of_day: ''
+time_of_day: late afternoon
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_CAPTAIN_ELGIA
 - CHAR_MATIS
 scene_purpose: Secure passage to Eros and introduce the Elgia inscription.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Protective anxiety becomes uneasy success.
+plot_turn: Aura slips Aaron silver, the Captain accepts payment, and the ship prepares to cast off.
+summary: Matis brings Aaron and Aura to the Captain, whose door bears a silver inscription in a strange language. Aura secretly gives Aaron silver, the Captain takes it, and Matis is told to keep loading for departure.
+key_dialogue: 'Captain: ''Keep loading, Matis.'''
+props:
+- captain's door
+- silver inscription
+- eight silver pieces
+- ivory sails
+continuity_notes: The inscription must match the later Elgia phrase motif and Garden plaque.
+adaptation_notes: Do not translate the inscription yet; let it remain a planted mystery.
+status: reviewed

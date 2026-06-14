@@ -2,16 +2,19 @@ scene_id: CH04_SC03
 chapter: CH04
 title: The Teacher Objective
 location: LOC_AARON_FARM
-time_of_day: ''
+time_of_day: midday
 characters:
 - CHAR_AARON
 - CHAR_AURA
-scene_purpose: 'Give Aaron and Aura the first concrete goal: travel to Eros to find The Teacher.'
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: 'Give the story its first clear external objective: find The Teacher in Eros.'
+emotional_turn: Confusion becomes possibility.
+plot_turn: Aaron identifies The Teacher as someone who may explain the rain of lights and Aura.
+summary: In the kitchen, Aura asks if Aaron is thinking about Eros. Aaron remembers sailors' stories of The Teacher, the Astronomer of Eros, and Aura responds with certainty that they will know him.
+key_dialogue: 'Aura: ''We will.'''
+props:
+- bread
+- silver pieces
+- kitchen table
+continuity_notes: Aura's ability to respond to Aaron's thoughts continues the mind-emotion link.
+adaptation_notes: This scene turns mystery into a journey objective.
+status: reviewed

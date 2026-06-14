@@ -2,16 +2,20 @@ scene_id: CH08_SC05
 chapter: CH08
 title: Aura Wants to Go Home
 location: LOC_FOREST_COTTAGE
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Reveal Aura's own objective and prepare the leap beyond Eros.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Wonder shifts into apprehension about Aura's purpose.
+plot_turn: Aura reveals she can take Aaron anywhere he can imagine and wants to go home.
+summary: After the cottage appears, Aura tells Aaron she can take him places instantly, anywhere he can imagine. Aaron realizes she has a purpose of her own, and Aura names her destination as home.
+key_dialogue: 'Aura: ''My home.'''
+props:
+- cottage
+- stream
+- thousand-faceted gem
+- forest
+continuity_notes: Aura's objective must feel autonomous, not merely a response to Aaron's wants.
+adaptation_notes: This scene turns the romance/home image into a cosmic doorway.
+status: reviewed

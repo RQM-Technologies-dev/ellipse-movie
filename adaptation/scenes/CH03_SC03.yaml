@@ -2,16 +2,21 @@ scene_id: CH03_SC03
 chapter: CH03
 title: Aura Appears in the Split River
 location: LOC_TARA_RIVER
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
-scene_purpose: Introduce Aura through impact, vapor, empathy, and impossible recognition.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Introduce Aura as wounded, impossible, and tied to Aaron before either understands why.
+emotional_turn: Pain and disorientation become empathy and fascination.
+plot_turn: Aaron discovers the new mound in the split river and finds Aura emerging from blue/silver vapor.
+summary: Aaron wakes injured near the river and sees that the current has split around a new mound. In distorted air and dark vapor, a muddy young girl with turquoise eyes appears, speaks the Elgia phrase, and says Aaron's name.
+key_dialogue: Aura whispers 'Lasant… Enta ty' and says Aaron's name.
+props:
+- split river
+- new mound
+- blue/silver vapor
+- mud
+- scrapes
+continuity_notes: Aura's first image must preserve turquoise eyes, mud, wounds, and the phrase motif.
+adaptation_notes: Keep this intimate after the spectacle; the emotional beat is Aaron moving toward her pain.
+status: reviewed

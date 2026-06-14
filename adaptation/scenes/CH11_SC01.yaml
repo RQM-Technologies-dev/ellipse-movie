@@ -2,16 +2,20 @@ scene_id: CH11_SC01
 chapter: CH11
 title: Aaron and Aura in the Garden
 location: LOC_GARDEN_OF_TIME
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Give Aaron emotional space to understand Aura as her own Ousia.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Overwhelm softens into grateful intimacy.
+plot_turn: Aaron directly asks Aura whether she is more than his imagination, and she confirms she is her own Ousia.
+summary: After Eternity leaves, Aaron walks with Aura through the Garden and admits he worried she was only his imagination. Aura tells him she is her own Ousia and that he needed to discover the truth himself.
+key_dialogue: 'Aura: ''I am my own ousia.'''
+props:
+- multi-spectral hedge
+- flower petal
+- Garden flora
+- trillion-star warmth
+continuity_notes: This scene locks Aura's autonomy before the Portara mission.
+adaptation_notes: Let this breathe as a relationship scene after the heavy cosmology reveal.
+status: reviewed

@@ -2,16 +2,20 @@ scene_id: CH09_SC03
 chapter: CH09
 title: Plasma Transit
 location: LOC_COSMIC_TRANSIT
-time_of_day: ''
+time_of_day: nonlocal
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Convert emotional trust into cosmic movement through wind, plasma, and embrace.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Fear transforms into surrender through contact with Aura.
+plot_turn: Aaron and Aura leave the forest and travel through a sphere of elemental plasma toward the Kingdom.
+summary: Aaron releases Peridot, embraces Aura, and feels light emanating from his chest. Distance distorts, wind forms a sphere, and iron, magnesium, ammolite, silver, turquoise, azure, and gold plasma whip around them until ground returns beneath his feet.
+key_dialogue: 'Internal phrase: ''Let me…'''
+props:
+- wind sphere
+- plasma
+- embrace
+- regolith
+continuity_notes: This sequence must echo the Overture and rain of lights while shifting from terror to trust.
+adaptation_notes: A major transition set piece; anchor it in Aaron holding Aura.
+status: reviewed

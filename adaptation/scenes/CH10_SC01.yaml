@@ -2,17 +2,21 @@ scene_id: CH10_SC01
 chapter: CH10
 title: Meeting Eternity
 location: LOC_KINGDOM_BEGINNING_END
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ETERNITY
 scene_purpose: Name the Kingdom and establish Eternity as guide and Father of Time.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Fear becomes formal welcome.
+plot_turn: Eternity introduces himself and welcomes Aaron to the Kingdom at the Beginning and End of the Universe.
+summary: Aura leads Aaron up the palace stairs to a white-haired figure in an ivory cloak. The figure introduces himself as the Dissemination of Eternity, the Father of Time, and opens the palace to them.
+key_dialogue: 'Eternity: ''Welcome to the Kingdom at the Beginning and End of the Universe.'''
+props:
+- ivory cloak
+- staff
+- amethyst gates
+- crystal columns
+continuity_notes: Eternity should feel both terrifying and grandfatherly, with eyes that echo Aaron.
+adaptation_notes: This is a formal threshold scene; do not rush the scale of the entrance.
+status: reviewed

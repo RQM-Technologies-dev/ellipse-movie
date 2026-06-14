@@ -2,16 +2,20 @@ scene_id: CH07_SC02
 chapter: CH07
 title: Market Search
 location: LOC_EROS_MARKET
-time_of_day: ''
+time_of_day: day
 characters:
 - CHAR_AARON
 - CHAR_AURA
 scene_purpose: Turn wonder into frustration as Aaron and Aura fail to find The Teacher.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Excitement erodes into suspicion and fatigue.
+plot_turn: Aaron realizes Eros is too large to search casually and notices how easily things happen around Aura.
+summary: Aaron and Aura push through the crowded Eros market, passing merchants, food, fabric, scopes, birds, and alleys. The city delights Aaron at first, but his doubts return as the search goes nowhere.
+key_dialogue: Market calls such as 'Pocket Scopes!' and 'Euclidian roots!' define the soundscape.
+props:
+- market stalls
+- pocket scopes
+- fabric stand
+- spice smells
+continuity_notes: Aaron's suspicion about Aura's silver and influence should simmer through the market sequence.
+adaptation_notes: Can be partly montage, but preserve the sense of sensory overload.
+status: reviewed

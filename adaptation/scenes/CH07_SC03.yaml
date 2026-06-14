@@ -2,17 +2,21 @@ scene_id: CH07_SC03
 chapter: CH07
 title: Flower Shop Clue
 location: LOC_EROS_FLOWER_SHOP
-time_of_day: ''
+time_of_day: day
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_FLOWER_SELLER
 scene_purpose: Point the search north toward the Academy.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Crowd pressure softens into brief calm, then uncertainty.
+plot_turn: The flower seller reveals The Teacher runs an academy north of Eros.
+summary: Aura follows a fragrance into a mint-doored flower shop. After buying flowers, Aaron asks about The Teacher, and the woman says he runs an academy far to the north.
+key_dialogue: 'Flower seller: ''He runs an academy now, up North.'''
+props:
+- protocultures
+- mint doorway
+- flowers
+- silver
+continuity_notes: The clue must clearly send them toward the Academy but not provide complete directions.
+adaptation_notes: Use this as a sensory contrast to the crowded market.
+status: reviewed

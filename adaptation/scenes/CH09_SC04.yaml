@@ -2,17 +2,21 @@ scene_id: CH09_SC04
 chapter: CH09
 title: Arrival at Aura's Home
 location: LOC_KINGDOM_BEGINNING_END
-time_of_day: ''
+time_of_day: cosmic twilight
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ETERNITY
 scene_purpose: Reveal the palace and introduce the waiting figure at the threshold.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Disorientation becomes awe, then apprehension.
+plot_turn: Aaron and Aura arrive at the Kingdom and see Eternity waiting at the palace entrance.
+summary: Aaron stands on cracked regolith beneath a twilight of stars and sees the amethyst palace. As he and Aura approach the gates, he senses someone watching and sees an epic figure waiting at the entrance.
+key_dialogue: 'Aura: ''Well.'''
+props:
+- cracked regolith
+- amethyst palace
+- star field
+- palace gates
+continuity_notes: The palace must match the Overture's amethyst halls and cosmic scale.
+adaptation_notes: End the sequence with the reveal of Eternity to pull into the next movement.
+status: reviewed

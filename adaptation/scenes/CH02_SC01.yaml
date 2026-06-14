@@ -2,15 +2,19 @@ scene_id: CH02_SC01
 chapter: CH02
 title: Aaron in the Woods
 location: LOC_TARA_WOODS
-time_of_day: ''
+time_of_day: morning
 characters:
 - CHAR_AARON
-scene_purpose: Establish Aaron's ordinary world, farm burdens, longing for freedom, and envy of birds.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Establish Aaron's ordinary world, his labor burden, and his longing to fly beyond Tara.
+emotional_turn: Farm exhaustion gives way to temporary freedom and wonder.
+plot_turn: Aaron leaves his responsibilities behind for a rare day of exploration.
+summary: 'Aaron walks through the woods north of Tara, restored by the natural world after a grueling harvest. His envy of birds reveals his deeper want: to leave ordinary life and see the world from above.'
+key_dialogue: No spoken dialogue; Aaron's bird envy carries the scene.
+props:
+- forest path
+- grey belly bluebird
+- gossamer
+- sunlit trees
+continuity_notes: Aaron's blue eyes, lean build, and longing for flight are foundational protagonist details.
+adaptation_notes: 'This can compress prose into visual character introduction: farm burden, woods, bird, longing.'
+status: reviewed

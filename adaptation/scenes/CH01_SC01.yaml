@@ -2,15 +2,19 @@ scene_id: CH01_SC01
 chapter: CH01
 title: Kingdom at the Beginning and End
 location: LOC_KINGDOM_BEGINNING_END
-time_of_day: ''
+time_of_day: timeless cosmic twilight
 characters:
 - CHAR_ETERNITY
-scene_purpose: Mythic prologue foreshadowing Aura, the palace, and the father-son time loop.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Open Act I with the mythic image of the Kingdom and foreshadow Aura, the rain of lights, and the father-son time loop.
+emotional_turn: Cosmic stillness becomes anticipation and longing.
+plot_turn: A solitary heir witnesses the launch of the impossible light that will enter Aaron's world.
+summary: In the amethyst palace at the beginning and end of the universe, a solitary soul watches a vibration swell from the garden into elemental light. The light departs into the sky, leaving the halls silent and the heir thinking of his father.
+key_dialogue: No dialogue; the emotional line is the heir waiting and thinking of his father.
+props:
+- amethyst halls
+- garden
+- elemental light
+- stars
+continuity_notes: This sequence should visually echo the later rain of lights, cosmic transit, and Portara ending. Keep the heir visually compatible with Eternity.
+adaptation_notes: Can be staged as a largely wordless prologue. Preserve mystery; do not explain the causal loop yet.
+status: reviewed

@@ -2,17 +2,21 @@ scene_id: CH07_SC06
 chapter: CH07
 title: The Academy Door
 location: LOC_ACADEMY
-time_of_day: ''
+time_of_day: night
 characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_BALD_SENTRY
 scene_purpose: Enter The Teacher's domain and shift into solemn philosophical space.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+emotional_turn: Approach anxiety becomes threshold dread.
+plot_turn: Aaron and Aura are admitted into the Academy and descend toward its inner rooms.
+summary: Aaron knocks at the ancient Academy door under moonlight and crashing waves. A silent bald sentry in gray robes admits them, leading them through oil-lit spaces to a marble room of geometric sculptures.
+key_dialogue: No major dialogue; the sentry communicates by gesture.
+props:
+- wooden door
+- oil saucers
+- gray robes
+- geometric sculptures
+continuity_notes: Academy visuals must align with the silver triangle marker and The Teacher's scholarly authority.
+adaptation_notes: Let the space itself feel like a test before The Teacher speaks.
+status: reviewed

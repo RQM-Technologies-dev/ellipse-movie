@@ -2,15 +2,19 @@ scene_id: CH02_SC02
 chapter: CH02
 title: The Gold Leaf and River Crossing
 location: LOC_TARA_RIVER
-time_of_day: ''
+time_of_day: midday to afternoon
 characters:
 - CHAR_AARON
-scene_purpose: Introduce the river as threshold and Aaron's first experience of the uncanny call.
-emotional_turn: ''
-plot_turn: ''
-summary: ''
-key_dialogue: ''
-props: []
-continuity_notes: ''
-adaptation_notes: ''
-status: draft
+scene_purpose: Introduce the river as a threshold and foreshadow Aaron's connection to Aura's arrival point.
+emotional_turn: Playful exploration becomes uncanny stillness.
+plot_turn: 'Aaron experiences the first direct call of the story at the river: the word/feeling of ''Here.'''
+summary: Aaron follows the river and watches a gold leaf race through the current. While crossing upstream, he stops in the water and senses a strange balance between body, river, clouds, and wind before the moment breaks.
+key_dialogue: 'Key word/feeling: ''Here.'''
+props:
+- gold leaf
+- river rocks
+- cold water
+- mountain stream
+continuity_notes: The river crossing must connect visually and geographically to the later split-river Aura emergence.
+adaptation_notes: Treat this as the first supernatural beat, subtle and quiet, not a spectacle.
+status: reviewed

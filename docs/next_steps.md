@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after applying the human adaptation decisions to the Act I treatment and beat sheet on `main`.
+This is the current working checklist after adding the Eros Market continuous sequence plan and project visual-direction note on `main`.
 
 ## Completed
 
@@ -20,12 +20,14 @@ This is the current working checklist after applying the human adaptation decisi
 - Act I scene YAML files reviewed and filled with scene metadata.
 - Act I treatment and beat sheet updated from reviewed scene YAML.
 - Human adaptation decisions applied: no Act II framing, wordless Overture, augmented Teacher explanation, bittersweet Captain translation, and full/expanded Eros market.
+- Eros Market continuous sequence plan added under `adaptation/sequences/`.
+- Project-wide visual direction added under `docs/visual_direction.md`.
 
 ## Immediate next tasks
 
-1. Decide whether the Eros market needs additional micro-scenes before lock.
-2. If no new Eros micro-scenes are needed, mark approved scene YAML files from `reviewed` to `locked`.
-3. After scenes are locked, begin Act I shot-list generation under `production/shotlists/`.
+1. Mark approved scene YAML files from `reviewed` to `locked`.
+2. After scenes are locked, begin Act I shot-list generation under `production/shotlists/`.
+3. Use `docs/visual_direction.md` as the blocking, camera-angle, and storyboard north star.
 
 ## Hold until lock
 
@@ -38,13 +40,13 @@ Do not start storyboard prompts, video prompts, or generated media until:
 
 ## Recommended next commit
 
-`Lock reviewed Act I scene YAML files after Eros market decision`
+`Lock reviewed Act I scene YAML files`
 
 Expected output:
 
 - Approved `adaptation/scenes/CH##_SC##.yaml` statuses move from `reviewed` to `locked`.
-- Any additional Eros market micro-scenes are added before lock if needed.
-- Treatment and beat sheet remain aligned with the locked scene sequence.
+- Treatment, beat sheet, and Eros sequence plan remain aligned with the locked scene sequence.
+- Shot-list generation can begin after lock.
 
 Run validation afterward:
 

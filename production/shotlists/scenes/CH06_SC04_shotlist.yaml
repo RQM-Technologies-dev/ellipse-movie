@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH06_SC04
+scene_id: CH06_SC04
+title: Aaron Tries to Sleep
+status: drafted
+source_scene: adaptation/scenes/CH06_SC04.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Bring the star reveal down into Aaron's private fear that reality has broken.
+shots:
+- shot_id: CH06_SC04_SH001
+  type: awkward descent
+  framing: Aaron climbing down from deck into hull
+  camera: follow from open sky into cramped interior
+  action: He retreats from the impossible.
+  purpose: Contrast cosmic scale with confinement.
+- shot_id: CH06_SC04_SH002
+  type: spice room
+  framing: two cots and spice racks
+  camera: grounded, enclosed composition
+  action: Aaron lies down, careful and shaken.
+  purpose: Reestablish ordinary physical space.
+- shot_id: CH06_SC04_SH003
+  type: heartbeat fear
+  framing: Aaron staring into darkness
+  camera: tight hold
+  action: His heart pounds as he tries to restore sanity.
+  purpose: Show psychological consequence.
+- shot_id: CH06_SC04_SH004
+  type: Aura beside him
+  framing: Aura settling into her cot
+  camera: quiet two-shot across the small room
+  action: She remains calm.
+  purpose: Contrast Aaron's panic with Aura's ease.
+- shot_id: CH06_SC04_SH005
+  type: goodnight test
+  framing: Aaron and Aura in separate cots
+  camera: still, simple
+  action: They exchange good nights.
+  purpose: Confirm reality still answers him.
+notes:
+- The quiet matters; do not rush from spectacle to the next location.

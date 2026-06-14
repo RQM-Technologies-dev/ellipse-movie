@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH06_SC01
+scene_id: CH06_SC01
+title: Life Aboard the Elgia
+status: drafted
+source_scene: adaptation/scenes/CH06_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Show temporary community and shipboard routine before the next reality break.
+shots:
+- shot_id: CH06_SC01_SH001
+  type: voyage passage
+  framing: Elgia crossing open sea under pearl clouds
+  camera: broad moving ship profile
+  action: Days pass at sea.
+  purpose: Establish voyage rhythm.
+- shot_id: CH06_SC01_SH002
+  type: crew routine
+  framing: sailors tying knots, playing cards, sorting goods
+  camera: layered shipboard blocking
+  action: Aaron observes and learns.
+  purpose: Make the ship feel lived in.
+- shot_id: CH06_SC01_SH003
+  type: Aaron learning
+  framing: Aaron practicing knots with crew guidance
+  camera: close practical detail
+  action: He joins the ship's work.
+  purpose: Show his anxiety fading.
+- shot_id: CH06_SC01_SH004
+  type: Aura at forecastle
+  framing: Aura looking out over the sea
+  camera: Aaron's watchful perspective
+  action: Aura remains mysterious even in routine.
+  purpose: Keep her apart from ordinary life.
+- shot_id: CH06_SC01_SH005
+  type: twilight meal
+  framing: crew gathered before Captain's quarters
+  camera: warm communal tableau
+  action: The ship shares food and ale.
+  purpose: Prepare the Captain conversation.
+notes:
+- This can be montage-like but should preserve social geography.

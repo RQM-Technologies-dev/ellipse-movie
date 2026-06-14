@@ -1,0 +1,47 @@
+shotlist_id: SHOTLIST_CH02_SC02
+scene_id: CH02_SC02
+title: The Gold Leaf and River Crossing
+status: drafted
+source_scene: adaptation/scenes/CH02_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Establish the river as a threshold and give the first subtle supernatural call.
+shots:
+- shot_id: CH02_SC02_SH001
+  type: river arrival
+  framing: Aaron reaching the river below the mountains
+  camera: wide, clean geography of water, rocks, and mountain line
+  action: Aaron stops at the edge and takes in the view.
+  purpose: Establish the river as place and threshold.
+- shot_id: CH02_SC02_SH002
+  type: gold leaf discovery
+  framing: gold leaf riding the current
+  camera: follow the leaf around rocks and rapids
+  action: The leaf becomes an imagined adventure.
+  purpose: Externalize Aaron's desire for movement.
+- shot_id: CH02_SC02_SH003
+  type: crossing setup
+  framing: Aaron testing cold water upstream
+  camera: low detail on hand, water, rocks
+  action: He plans the crossing.
+  purpose: Make the threshold physical.
+- shot_id: CH02_SC02_SH004
+  type: uncanny stillness
+  framing: Aaron halted midway in the current
+  camera: slow push as sound thins
+  action: He feels body, river, clouds, and wind balance around him.
+  purpose: Introduce the first supernatural call.
+- shot_id: CH02_SC02_SH005
+  type: wordless call
+  framing: Aaron looking up to the clouds
+  camera: suspended, nearly still
+  action: The feeling of Here arrives.
+  purpose: Foreshadow Aura's arrival point.
+- shot_id: CH02_SC02_SH006
+  type: break and exit
+  framing: Aaron jolting back to reality and reaching shore
+  camera: return to practical movement
+  action: Cold and current bring him back.
+  purpose: Leave the uncanny unresolved.
+notes:
+- Keep the supernatural subtle.
+- Match this geography to the later split-river scene.

@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH11_SC02
+scene_id: CH11_SC02
+title: Plaque in the Garden
+status: drafted
+source_scene: adaptation/scenes/CH11_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Bring the Elgia phrase into the Kingdom and prepare its final emotional use.
+shots:
+- shot_id: CH11_SC02_SH001
+  type: cottage thought
+  framing: Aaron in the Garden imagining the created cottage life
+  camera: close reflective beat
+  action: He thinks of living with Aura in the cottage.
+  purpose: Ground cosmic stakes in domestic longing.
+- shot_id: CH11_SC02_SH002
+  type: Eternity question
+  framing: Aaron looking toward the atrium
+  camera: shift from warmth to nervousness
+  action: He wonders what Eternity wants.
+  purpose: Pull toward the final threshold.
+- shot_id: CH11_SC02_SH003
+  type: metallic scrape
+  framing: Aaron's foot hitting something under ivy
+  camera: low detail on topaz ivy and plaque edge
+  action: He notices the hidden plaque.
+  purpose: Motivate motif discovery.
+- shot_id: CH11_SC02_SH004
+  type: plaque reveal
+  framing: engraved phrase under cleared ivy
+  camera: close, readable inscription
+  action: Aaron uncovers ELGIA LORE LASANT, ENTA TY.
+  purpose: Connect river, ship, Garden, and Portara.
+- shot_id: CH11_SC02_SH005
+  type: Aura cue
+  framing: Aura appearing nearby
+  camera: soft but purposeful
+  action: She tells him Eternity will not wait forever.
+  purpose: Move him from motif to final meeting.
+- shot_id: CH11_SC02_SH006
+  type: last Garden look
+  framing: Aaron taking one more look around
+  camera: wide warm farewell
+  action: He leaves the Garden.
+  purpose: Transition toward the Portara chamber.
+notes:
+- Keep plaque discovery quiet and mysterious.

@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH04_SC03
+scene_id: CH04_SC03
+title: The Teacher Objective
+status: drafted
+source_scene: adaptation/scenes/CH04_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Turn confusion into a concrete journey objective: find The Teacher in Eros.
+shots:
+- shot_id: CH04_SC03_SH001
+  type: kitchen thought
+  framing: Aaron cutting bread, distracted
+  camera: domestic medium shot with internal tension
+  action: He thinks about Eros and The Teacher.
+  purpose: Begin the objective through ordinary action.
+- shot_id: CH04_SC03_SH002
+  type: Aura doorway
+  framing: Aura entering as if answering his thought
+  camera: reveal from Aaron's startled reaction
+  action: Aura asks if he is thinking about Eros.
+  purpose: Continue thought-link continuity.
+- shot_id: CH04_SC03_SH003
+  type: Teacher name
+  framing: Aaron and Aura at kitchen table
+  camera: steady dialogue coverage
+  action: Aaron asks if Aura knows The Teacher.
+  purpose: Name the external goal.
+- shot_id: CH04_SC03_SH004
+  type: silver reveal
+  framing: Aura's hand opening with silver
+  camera: close practical miracle
+  action: Aura removes the money obstacle.
+  purpose: Make departure possible and uncanny.
+- shot_id: CH04_SC03_SH005
+  type: Eros imagination
+  framing: Aaron's face as imagined ships and markets fill his thoughts
+  camera: gentle transition or motivated visual echo
+  action: His longing for Eros awakens.
+  purpose: Make the objective emotionally irresistible.
+notes:
+- Aura's certainty should feel helpful but slightly unnerving.

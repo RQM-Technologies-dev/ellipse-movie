@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH08_SC01
+scene_id: CH08_SC01
+title: Aaron Flees the Academy
+status: drafted
+source_scene: adaptation/scenes/CH08_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Externalize Aaron's trust crisis as physical escape.
+shots:
+- shot_id: CH08_SC01_SH001
+  type: Aura calls
+  framing: Aura in the library doorway calling to Aaron
+  camera: Aaron avoids her gaze
+  action: She wants to leave together.
+  purpose: Show he cannot face her.
+- shot_id: CH08_SC01_SH002
+  type: library crossing
+  framing: Aaron cutting across the Athenaeum
+  camera: urgent movement past scrolls and columns
+  action: He brushes past Aura.
+  purpose: Turn internal panic into motion.
+- shot_id: CH08_SC01_SH003
+  type: exit burst
+  framing: Academy doors opening to cold night
+  camera: rush from interior warmth to exterior air
+  action: Aaron breaks outside.
+  purpose: Release pressure.
+- shot_id: CH08_SC01_SH004
+  type: Peridot untie
+  framing: Aaron's hands on reins
+  camera: practical close, tense
+  action: He mounts without knowing where to go.
+  purpose: Show flight without plan.
+- shot_id: CH08_SC01_SH005
+  type: Aura follows
+  framing: Aura emerging as Aaron returns to sweep her onto Peridot
+  camera: moving two-shot into ride
+  action: They flee the Academy downhill.
+  purpose: Keep them bound despite mistrust.
+notes:
+- This should feel reactive and breathless.

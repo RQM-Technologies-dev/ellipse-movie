@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH05_SC04
+scene_id: CH05_SC04
+title: The Captain Translates the Phrase
+status: drafted
+source_scene: adaptation/scenes/CH05_SC04.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Plant the Elgia phrase translation as bittersweet ship lore before its final Portara payoff.
+shots:
+- shot_id: CH05_SC04_SH001
+  type: crew effect
+  framing: deck workers moving efficiently after Aura's influence
+  camera: Captain surveying crew and noticing change
+  action: The Captain approaches Aaron and Aura.
+  purpose: Motivate his engagement.
+- shot_id: CH05_SC04_SH002
+  type: intimidation softens
+  framing: Captain leaning close, then relaxing
+  camera: medium three-shot with Aaron's awkwardness
+  action: The Captain comments on the crew working better.
+  purpose: Blend threat, humor, and curiosity.
+- shot_id: CH05_SC04_SH003
+  type: inscription question
+  framing: Aaron glancing toward the captain's door
+  camera: motivated look to planted phrase
+  action: Aaron asks what the silver lettering says.
+  purpose: Bring back the motif.
+- shot_id: CH05_SC04_SH004
+  type: translation
+  framing: Captain in nostalgic half-smile
+  camera: still, bittersweet hold
+  action: He translates the phrase.
+  purpose: Plant the line emotionally.
+- shot_id: CH05_SC04_SH005
+  type: humorous cover
+  framing: Captain laughing it off as girly ship lore
+  camera: release from emotional stillness
+  action: He says it came with the ship.
+  purpose: Let the line pass lightly while keeping ache underneath.
+notes:
+- First delivery should be bittersweet, not purely comic.

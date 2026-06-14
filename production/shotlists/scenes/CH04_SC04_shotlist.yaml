@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH04_SC04
+scene_id: CH04_SC04
+title: Leaving Tara
+status: drafted
+source_scene: adaptation/scenes/CH04_SC04.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Commit Aaron to adventure and separate him from farm life.
+shots:
+- shot_id: CH04_SC04_SH001
+  type: packing
+  framing: Aaron placing essentials into a bag
+  camera: close on practical objects and nervous hands
+  action: He prepares to leave.
+  purpose: Make the choice concrete.
+- shot_id: CH04_SC04_SH002
+  type: final look
+  framing: Aaron looking around the farm room
+  camera: slow pan or still hold on familiar space
+  action: He recognizes what he is leaving.
+  purpose: Honor the ordinary world.
+- shot_id: CH04_SC04_SH003
+  type: Aura reassurance
+  framing: Aura watching him with calm certainty
+  camera: two-shot at threshold
+  action: She says they will be a good team.
+  purpose: Bind departure to partnership.
+- shot_id: CH04_SC04_SH004
+  type: exterior departure
+  framing: Aaron and Aura leaving the farm
+  camera: behind them toward the path
+  action: Tara remains behind.
+  purpose: Move into the journey.
+- shot_id: CH04_SC04_SH005
+  type: emotional release
+  framing: Aaron overwhelmed but smiling
+  camera: close before the next travel beat
+  action: He realizes he is going to Eros with Aura.
+  purpose: Complete the break from home.
+notes:
+- Departure should feel exciting and unnervingly easy.

@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH05_SC03
+scene_id: CH05_SC03
+title: Tara Falls Behind
+status: drafted
+source_scene: adaptation/scenes/CH05_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Mark the point of no return as Tara recedes and Aura's social influence becomes more visible.
+shots:
+- shot_id: CH05_SC03_SH001
+  type: casting off
+  framing: ropes released, sails unfurled, crew moving in layers
+  camera: energetic shipboard geography
+  action: The Elgia pulls away from port.
+  purpose: Begin the voyage visually.
+- shot_id: CH05_SC03_SH002
+  type: shoreline recession
+  framing: Tara shrinking behind Aaron
+  camera: over Aaron's shoulder to the departing coast
+  action: He realizes return is no longer simple.
+  purpose: Land point-of-no-return emotion.
+- shot_id: CH05_SC03_SH003
+  type: Aura social field
+  framing: sailors pausing or redirecting around Aura
+  camera: keep Aaron watching her effect
+  action: Crew members soften under her presence.
+  purpose: Build Aaron's suspicion and attachment.
+- shot_id: CH05_SC03_SH004
+  type: ship texture
+  framing: Jericks, Ilyich, nets, rails, and working deck
+  camera: layered foreground/background action
+  action: The Elgia becomes a small social world.
+  purpose: Make shipboard space alive.
+- shot_id: CH05_SC03_SH005
+  type: Aaron's surrender
+  framing: Aaron looking from Tara to Aura
+  camera: intimate close after wide departure
+  action: He accepts he would follow her anywhere.
+  purpose: Link departure to emotional attachment.
+notes:
+- Shipboard blocking should keep geography readable.

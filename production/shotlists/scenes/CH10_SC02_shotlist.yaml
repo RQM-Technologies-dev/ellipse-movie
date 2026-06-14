@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH10_SC02
+scene_id: CH10_SC02
+title: Palace of Impossible Rooms
+status: drafted
+source_scene: adaptation/scenes/CH10_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Make cosmic law feel architectural and navigable before the warmth of the Garden.
+shots:
+- shot_id: CH10_SC02_SH001
+  type: crystal column passage
+  framing: columns morphing into ceiling like living roots
+  camera: glide with Aaron's upward awe
+  action: Stars seem to move within palace material.
+  purpose: Establish impossible order.
+- shot_id: CH10_SC02_SH002
+  type: elliptical chamber
+  framing: room with openings above and below
+  camera: reveal vertical depth while preserving safety line
+  action: Aaron approaches the edge.
+  purpose: Show palace scale.
+- shot_id: CH10_SC02_SH003
+  type: pendulum reveal
+  framing: cable descending through stacked rooms to silver mass
+  camera: follow down through openings
+  action: Pendulum carves wakes through liquid metal.
+  purpose: Visualize balance and time.
+- shot_id: CH10_SC02_SH004
+  type: tesseract room
+  framing: rotating shadow becoming more perturbed
+  camera: pass through without stopping too long
+  action: Eternity moves quickly onward.
+  purpose: Suggest endless wonders without explaining all of them.
+- shot_id: CH10_SC02_SH005
+  type: corridor velocity
+  framing: Eternity moving faster than expected
+  camera: brisk tracking through morphing rooms
+  action: He says there is one room he wants to show Aaron.
+  purpose: Focus the sequence toward the Garden.
+- shot_id: CH10_SC02_SH006
+  type: spiral descent
+  framing: staircase branching into intriguing rooms
+  camera: descending motion with glimpses of side spaces
+  action: They descend toward the ground floor.
+  purpose: Transition from impossible palace to Garden.
+notes:
+- Palace should be ordered and musical, not random.

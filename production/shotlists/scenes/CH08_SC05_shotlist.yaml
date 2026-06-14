@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH08_SC05
+scene_id: CH08_SC05
+title: Aura Wants to Go Home
+status: drafted
+source_scene: adaptation/scenes/CH08_SC05.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Shift the cottage miracle into Aura's own objective and the cosmic journey ahead.
+shots:
+- shot_id: CH08_SC05_SH001
+  type: cottage awe
+  framing: Aaron and Aura before the newly created cottage
+  camera: quiet wide after spectacle
+  action: Aaron processes the home Aura made.
+  purpose: Let the miracle settle.
+- shot_id: CH08_SC05_SH002
+  type: new claim
+  framing: Aura close beside stream/firelight
+  camera: soft but direct
+  action: Aura says she can take Aaron places instantly.
+  purpose: Open the next scale of possibility.
+- shot_id: CH08_SC05_SH003
+  type: Aaron tests logic
+  framing: Aaron half-joking, half-afraid
+  camera: conversational two-shot
+  action: He asks about imagining dangerous places like the bottom of the sea.
+  purpose: Ground the impossible in human concern.
+- shot_id: CH08_SC05_SH004
+  type: Aura purpose
+  framing: Aura's eyes with galaxy-like depth
+  camera: intimate close
+  action: She says she would never hurt him.
+  purpose: Reveal intention and trust.
+- shot_id: CH08_SC05_SH005
+  type: destination reveal
+  framing: Aaron realizing Aura wants something
+  camera: slow push toward Aura
+  action: Aura says she wants to go home.
+  purpose: Convert the story into cosmic objective.
+notes:
+- Make Aura autonomous here; she is not just fulfilling Aaron's wishes.

@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH07_SC08
+scene_id: CH07_SC08
+title: The Den Conversation
+status: drafted
+source_scene: adaptation/scenes/CH07_SC08.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Make Aaron's private crisis feel warm, claustrophobic, and impossible to escape.
+shots:
+- shot_id: CH07_SC08_SH001
+  type: separation
+  framing: Aaron leaving Aura in the Athenaeum
+  camera: Aaron's final look back to turquoise eyes
+  action: He follows The Teacher into the den.
+  purpose: Physically separate Aaron from Aura.
+- shot_id: CH07_SC08_SH002
+  type: den warmth
+  framing: cushions, fire, smoke stack, low table
+  camera: slow environmental settle
+  action: Aaron sits and regains color.
+  purpose: Make the room comforting before the truth closes in.
+- shot_id: CH07_SC08_SH003
+  type: name shock
+  framing: Aaron reacting when The Teacher says his name
+  camera: tight reaction
+  action: Aaron realizes The Teacher knows him.
+  purpose: Increase unease.
+- shot_id: CH07_SC08_SH004
+  type: direct claim
+  framing: Teacher across the low table
+  camera: calm and still
+  action: He says Aura is what Aaron wants her to be.
+  purpose: State the crisis clearly.
+- shot_id: CH07_SC08_SH005
+  type: memory fit
+  framing: Aaron processing mirrored thoughts, silver, fruit, stars
+  camera: controlled flashes or reaction-driven inserts
+  action: The explanation starts fitting.
+  purpose: Break Aaron's trust.
+- shot_id: CH07_SC08_SH006
+  type: isolation hold
+  framing: Aaron alone with fire after Teacher exits or pauses
+  camera: hold as the warmth becomes suffocating
+  action: Aaron is left to find his resolve.
+  purpose: Prepare his flight.
+notes:
+- The den should feel safe and dangerous at the same time.

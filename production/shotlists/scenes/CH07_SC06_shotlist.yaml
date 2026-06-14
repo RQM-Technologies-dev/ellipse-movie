@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH07_SC06
+scene_id: CH07_SC06
+title: The Academy Door
+status: drafted
+source_scene: adaptation/scenes/CH07_SC06.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Transform the journey from market adventure into solemn philosophical threshold.
+shots:
+- shot_id: CH07_SC06_SH001
+  type: bluff approach
+  framing: Academy on cliff edge under moonlight
+  camera: reveal structure as waves crash below
+  action: Aaron and Aura arrive with Peridot.
+  purpose: Establish ancient scale and danger.
+- shot_id: CH07_SC06_SH002
+  type: door marker
+  framing: thick wooden door and silver triangle
+  camera: Aaron's hand before knocking
+  action: Aaron takes the last step toward answers.
+  purpose: Make the threshold ceremonial.
+- shot_id: CH07_SC06_SH003
+  type: sentry reveal
+  framing: bald gray-robed sentry in candlelit opening
+  camera: still, formal, slightly uncanny
+  action: The door opens inward.
+  purpose: Shift tone to ritual.
+- shot_id: CH07_SC06_SH004
+  type: oil-lit passage
+  framing: Aaron and Aura following through foyer and stairs
+  camera: tracking with echoing footsteps
+  action: They descend inward.
+  purpose: Move from exterior danger to interior pressure.
+- shot_id: CH07_SC06_SH005
+  type: geometric room
+  framing: marble room and metallic sculptures
+  camera: reveal through Aaron's curiosity
+  action: Aaron almost touches a sculpture before footsteps arrive.
+  purpose: Prepare The Teacher's entrance.
+notes:
+- Academy geometry should feel controlled and solemn.

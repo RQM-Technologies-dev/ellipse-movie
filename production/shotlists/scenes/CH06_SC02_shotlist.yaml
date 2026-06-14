@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH06_SC02
+scene_id: CH06_SC02
+title: The First Point of Aries
+status: drafted
+source_scene: adaptation/scenes/CH06_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Make The Teacher credible through celestial navigation and connect sea travel to cosmic order.
+shots:
+- shot_id: CH06_SC02_SH001
+  type: rail gathering
+  framing: Aaron, Aura, and Captain at the ship rail under stars
+  camera: calm three-shot with night sky above
+  action: Aaron chooses to ask about The Teacher.
+  purpose: Begin the lore handoff.
+- shot_id: CH06_SC02_SH002
+  type: constellation point
+  framing: Captain pointing to the Ram
+  camera: follow gesture from hand to sky
+  action: He identifies the First Point of Aries.
+  purpose: Link The Teacher to the stars.
+- shot_id: CH06_SC02_SH003
+  type: Captain memory
+  framing: Captain lit by star and deck light
+  camera: close enough to catch respect
+  action: He describes celestial navigation.
+  purpose: Give The Teacher authority.
+- shot_id: CH06_SC02_SH004
+  type: Aaron hope
+  framing: Aaron looking from sky to Aura
+  camera: emotional close
+  action: Aaron hears that The Teacher may have answers.
+  purpose: Strengthen the Eros objective.
+- shot_id: CH06_SC02_SH005
+  type: night release
+  framing: Captain leaving them under the stars
+  camera: settle back into quiet deck
+  action: Aura guides Aaron toward rest.
+  purpose: Transition to the late-night star reveal.
+notes:
+- The sky should feel navigable, not just decorative.

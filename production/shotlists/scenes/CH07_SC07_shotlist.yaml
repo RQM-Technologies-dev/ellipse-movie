@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH07_SC07
+scene_id: CH07_SC07
+title: The Teacher Names Aura
+status: drafted
+source_scene: adaptation/scenes/CH07_SC07.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Deliver the first Einai/Ousia explanation as an emotional destabilization, not a lecture.
+shots:
+- shot_id: CH07_SC07_SH001
+  type: Teacher entrance
+  framing: Teacher entering gray and white marble room
+  camera: controlled, authoritative reveal
+  action: He asks why visitors have arrived in the night.
+  purpose: Establish intellectual power.
+- shot_id: CH07_SC07_SH002
+  type: Aura scrutiny
+  framing: Teacher circling Aura while Aaron watches
+  camera: wide enough to show circle/blocking
+  action: He studies Aura without being charmed.
+  purpose: Show he is different from others.
+- shot_id: CH07_SC07_SH003
+  type: Athenaeum reveal
+  framing: three-story library with illuminated scrolls
+  camera: Aaron's awe-led reveal
+  action: The Teacher brings them into the Athenaeum.
+  purpose: Make knowledge spatial.
+- shot_id: CH07_SC07_SH004
+  type: Tara recognition
+  framing: Teacher interrupting Aaron's story
+  camera: sharp close on Aaron's surprise
+  action: The Teacher identifies Tara.
+  purpose: Prove he knows more than expected.
+- shot_id: CH07_SC07_SH005
+  type: deeper question
+  framing: Teacher, Aura, and Aaron in triangular blocking
+  camera: keep Aura present while he speaks about her
+  action: He says Aaron really wants answers about Aura.
+  purpose: Turn the scene inward.
+- shot_id: CH07_SC07_SH006
+  type: Einai explanation
+  framing: Teacher stepping close to Aaron
+  camera: clear, emotionally legible coverage
+  action: He defines Aura as Einai and Ousia.
+  purpose: Deliver the midpoint revelation.
+notes:
+- Augment only for clarity; keep true-but-incomplete meaning.

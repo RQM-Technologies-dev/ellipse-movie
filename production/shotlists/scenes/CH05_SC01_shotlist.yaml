@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH05_SC01
+scene_id: CH05_SC01
+title: Boarding the Elgia
+status: drafted
+source_scene: adaptation/scenes/CH05_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Move Aaron and Aura from Tara's shore into the shipboard world while showing Aura's subtle influence.
+shots:
+- shot_id: CH05_SC01_SH001
+  type: port reveal
+  framing: Tara harbor, rocks, boats, and the Elgia's three masts
+  camera: wide arrival with Aaron scanning for opportunity
+  action: Aaron identifies the Elgia.
+  purpose: Establish the departure vehicle.
+- shot_id: CH05_SC01_SH002
+  type: opportunity
+  framing: Matis loading cargo with pulley system
+  camera: Aaron's look to Matis and the open ship access
+  action: Aaron decides to approach.
+  purpose: Create a practical path aboard.
+- shot_id: CH05_SC01_SH003
+  type: refusal
+  framing: Aaron and Matis near the gangway/cargo area
+  camera: grounded dialogue coverage
+  action: Matis says the Elgia does not take passengers.
+  purpose: Establish obstacle.
+- shot_id: CH05_SC01_SH004
+  type: Aura steps forward
+  framing: Aura entering Matis's view
+  camera: hold on Matis softening
+  action: Aura introduces herself and offers payment.
+  purpose: Show social reality bending around Aura.
+- shot_id: CH05_SC01_SH005
+  type: boarding
+  framing: Aaron and Aura following Matis onto the deck
+  camera: move from dock up into ship world
+  action: They board the Elgia.
+  purpose: Cross into the voyage phase.
+notes:
+- Keep Aura's influence subtle; no visible spell.

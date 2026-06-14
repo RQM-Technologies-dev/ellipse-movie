@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH08_SC02
+scene_id: CH08_SC02
+title: Make Us a Light
+status: drafted
+source_scene: adaptation/scenes/CH08_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Begin Aaron's test of Aura with a simple undeniable act of creation.
+shots:
+- shot_id: CH08_SC02_SH001
+  type: dark halt
+  framing: Peridot stopped in near-black woods
+  camera: quiet after the ride
+  action: Aaron dismounts and confronts Aura.
+  purpose: Move from panic to confrontation.
+- shot_id: CH08_SC02_SH002
+  type: accusation
+  framing: Aaron and Aura in darkness
+  camera: tight two-shot with little background detail
+  action: Aaron repeats The Teacher's claim.
+  purpose: Make the conflict direct.
+- shot_id: CH08_SC02_SH003
+  type: Aura offer
+  framing: Aura placing a calming hand on Aaron's back
+  camera: intimate but tense
+  action: She says she can show him.
+  purpose: Shift from argument to demonstration.
+- shot_id: CH08_SC02_SH004
+  type: command
+  framing: Aaron looking into the dark trees
+  camera: hold before the impossible
+  action: He asks her to make a light.
+  purpose: Set up the test.
+- shot_id: CH08_SC02_SH005
+  type: suspended fire
+  framing: fire sparkling between branches
+  camera: reveal from Aaron's face to floating flame
+  action: The dark ground and flora illuminate.
+  purpose: Confirm Aura's power simply and clearly.
+- shot_id: CH08_SC02_SH006
+  type: confirmation
+  framing: Aaron feeling warmth from the flame
+  camera: close on hand and face
+  action: He realizes The Teacher was right in some sense.
+  purpose: Move denial toward acceptance.
+notes:
+- Keep the first test simple; spectacle escalates later.

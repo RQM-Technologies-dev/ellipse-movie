@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH02_SC03
+scene_id: CH02_SC03
+title: Lake Tara Sunset
+status: drafted
+source_scene: adaptation/scenes/CH02_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Give Aaron his final peaceful ordinary-world image before the inciting event.
+shots:
+- shot_id: CH02_SC03_SH001
+  type: lake reveal
+  framing: Lake Tara at orange and crimson sunset
+  camera: wide, still, restorative
+  action: Aaron arrives at the water basin.
+  purpose: Establish beauty and calm.
+- shot_id: CH02_SC03_SH002
+  type: rest beat
+  framing: Aaron settling into the grass
+  camera: gentle close from landscape to body
+  action: He relaxes after his day of wandering.
+  purpose: Show vulnerability and relief.
+- shot_id: CH02_SC03_SH003
+  type: longing close
+  framing: Aaron's face under sunset glow
+  camera: hold on wishful silence
+  action: He wishes for something other than farm responsibility.
+  purpose: State the inner desire visually.
+- shot_id: CH02_SC03_SH004
+  type: mental path
+  framing: imagined route back toward the river
+  camera: soft visual transition from closed eyes to river-memory
+  action: His mind retraces the path upstream.
+  purpose: Tie longing to the river threshold.
+- shot_id: CH02_SC03_SH005
+  type: sleep into night
+  framing: Aaron asleep as sunset gives way to stars
+  camera: slow time-shift over still body
+  action: Night arrives while he remains at the lake.
+  purpose: Place him for the rain of lights.
+notes:
+- Let this sequence breathe; the next movement destroys the calm.

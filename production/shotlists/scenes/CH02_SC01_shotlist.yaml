@@ -1,0 +1,41 @@
+shotlist_id: SHOTLIST_CH02_SC01
+scene_id: CH02_SC01
+title: Aaron in the Woods
+status: drafted
+source_scene: adaptation/scenes/CH02_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Introduce Aaron's ordinary world, physical restlessness, and longing for flight through readable natural geography.
+shots:
+- shot_id: CH02_SC01_SH001
+  type: morning reveal
+  framing: sun breaking through Tara woods
+  camera: slow discovery through trees and gossamer
+  action: The woods wake under gold light.
+  purpose: Establish the ordinary world as beautiful and restorative.
+- shot_id: CH02_SC01_SH002
+  type: character introduction
+  framing: Aaron moving through the lesser-known path
+  camera: tracking with his stride
+  action: Aaron moves easily through the forest.
+  purpose: Introduce him as physically capable and at home in nature.
+- shot_id: CH02_SC01_SH003
+  type: burden memory
+  framing: Aaron pausing under warm light
+  camera: subtle close as farm responsibility weighs on him
+  action: His day off feels like stolen freedom.
+  purpose: Establish ordinary-world pressure.
+- shot_id: CH02_SC01_SH004
+  type: bird envy
+  framing: grey belly bluebird above Aaron
+  camera: Aaron's look upward to the bird
+  action: He watches the bird and imagines flight.
+  purpose: Show his longing without exposition.
+- shot_id: CH02_SC01_SH005
+  type: path decision
+  framing: Aaron refocusing north through the trees
+  camera: motivated move ahead of him toward the river direction
+  action: He continues toward the mountain streams.
+  purpose: Move the story toward the river threshold.
+notes:
+- Keep Tara intimate and grounded before cosmic disruption.
+- Let Aaron's longing be visual, not over-explained.

@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH08_SC03
+scene_id: CH08_SC03
+title: The Thousand-Faceted Gem
+status: drafted
+source_scene: adaptation/scenes/CH08_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Show Aura creating something Aaron believes impossible and bridge the gem to the Garden of Time.
+shots:
+- shot_id: CH08_SC03_SH001
+  type: impossible ask
+  framing: Aaron illuminated by suspended fire
+  camera: steady close as he describes the jewelry box
+  action: He imagines a stone with a never-seen color.
+  purpose: Raise the test beyond ordinary creation.
+- shot_id: CH08_SC03_SH002
+  type: Aura admiration
+  framing: Aura's eyes widening
+  camera: soft reaction
+  action: Aura admires the imagination behind the request.
+  purpose: Show the partnership quality.
+- shot_id: CH08_SC03_SH003
+  type: box appears
+  framing: Aura's wrist rotation revealing a small box
+  camera: clean close, no distraction
+  action: The box exists in an instant.
+  purpose: Make creation definite.
+- shot_id: CH08_SC03_SH004
+  type: opening
+  framing: Aaron opening the box by firelight
+  camera: close on hands and lid
+  action: The gem begins to sparkle.
+  purpose: Build reveal through action.
+- shot_id: CH08_SC03_SH005
+  type: gem reveal
+  framing: thousand-faceted gem casting impossible colors
+  camera: light dances across Aaron and Aura
+  action: Aaron sees the impossible made real.
+  purpose: Link imagination to future Garden imagery.
+- shot_id: CH08_SC03_SH006
+  type: question
+  framing: Aura before the fire
+  camera: quiet, challenging close
+  action: She asks whether anything is impossible.
+  purpose: Open the door to the cottage request.
+notes:
+- The gem should feel like a preview of the Garden's impossible colors.

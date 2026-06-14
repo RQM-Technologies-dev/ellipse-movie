@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH09_SC02
+scene_id: CH09_SC02
+title: Untethering the Imagination
+status: drafted
+source_scene: adaptation/scenes/CH09_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Teach travel through emotional connection, not mechanical exposition.
+shots:
+- shot_id: CH09_SC02_SH001
+  type: rule introduction
+  framing: Aura explaining release from the present place
+  camera: calm two-shot near cottage and Peridot
+  action: Aura tells Aaron he is holding onto this place with his mind.
+  purpose: Begin travel logic.
+- shot_id: CH09_SC02_SH002
+  type: Aaron resistance
+  framing: Aaron rubbing temples, overwhelmed
+  camera: close with world slightly unstable
+  action: He argues he cannot imagine a place he has never seen.
+  purpose: Keep the rule emotionally credible.
+- shot_id: CH09_SC02_SH003
+  type: pacification wave
+  framing: Aura waving her hand through the woods
+  camera: subtle ripple across environment
+  action: Aaron becomes a disembodied observer of his own movement.
+  purpose: Echo the split-river compulsion.
+- shot_id: CH09_SC02_SH004
+  type: eyes closed
+  framing: Aaron sitting before Aura in darkness
+  camera: close on breath and stillness
+  action: He closes his eyes.
+  purpose: Move the action inward.
+- shot_id: CH09_SC02_SH005
+  type: Kingdom seen
+  framing: imagined palace in nebula through Aaron's inner view
+  camera: dreamlike but specific
+  action: He sees Aura's home.
+  purpose: Make destination possible.
+- shot_id: CH09_SC02_SH006
+  type: emotional connection
+  framing: Aaron and Aura staring at each other after the vision
+  camera: quiet two-shot
+  action: They understand each other wordlessly.
+  purpose: Finish the trust bridge.
+notes:
+- This is an emotional mind-link scene, not a technical manual.

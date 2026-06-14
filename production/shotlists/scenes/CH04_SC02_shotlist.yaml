@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH04_SC02
+scene_id: CH04_SC02
+title: Recovery and Memory
+status: drafted
+source_scene: adaptation/scenes/CH04_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Confirm the impossible events are physically real and Aura remains present.
+shots:
+- shot_id: CH04_SC02_SH001
+  type: wake in pain
+  framing: Aaron in bed waking in sweat
+  camera: tight on discomfort
+  action: Pain cuts through his dreamlike memory.
+  purpose: Ground the event in physical consequence.
+- shot_id: CH04_SC02_SH002
+  type: bandage proof
+  framing: Aaron's hand on bandages
+  camera: detail shot
+  action: He discovers the wounds are real.
+  purpose: Confirm it was not a dream.
+- shot_id: CH04_SC02_SH003
+  type: hallway hesitation
+  framing: Aaron at the door to the spare room
+  camera: quiet suspense
+  action: He braces to see whether Aura is there.
+  purpose: Hold reality in question.
+- shot_id: CH04_SC02_SH004
+  type: Aura asleep
+  framing: Aura sleeping in the next room
+  camera: Aaron's perspective, soft and stunned
+  action: She is physically present.
+  purpose: Confirm the relationship is real.
+- shot_id: CH04_SC02_SH005
+  type: kitchen retreat
+  framing: Aaron moving toward kitchen in pain
+  camera: grounded domestic movement
+  action: He searches his thoughts for answers.
+  purpose: Prepare the Eros/Teacher objective.
+notes:
+- Use domestic stillness to contrast cosmic disruption.

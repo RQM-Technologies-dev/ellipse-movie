@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH09_SC01
+scene_id: CH09_SC01
+title: Trust Conflict
+status: drafted
+source_scene: adaptation/scenes/CH09_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Let Aaron's wonder become suspicion as Aura reveals the scale of her home.
+shots:
+- shot_id: CH09_SC01_SH001
+  type: firelit confrontation
+  framing: Aaron and Aura near the cottage fire
+  camera: balanced two-shot with created home behind them
+  action: Aura says she is part of all humans.
+  purpose: Begin cosmic claim from intimate space.
+- shot_id: CH09_SC01_SH002
+  type: Kingdom description
+  framing: Aura describing a kingdom in a nebula
+  camera: hold on Aaron's reaction more than exposition
+  action: The destination exceeds his comprehension.
+  purpose: Expand the story scale.
+- shot_id: CH09_SC01_SH003
+  type: suspicion turn
+  framing: Aaron looking from cottage to Aura
+  camera: close as trust fractures again
+  action: He wonders whether Eros was really his idea.
+  purpose: Show fear of manipulation.
+- shot_id: CH09_SC01_SH004
+  type: partnership rule
+  framing: Aura facing him with the cottage visible
+  camera: stable, reassuring composition
+  action: She says he imagines and she creates.
+  purpose: Define the creative partnership.
+- shot_id: CH09_SC01_SH005
+  type: unresolved trust
+  framing: Aaron with gem in pocket/hand
+  camera: quiet detail to anxious face
+  action: He considers whether to trust her.
+  purpose: Prepare untethering.
+notes:
+- Do not make Aura sinister; this is Aaron's fear.

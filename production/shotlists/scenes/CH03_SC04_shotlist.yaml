@@ -1,0 +1,47 @@
+shotlist_id: SHOTLIST_CH03_SC04
+scene_id: CH03_SC04
+title: Thought-Mirroring Panic
+status: drafted
+source_scene: adaptation/scenes/CH03_SC04.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Turn Aaron's fascination with Aura into fear when she voices his thoughts.
+shots:
+- shot_id: CH03_SC04_SH001
+  type: escape from mound
+  framing: Aaron pulling Aura through the current
+  camera: urgent tracking with water at leg level
+  action: The mound erodes behind them.
+  purpose: Move from discovery to immediate danger.
+- shot_id: CH03_SC04_SH002
+  type: shore question
+  framing: Aura and Aaron catching breath on shore
+  camera: intimate two-shot
+  action: Aura asks who Aaron is.
+  purpose: Create confusion because she already said his name.
+- shot_id: CH03_SC04_SH003
+  type: first thought mirror
+  framing: Aaron's suspicious reaction as Aura repeats his unspoken question
+  camera: hold on Aaron before Aura speaks
+  action: She voices what he is thinking.
+  purpose: Reveal the mind-emotion link.
+- shot_id: CH03_SC04_SH004
+  type: panic escalation
+  framing: crosscut or tight two-shots as Aura repeats more thoughts
+  camera: tightening rhythm
+  action: Aaron's breathing becomes erratic.
+  purpose: Make her power frightening.
+- shot_id: CH03_SC04_SH005
+  type: mental stop
+  framing: Aaron closing his eyes
+  camera: abrupt stillness after panic
+  action: He silently demands everything stop.
+  purpose: Prepare Aura's identity reveal.
+- shot_id: CH03_SC04_SH006
+  type: name reveal
+  framing: Aura standing squarely before him
+  camera: quiet centered close
+  action: Aura says her name.
+  purpose: End the inciting relationship with a clear hook.
+notes:
+- Do not make Aura malicious.
+- Fear comes from intimacy that Aaron cannot control.

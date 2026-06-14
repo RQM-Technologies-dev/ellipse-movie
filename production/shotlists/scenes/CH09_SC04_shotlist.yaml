@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH09_SC04
+scene_id: CH09_SC04
+title: Arrival at Aura's Home
+status: drafted
+source_scene: adaptation/scenes/CH09_SC04.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Reveal the Kingdom and end the travel sequence on Eternity waiting at the threshold.
+shots:
+- shot_id: CH09_SC04_SH001
+  type: regolith arrival
+  framing: Aaron and Aura on cracked dry ground
+  camera: tilt from ground to star-warmed twilight
+  action: Aaron releases the embrace and sees where they are.
+  purpose: Confirm physical arrival.
+- shot_id: CH09_SC04_SH002
+  type: sky silk
+  framing: lights like holes in pink silk
+  camera: Aaron's upward discovery
+  action: The new sky overwhelms him.
+  purpose: Establish cosmic atmosphere.
+- shot_id: CH09_SC04_SH003
+  type: palace reveal
+  framing: amethyst palace on the horizon
+  camera: slow widening as scale grows
+  action: Aaron sees Aura's home.
+  purpose: Pay off the destination.
+- shot_id: CH09_SC04_SH004
+  type: hand connection
+  framing: Aaron reaching for Aura's hand
+  camera: intimate detail before wide approach
+  action: They walk toward the palace together.
+  purpose: Anchor awe in relationship.
+- shot_id: CH09_SC04_SH005
+  type: gates approach
+  framing: amethyst gates growing larger
+  camera: forward movement with increasing scale
+  action: The palace entrance draws near.
+  purpose: Build anticipation.
+- shot_id: CH09_SC04_SH006
+  type: watcher reveal
+  framing: epic figure waiting at entrance
+  camera: Aaron senses before audience fully sees
+  action: Eternity is revealed at the threshold.
+  purpose: Pull into The Father of Time.
+notes:
+- Match the Overture's palace continuity.

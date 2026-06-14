@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH03_SC01
+scene_id: CH03_SC01
+title: Aaron Wakes Under the Stars
+status: drafted
+source_scene: adaptation/scenes/CH03_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Convert stillness at Lake Tara into dread through sound, vibration, and abnormal sky clarity.
+shots:
+- shot_id: CH03_SC01_SH001
+  type: night wake
+  framing: Aaron waking in dark grass beside the lake
+  camera: close, disoriented, low to ground
+  action: A rumble pulls him from sleep.
+  purpose: Begin dread from Aaron's body.
+- shot_id: CH03_SC01_SH002
+  type: star field
+  framing: lake reflecting dense constellations
+  camera: Aaron's upward look to impossible clarity
+  action: The night sky feels too clear.
+  purpose: Connect Tara to cosmic imagery.
+- shot_id: CH03_SC01_SH003
+  type: listening beat
+  framing: Aaron still at water's edge
+  camera: slow push as sound swells then fades
+  action: He listens to the rumble travel.
+  purpose: Suggest motion rather than weather.
+- shot_id: CH03_SC01_SH004
+  type: ground tremor
+  framing: grass, water, and Aaron's feet vibrating
+  camera: low detail and subtle shake
+  action: The ground trembles beneath him.
+  purpose: Make danger physical before it is visible.
+- shot_id: CH03_SC01_SH005
+  type: rising alarm
+  framing: Aaron turning toward the valley
+  camera: widen to show his exposure
+  action: He realizes earthquakes do not happen here.
+  purpose: Launch the transition into the rain of lights.
+notes:
+- Build sound design carefully before visual spectacle.

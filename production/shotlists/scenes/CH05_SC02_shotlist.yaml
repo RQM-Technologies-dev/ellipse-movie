@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH05_SC02
+scene_id: CH05_SC02
+title: Captain's Quarters
+status: drafted
+source_scene: adaptation/scenes/CH05_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Secure passage while planting the Elgia inscription motif.
+shots:
+- shot_id: CH05_SC02_SH001
+  type: door detail
+  framing: captain's door with silver inscription
+  camera: Aaron's eyes to the lettering
+  action: The strange phrase is noticed but not explained.
+  purpose: Plant the motif.
+- shot_id: CH05_SC02_SH002
+  type: Captain reveal
+  framing: Captain stepping into light
+  camera: low or broad framing to emphasize intimidation
+  action: He evaluates Aaron and Aura.
+  purpose: Establish social threat.
+- shot_id: CH05_SC02_SH003
+  type: Aura silver
+  framing: Aura discreetly slipping silver to Aaron
+  camera: close handoff
+  action: Aaron discovers the silver in his pocket.
+  purpose: Continue Aura's unexplained resources.
+- shot_id: CH05_SC02_SH004
+  type: payment accepted
+  framing: Captain taking silver
+  camera: quick practical beat
+  action: The Captain pockets payment.
+  purpose: Resolve the obstacle.
+- shot_id: CH05_SC02_SH005
+  type: casting off order
+  framing: Captain moving toward deck
+  camera: follow his authority outward
+  action: He tells Matis to keep loading and prepare to leave.
+  purpose: Send the story into departure.
+notes:
+- Do not translate the inscription yet.

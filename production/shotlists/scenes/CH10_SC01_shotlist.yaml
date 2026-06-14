@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH10_SC01
+scene_id: CH10_SC01
+title: Meeting Eternity
+status: drafted
+source_scene: adaptation/scenes/CH10_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Introduce Eternity as terrifying, warm, and cosmically authoritative.
+shots:
+- shot_id: CH10_SC01_SH001
+  type: stair ascent
+  framing: Aaron and Aura climbing toward the cloaked figure
+  camera: upward movement with falling-up sensation
+  action: Aura leads without fear.
+  purpose: Make Eternity's presence physically powerful.
+- shot_id: CH10_SC01_SH002
+  type: eyes reveal
+  framing: Eternity's brilliant ice-blue eyes beneath hood
+  camera: close, star-tempering intensity
+  action: Aaron meets his gaze.
+  purpose: Establish connection to Aaron.
+- shot_id: CH10_SC01_SH003
+  type: identity
+  framing: Eternity lowering hood
+  camera: shift from intimidating silhouette to grandfatherly face
+  action: He names himself Father of Time.
+  purpose: Blend fear and warmth.
+- shot_id: CH10_SC01_SH004
+  type: kingdom welcome
+  framing: palace doors opening behind Eternity
+  camera: wide reveal into crystal columns
+  action: He welcomes them to the Kingdom.
+  purpose: Formal entry into cosmic space.
+- shot_id: CH10_SC01_SH005
+  type: hall passage
+  framing: Aaron, Aura, and Eternity walking through crystal columns
+  camera: motivated glide through architecture
+  action: Eternity begins guiding them.
+  purpose: Move toward the palace wonders.
+notes:
+- Eternity should feel old, kind, and dangerous with knowledge.

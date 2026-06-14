@@ -1,0 +1,46 @@
+shotlist_id: SHOTLIST_CH11_SC01
+scene_id: CH11_SC01
+title: Aaron and Aura in the Garden
+status: drafted
+source_scene: adaptation/scenes/CH11_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Let Aaron and Aura clarify her autonomy in a warm, intimate Garden sequence.
+shots:
+- shot_id: CH11_SC01_SH001
+  type: Garden rest
+  framing: Aaron alone among impossible flowers after Eternity leaves
+  camera: quiet, breathable, warm
+  action: Aaron feels at ease but wonders why he is there.
+  purpose: Reset after lore reveal.
+- shot_id: CH11_SC01_SH002
+  type: Aura through hedge
+  framing: Aura beyond multi-spectral hedge and dew-like vapor
+  camera: Aaron discovers her visually
+  action: She moves with the grace of the Garden.
+  purpose: Reframe Aura in her home.
+- shot_id: CH11_SC01_SH003
+  type: home question
+  framing: Aaron beside Aura
+  camera: gentle two-shot
+  action: He asks if this is her home.
+  purpose: Begin the intimacy.
+- shot_id: CH11_SC01_SH004
+  type: emotions not thoughts
+  framing: Aura explaining what she senses
+  camera: close on her calm certainty
+  action: She says it is his emotions, not his thoughts.
+  purpose: Refine the connection rule.
+- shot_id: CH11_SC01_SH005
+  type: own Ousia
+  framing: Aaron and Aura among Garden light
+  camera: still, emotionally clear
+  action: Aura says she is her own Ousia.
+  purpose: Lock her autonomy.
+- shot_id: CH11_SC01_SH006
+  type: playful release
+  framing: flower petal lifting from Aura's fingers
+  camera: follow petal upward
+  action: Aura plays with ambiguity without fear.
+  purpose: Let the relationship breathe.
+notes:
+- This is a relationship scene first, lore scene second.

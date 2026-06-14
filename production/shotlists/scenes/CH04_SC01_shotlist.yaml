@@ -1,0 +1,40 @@
+shotlist_id: SHOTLIST_CH04_SC01
+scene_id: CH04_SC01
+title: Return to the Farm
+status: drafted
+source_scene: adaptation/scenes/CH04_SC01.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Decompress from terror and show Aaron choosing care for Aura.
+shots:
+- shot_id: CH04_SC01_SH001
+  type: injury notice
+  framing: Aura's scraped back and Aaron's concern
+  camera: close detail, gentle after chaos
+  action: Aaron sees her injuries.
+  purpose: Shift from fear to care.
+- shot_id: CH04_SC01_SH002
+  type: invitation
+  framing: Aaron offering help beside the river
+  camera: simple two-shot
+  action: He tells Aura he can make ointment at the farm.
+  purpose: Give Aaron agency through compassion.
+- shot_id: CH04_SC01_SH003
+  type: silent travel
+  framing: Aaron and Aura moving through moonlit woods
+  camera: tracking through familiar paths
+  action: They walk mostly in silence.
+  purpose: Restore Tara geography after the impossible event.
+- shot_id: CH04_SC01_SH004
+  type: strange answer
+  framing: Aura in pre-dawn blue light
+  camera: close on her distant expression
+  action: She says she is Tara.
+  purpose: Keep mystery alive.
+- shot_id: CH04_SC01_SH005
+  type: sunrise farm reveal
+  framing: farm appearing at the forest edge
+  camera: Aaron's exhausted perspective
+  action: The farm comes into sight at sunrise.
+  purpose: Deliver temporary safety.
+notes:
+- Keep the tone fragile and intimate.

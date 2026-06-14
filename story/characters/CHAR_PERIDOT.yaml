@@ -1,0 +1,16 @@
+character_id: CHAR_PERIDOT
+name: Peridot
+age_range: adult horse
+role: mount / transition companion
+physical_description: Stunning Erosian Black Hair horse with distinctive eyes.
+wardrobe: Saddle and tack from West Eros Stables.
+personality: Powerful, responsive, slightly comic appetite note; do not let her eat everything she sees.
+character_arc: Carries Aaron and Aura from Eros to the Academy; functions as a transitional creature between city and mystery.
+relationships:
+- character_id: CHAR_AARON
+  relationship: ridden by Aaron toward the Academy
+- character_id: CHAR_AURA
+  relationship: carries Aura with Aaron through Tritaselo Pass
+voice_notes: Nonverbal; use animal behavior and breath/stomping.
+visual_reference_notes: Black horse in twilight, strong silhouette, named Peridot.
+continuity_notes: Aaron glimpses a connection to Aura while helping her mount Peridot.

@@ -1,0 +1,21 @@
+# Scene Schema
+# Copy this file and rename it using the scene ID (e.g., CH01_SC01.yaml).
+# Fill in all applicable fields. Use null for unknown or not-yet-determined values.
+
+scene_id: ""              # e.g., CH01_SC01
+chapter: ""               # Source chapter reference, e.g., CH01
+title: ""                 # Short descriptive title for the scene
+location: ""              # Location ID from story/locations/, e.g., LOC_MOONWATER_BRIDGE
+time_of_day: ""           # e.g., dawn, morning, midday, afternoon, dusk, night
+characters: []            # List of character IDs present in the scene
+  # - ""
+scene_purpose: ""         # What narrative function this scene serves
+emotional_turn: ""        # How the emotional state changes from start to end of scene
+plot_turn: ""             # How the plot situation changes from start to end of scene
+summary: ""               # 2–4 sentence summary of what happens
+key_dialogue: ""          # Any critical lines of dialogue (quote or paraphrase from manuscript)
+props: []                 # Significant props that appear in this scene
+  # - ""
+continuity_notes: ""      # Details that must remain consistent with other scenes
+adaptation_notes: ""      # Notes on what was changed or compressed from the source novel
+status: "placeholder"     # placeholder | in_progress | draft | locked

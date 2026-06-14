@@ -1,0 +1,18 @@
+# Character Schema
+# Copy this file and rename it using the character ID (e.g., CHAR_ELARA.yaml).
+# Fill in all applicable fields. Use null for unknown or not-yet-determined values.
+
+character_id: ""          # e.g., CHAR_ELARA
+name: ""                  # Full name as used in the manuscript
+age_range: ""             # e.g., "16-18", "early 30s"
+role: ""                  # e.g., protagonist, antagonist, mentor, supporting
+physical_description: ""  # Height, build, hair, eyes, distinctive features
+wardrobe: ""              # Typical clothing, colors, any significant items
+personality: ""           # Key traits, strengths, flaws
+character_arc: ""         # Where they start, how they change, where they end
+relationships: []         # List of other character IDs and relationship type
+  # - character_id: ""
+  #   relationship: ""
+voice_notes: ""           # Speech patterns, accent, vocabulary level, tone
+visual_reference_notes: "" # Notes for AI image generation; avoid copyrighted refs
+continuity_notes: ""      # Details that must stay consistent across all scenes

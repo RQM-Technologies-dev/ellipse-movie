@@ -1,0 +1,21 @@
+# Shot Schema
+# Copy this file and rename it using the shot ID (e.g., CH01_SC01_SH001.yaml),
+# or include multiple shots in a scene shot list file as a YAML list.
+# Fill in all applicable fields. Use null for unknown or not-yet-determined values.
+
+shot_id: ""              # e.g., CH01_SC01_SH001
+scene_id: ""             # e.g., CH01_SC01
+shot_number: 1           # Sequential number within the scene
+shot_type: ""            # e.g., wide, medium, close-up, extreme close-up, two-shot, OTS, POV, insert
+camera_movement: ""      # e.g., static, pan, tilt, dolly, handheld, crane, drone, zoom
+lens: ""                 # e.g., wide angle, standard, telephoto, macro
+duration_seconds: null   # Estimated duration in seconds
+subject: ""              # Primary subject of the shot
+action: ""               # What happens or moves in the shot
+emotion: ""              # Intended emotional response from the audience
+lighting: ""             # Lighting setup and quality for this shot
+composition: ""          # Framing description, rule of thirds, leading lines, etc.
+continuity_notes: ""     # Details that must match adjacent shots (eyeline, prop position, etc.)
+image_prompt: ""         # AI image prompt for storyboard frame generation
+video_prompt: ""         # AI video prompt for clip generation
+status: "placeholder"    # placeholder | in_progress | draft | locked

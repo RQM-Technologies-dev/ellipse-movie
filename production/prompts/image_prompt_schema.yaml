@@ -1,0 +1,14 @@
+# Image Prompt Schema
+# Copy this file and rename it using the shot ID (e.g., CH01_SC01_SH001_image.yaml).
+# Fill in all applicable fields. Use null for unknown or not-yet-determined values.
+
+prompt_id: ""            # e.g., CH01_SC01_SH001_IMG_v1
+shot_id: ""              # e.g., CH01_SC01_SH001
+visual_prompt: ""        # Full text prompt for the image generation model
+negative_prompt: ""      # Elements to exclude from the generated image
+aspect_ratio: ""         # e.g., 16:9, 2.39:1, 1:1
+style_notes: ""          # Additional style direction not captured in visual_prompt
+reference_images: []     # Paths or URLs to reference images (must be rights-cleared)
+  # - ""
+seed: null               # Seed value used, if locked for reproducibility
+status: "draft"          # draft | approved | locked

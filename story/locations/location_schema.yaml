@@ -1,0 +1,16 @@
+# Location Schema
+# Copy this file and rename it using the location ID (e.g., LOC_MOONWATER_BRIDGE.yaml).
+# Fill in all applicable fields. Use null for unknown or not-yet-determined values.
+
+location_id: ""             # e.g., LOC_MOONWATER_BRIDGE
+name: ""                    # Location name as used in the manuscript
+description: ""             # General description of the place
+geography: ""               # Physical surroundings: terrain, climate, proximity to other locations
+architecture: ""            # Building style, materials, scale, age, condition
+lighting: ""                # Natural and artificial light; time-of-day variations
+mood: ""                    # Emotional tone the location conveys
+recurring_props: []         # Objects consistently associated with this location
+  # - ""
+color_palette: ""           # Dominant colors and tones for visual consistency
+visual_reference_notes: ""  # Notes for AI image generation; avoid copyrighted refs
+continuity_notes: ""        # Details that must remain consistent across all scenes

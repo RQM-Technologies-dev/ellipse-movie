@@ -1,0 +1,15 @@
+location_id: LOC_ACADEMY
+name: The Academy
+description: Bluffside institution where The Teacher resides.
+geography: On bluffs above crashing waves north of Eros.
+architecture: Ancient vine-covered structure, thick wooden doors, candlelit foyer, gray/white marble circular room, geometric sculptures.
+lighting: Night, oil lamps, moonlight outside.
+mood: Solemn, ancient, philosophical, intimidating.
+recurring_props:
+- silver triangle
+- oil saucers
+- geometric sculptures
+- wooden doors
+color_palette: gray, white marble, oil amber, moonlit blue
+visual_reference_notes: Scholarly and ancient; avoid generic castle or school look.
+continuity_notes: The Academy contains the Athenaeum and The Teacher's den.

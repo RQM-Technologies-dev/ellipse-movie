@@ -1,0 +1,14 @@
+location_id: LOC_ACADEMY_LIBRARY
+name: The Athenaeum
+description: Three-story library where The Teacher first explains Aura as Einai/Ousia.
+geography: Interior room within the Academy.
+architecture: Tall library with brightly illuminated scrolls and multiple levels.
+lighting: Illuminated scrolls and warm interior light.
+mood: Awe, knowledge, destabilization.
+recurring_props:
+- illuminated scrolls
+- library levels
+- Teacher's robes
+color_palette: warm gold, parchment, gray stone
+visual_reference_notes: Should feel like knowledge has weight and age.
+continuity_notes: The Teacher identifies Tara and asks about the rain of lights here.

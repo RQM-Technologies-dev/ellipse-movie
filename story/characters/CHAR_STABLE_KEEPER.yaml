@@ -1,0 +1,18 @@
+character_id: CHAR_STABLE_KEEPER
+name: West Eros Stable Keeper
+age_range: adult
+role: minor gatekeeper
+physical_description: Large man behind the West Eros Stables gate, shoveling hay with a fork.
+wardrobe: Stable work clothes.
+personality: Blunt and dismissive until Aura presents silver.
+character_arc: Provides Peridot and moves the story from Eros to the Academy road.
+relationships:
+- character_id: CHAR_AARON
+  relationship: rents horse to Aaron and Aura
+- character_id: CHAR_AURA
+  relationship: accepts her silver
+- character_id: CHAR_PERIDOT
+  relationship: stable keeper for Peridot
+voice_notes: Blunt, transactional.
+visual_reference_notes: Hay, stable gate, twilight, work fork.
+continuity_notes: He initially tells them to come back tomorrow because it is late.

@@ -1,0 +1,14 @@
+location_id: LOC_EROS_FLOWER_SHOP
+name: Flower Shop in Eros
+description: Quiet floral shop where Aaron and Aura receive the first Academy clue.
+geography: Off a small alley from the Eros market.
+architecture: Mint doorway, open windows, and floral arrangements along the walls.
+lighting: Soft shop light with daylight from the street.
+mood: Sensory relief and clue discovery.
+recurring_props:
+- protocultures
+- mint doorway
+- floral arrangements
+color_palette: mint, green, floral pinks, soft yellow
+visual_reference_notes: Should feel like a calm pocket inside the loud market.
+continuity_notes: The flower seller says The Teacher runs an academy up north.

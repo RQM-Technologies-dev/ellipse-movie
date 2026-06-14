@@ -1,0 +1,14 @@
+location_id: LOC_ELGIA_HULL
+name: Elgia Hull Room by the Spices
+description: Small sleeping room beside spice racks where Aaron tries to process Aura's powers.
+geography: Lower level of the Elgia.
+architecture: Cramped former storage room with two cots and nearby spice racks.
+lighting: Dim interior ship light.
+mood: Private, anxious, enclosed.
+recurring_props:
+- two cots
+- spice racks
+- blankets
+color_palette: brown wood, spice reds, dim amber
+visual_reference_notes: Constrained physical space after vast deck/stars imagery.
+continuity_notes: Aaron and Aura sleep in separate cots here.

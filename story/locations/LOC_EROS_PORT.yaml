@@ -1,0 +1,14 @@
+location_id: LOC_EROS_PORT
+name: Port of Eros
+description: First major urban vista Aaron sees outside Tara.
+geography: Large harbor and market district at Eros.
+architecture: Many vessels, vanilla sails, docks, banners, crowded marketplace.
+lighting: Bright morning arrival.
+mood: Overwhelming, exciting, expansive.
+recurring_props:
+- vanilla sails
+- market banners
+- dock planks
+color_palette: cream, blue, banner colors, sunlit stone/wood
+visual_reference_notes: Scale should dwarf Tara and the Elgia.
+continuity_notes: Aaron takes his first step off the Elgia here.

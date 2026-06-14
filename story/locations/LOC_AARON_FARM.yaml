@@ -1,0 +1,15 @@
+location_id: LOC_AARON_FARM
+name: Aaron's Farm
+description: Aaron's ordinary domestic base and recovery location after the rain of lights.
+geography: At the border of Tara's farms near woods and Lake Tara.
+architecture: Simple rural farmhouse with bedroom, kitchen, pantry, and spare room.
+lighting: Midday recovery light; plain domestic interior.
+mood: Grounded, painful, transitional.
+recurring_props:
+- bandages
+- ointment
+- bread
+- packed bag
+color_palette: warm wood, linen, muted earth tones
+visual_reference_notes: Keep humble and lived-in; contrast with the Elgia, Eros, and Kingdom.
+continuity_notes: Aaron and Aura remain here roughly two days before leaving for Eros.

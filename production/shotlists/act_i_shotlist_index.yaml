@@ -1,7 +1,9 @@
 project: Ellipse
 unit: Act I / film adaptation target
-status: drafted
+status: reviewed
 source_lock_status: scenes_locked
+review_record: production/shotlists/review/act_i_shotlist_review.md
+conventions: production/shotlists/shotlist_conventions.md
 visual_direction: docs/visual_direction.md
 sequence_shotlists:
 - sequence_id: SEQ_CH07_EROS_MARKET
@@ -141,6 +143,6 @@ scene_shotlists:
   path: production/shotlists/scenes/CH11_SC04_shotlist.yaml
   status: drafted
 next_priority:
-- review_all_shotlists_against_visual_direction
-- prepare_storyboard_prompt_schema
-- generate_storyboard_prompts_after_review
+- prepare_storyboard_prompt_layer
+- create_storyboard_prompt_schema
+- generate_storyboard_prompts_from_reviewed_shotlists

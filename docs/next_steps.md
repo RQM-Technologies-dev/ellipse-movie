@@ -1,58 +1,43 @@
 # Next Steps
 
-This is the current working checklist after drafting shot lists for all locked Act I scenes on `main`.
+This is the current working checklist after reviewing and normalizing Act I shot lists on `main`.
 
 ## Completed
 
-- Repository scaffold created.
-- Raw Act I manuscript imported.
-- Act I movement split completed.
-- Source manifest added.
-- Chapter/movement map added.
-- Consolidated Act I scene inventory added.
-- First-pass Act I story bible added.
-- Timeline and continuity notes populated.
-- Act I treatment draft added.
-- Act I beat sheet draft added.
-- Act I scene inventory expanded into one YAML file per scene.
-- Act I story bible converted into individual character, location, and lore files.
-- Clean Act I manuscript layer produced under `manuscript/clean/` without changing the raw manuscript.
-- Act I scene YAML files reviewed and filled with scene metadata.
-- Act I treatment and beat sheet updated from reviewed scene YAML.
-- Human adaptation decisions applied: no Act II framing, wordless Overture, augmented Teacher explanation, bittersweet Captain translation, and full/expanded Eros market.
-- Eros Market continuous sequence plan added under `adaptation/sequences/`.
-- Project-wide visual direction added under `docs/visual_direction.md`.
-- Act I scene YAML files locked.
-- Act I shot-list generation started under `production/shotlists/`.
-- Major visual-anchor shot lists drafted.
-- Remaining Act I connective shot lists drafted.
-- Every locked scene now has a drafted scene shot list or is covered by the Eros Market sequence shot list.
+- Act I scene YAML files are locked.
+- Eros Market continuous sequence is locked and covered by a sequence shot list.
+- Shot lists exist for all locked scenes or are covered by the Eros Market sequence.
+- Act I shot-list conventions have been added.
+- Act I shot-list review record has been added.
+- Shot-list index now records the shot-list layer as reviewed.
 
 ## Immediate next tasks
 
-1. Review all drafted shot lists against `docs/visual_direction.md` for motivated camera movement, readable geography, emotional continuity, and classic adventure scale.
-2. Normalize any shot-list fields or naming conventions that need tightening before storyboards.
-3. Prepare the storyboard prompt layer using the reviewed shot lists as the source of truth.
-4. After storyboard prompt planning is reviewed, begin storyboard prompt generation.
+1. Prepare the storyboard prompt layer using reviewed shot lists as the source of truth.
+2. Create a storyboard prompt schema under `production/storyboards/`.
+3. Generate first-pass storyboard prompts from reviewed shot lists.
+4. Keep video prompts and generated media downstream of storyboard review.
 
-## Hold until shot-list review
+## Hold until storyboard prompt review
 
-Do not start storyboard prompts, video prompts, or generated media until:
+Do not start video prompts or generated media until:
 
-- shot lists are reviewed against `docs/visual_direction.md`,
-- shot-list naming and numbering are stable,
+- storyboard prompt schema exists,
+- storyboard prompts are generated from reviewed shot lists,
+- storyboard prompts are reviewed against `docs/visual_direction.md`,
 - character and location IDs remain stable,
 - visual continuity for Aura / Einai / Ousia, rain of lights, Eros, the Kingdom, and the Portara is confirmed.
 
 ## Recommended next commit
 
-`Review and normalize Act I shot lists`
+`Prepare Act I storyboard prompt layer`
 
 Expected output:
 
-- All drafted shot lists checked for continuity, numbering, and visual-direction alignment.
-- `production/shotlists/act_i_shotlist_index.yaml` remains accurate.
-- Storyboard prompt planning can begin after review.
+- `production/storyboards/README.md`
+- `production/storyboards/storyboard_prompt_schema.yaml`
+- `production/storyboards/act_i_storyboard_prompt_index.yaml`
+- first-pass storyboard prompts generated from reviewed shot lists
 
 Run validation afterward:
 

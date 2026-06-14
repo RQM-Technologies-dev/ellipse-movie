@@ -1,0 +1,20 @@
+character_id: CHAR_AURA
+name: Aura
+age_range: appears teenage
+role: co-protagonist / guide / Ousia / Spirit of All Things
+physical_description: Appears as a young girl with pale skin, long hair, and uncompromising deep-cut turquoise eyes; first appears muddy, bruised, and scraped after the rain of lights.
+wardrobe: Initially torn and muddy clothes; later receives a longer dress aboard the Elgia.
+personality: Calm, graceful, playful, emotionally perceptive, persuasive without overt force, mysterious but protective of Aaron.
+character_arc: Appears as an impossible wounded girl, becomes Aaron's guide, is reframed by The Teacher as Einai/Ousia, then revealed by Eternity as her own Ousia and the Spirit of All Things.
+relationships:
+- character_id: CHAR_AARON
+  relationship: creative partner and emotional anchor
+- character_id: CHAR_ETERNITY
+  relationship: mother, according to Eternity
+- character_id: CHAR_TEACHER
+  relationship: object of philosophical explanation and scrutiny
+- character_id: CHAR_PERIDOT
+  relationship: travels with Aaron and Aura to the Academy
+voice_notes: Soft, direct, often says more with certainty than explanation; can be playful when Aaron is overwhelmed.
+visual_reference_notes: Deep turquoise eyes are mandatory. Visual language should connect to blue/silver vapor, elemental light, and the Garden of Time.
+continuity_notes: Do not reduce Aura to only Aaron's imagination. She reflects Aaron's emotions and enables his imagination, but Act I confirms she is her own Ousia.

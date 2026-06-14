@@ -1,18 +1,28 @@
-# Treatment — Act I Scene-Reviewed Draft
+# Treatment — Act I Human-Reviewed Draft
 
-This treatment reflects the reviewed Act I scene YAML sequence. It should be treated as the current prose adaptation spine until the scene files are formally locked.
+This treatment reflects the reviewed Act I scene YAML sequence and the human adaptation decisions captured after scene review. It should be treated as the current prose adaptation spine until the scene files are formally locked.
 
 ## Adaptation thesis
 
-Act I is Aaron's passage from ordinary longing into cosmic responsibility. He begins as a farm boy who wants the world to open beyond Tara; by the end of the act, he has crossed through the Portara after learning that his love, imagination, and future are bound to Aura, Eternity, and the Kingdom at the Beginning and End of the Universe.
+Act I is Aaron's complete passage from ordinary longing into cosmic responsibility. He begins as a farm boy who wants the world to open beyond Tara; by the end of the film, he crosses through the Portara after learning that his love, imagination, and future are bound to Aura, Eternity, and the Kingdom at the Beginning and End of the Universe.
 
 The film should preserve the source's musical-movement structure while giving the audience a clear emotional throughline: Aaron wants freedom, receives Aura as the impossible answer to that desire, fears she may only be his own imagination made visible, then accepts that she is autonomous, real, and essential to the future he must shape.
+
+## Human adaptation decisions
+
+- **No Act II framing:** this pipeline treats the current Act I material as the film adaptation target, not as a setup for an immediate Act II production block.
+- **Overture:** keep it wordless and wise; let it allude to, mimic, and emotionally duplicate the feeling of the ending without explaining it.
+- **The Teacher / Einai / Ousia:** augment what the book says where needed for cinematic clarity, while preserving the book's core explanation and keeping The Teacher's account true-but-incomplete.
+- **Captain's translation:** land the first translation of the Elgia phrase as bittersweet.
+- **Eros market:** do not compress the market sequence. Keep it full length, and allow expansion because this is world-building fantasy texture.
 
 ## Scene-backed Act I treatment
 
 ### Overture — CH01
 
 A lone heir waits in an impossible amethyst palace at the beginning and end of the universe. In the Garden, a vibration swells into elemental light: iron, magnesium, chromium, aluminum, and impossible color. The surge departs like a star, leaving the halls silent. The heir remains, thinking of his father.
+
+The Overture should be wordless. It should not explain the plot. Instead, it should allude to and emotionally mirror the ending: solitude, father/son longing, cosmic architecture, and the feeling of something beautiful leaving the Garden.
 
 ### The Clouds — CH02
 
@@ -44,7 +54,7 @@ At the port, Aaron recognizes the Elgia, a three-masted ship bound for Eros. The
 
 As Tara recedes, Aaron realizes he is beyond return. Aura's presence makes leaving feel effortless. Sailors pause, soften, or redirect under her gaze. Jericks and Ilyich become part of the rough shipboard world, while Aaron notices Aura's quiet authority over men who should frighten them.
 
-Later, the Captain approaches, half-suspicious and half-impressed by the way Aura has improved the crew's work. Aaron asks about the inscription. The Captain translates it lightly: The horizon of your love has no end. The line lands as ship lore now, but it becomes the emotional key to the Act I ending.
+Later, the Captain approaches, half-suspicious and half-impressed by the way Aura has improved the crew's work. Aaron asks about the inscription. The Captain translates it as bittersweet ship lore: The horizon of your love has no end. The line lands with warmth, ache, and humor now, then becomes the emotional key to the ending.
 
 ### The Stars — CH06
 
@@ -56,7 +66,7 @@ Aaron is awestruck and terrified. Aura has not only charmed people; she has alte
 
 ### The Teacher — CH07
 
-The Elgia arrives in Eros, and Aaron steps into a world larger than anything in Tara: vanilla sails, banners, spices, fabrics, scopes, birds, alleys, and crowds. His wonder slowly turns to frustration as he and Aura fail to find The Teacher. The more the city opens around Aura, the more Aaron wonders whether everything is too easy.
+The Elgia arrives in Eros, and Aaron steps into a world larger than anything in Tara: vanilla sails, banners, spices, fabrics, scopes, birds, alleys, and crowds. The market should remain full and generous, not compressed. Its fantasy texture is part of the audience reward: strange foods, vendors, scents, fabrics, roots, scopes, lamplighters, clues, and the feeling that Eros is a living world beyond Aaron's plot needs.
 
 A flower seller provides the first clue: The Teacher runs an academy north of Eros. As twilight falls, a boy with a green Academy textbook gives the practical route: north through the city, Tritaselo Pass, by horse. At West Eros Stables, Aura's silver secures Peridot. When Aaron helps Aura mount, he glimpses everything — the stable, the horse, his arm, her face — as an extension of her.
 
@@ -64,7 +74,7 @@ They ride into night. Aura raises a hovering light, and the road grows stranger 
 
 The Teacher appears. Unlike others, he is not swayed by Aura. He studies her, then leads them into the Athenaeum. Aaron tells him about the rain of lights, and The Teacher identifies the deeper question: Aura. He explains that Aura is Einai, energy without form. When Einai contacts a human, it becomes Ousia, the substance form of that human's imagination.
 
-In a private den, The Teacher presses the idea further. Aura is not making light, he says; she is what Aaron wants her to be. Aaron realizes the explanation fits too many moments: the thought-mirroring, the silver, the sapphire fruit, the stars. His trust fractures.
+The film may augment the book's explanation here for clarity, but the meaning should remain the same: The Teacher gives Aaron a true but incomplete framework. In a private den, The Teacher presses the idea further. Aura is not making light, he says; she is what Aaron wants her to be. Aaron realizes the explanation fits too many moments: the thought-mirroring, the silver, the sapphire fruit, the stars. His trust fractures.
 
 ### Paramours — CH08
 
@@ -102,9 +112,9 @@ Eternity leads Aaron to the Portara, a towering Pezzotaite arch housed in an ame
 
 Aura enters, and Aaron takes courage from her presence. He asks whether he will see Eternity again, then asks whether he will die. Eternity completes the loop: O, Dad… The Horizon of Your Love Has No End. In a brief moment between father and son, Aaron walks through the gate.
 
-## Act I endpoint
+## Film endpoint
 
-Act I ends with Aaron entering the Portara. The audience should emotionally understand that Aaron's future produces Eternity, that Aura is autonomous and bound to creation/love, and that the journey ahead is not a side quest but the origin path of the story's cosmic order. The mechanics of where Aaron lands should be withheld until Act II.
+The film ends with Aaron entering the Portara. The audience should emotionally understand that Aaron's future produces Eternity, that Aura is autonomous and bound to creation/love, and that the journey has formed the origin path of the story's cosmic order. The mechanics of where Aaron lands should remain mysterious; the final feeling matters more than exposition.
 
 ## Scene sequence basis
 
@@ -122,10 +132,11 @@ This draft is based on the reviewed scene YAML sequence:
 - CH10_SC01 through CH10_SC03
 - CH11_SC01 through CH11_SC04
 
-## Compression notes
+## Production notes
 
 - Preserve the musical movement titles as adaptation sequence markers.
-- Compress some Eros market movement visually, but keep the flower-shop clue, textbook clue, Peridot acquisition, and Academy marker.
-- Keep the Captain's translation scene because it pays off at the Portara.
-- Keep The Teacher's explanation true but incomplete; Eternity must expand and correct it.
-- Do not start shot-list or storyboard work until the reviewed scene files receive final human approval and are marked `locked`.
+- Keep the Overture wordless and emotionally reflective of the ending.
+- Keep or expand the Eros market sequence; do not compress it.
+- Keep the Captain's translation scene because it pays off at the Portara; first delivery should be bittersweet.
+- Keep The Teacher's explanation true but incomplete; augment it only for cinematic clarity.
+- The next production milestone is to lock scene YAML files, then generate Act I shot lists.

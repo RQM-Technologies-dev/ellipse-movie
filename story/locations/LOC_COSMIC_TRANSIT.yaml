@@ -1,0 +1,14 @@
+location_id: LOC_COSMIC_TRANSIT
+name: Cosmic Transit Sphere
+description: Nonlocal travel event created when Aaron untethers and Aura carries him to her home.
+geography: Between worlds; not a stable location.
+architecture: No fixed architecture; wind sphere, plasma, distorted distance.
+lighting: Iron/magnesium plasma, ammolite, silver, turquoise, azure, gold.
+mood: Trust, terror, surrender, cosmic velocity.
+recurring_props:
+- wind sphere
+- plasma lights
+- Aaron and Aura embrace
+color_palette: iron, magnesium white, turquoise, silver, azure, gold
+visual_reference_notes: Must echo both Overture and Rain of Lights but with trust instead of panic.
+continuity_notes: Aaron's embrace with Aura is the constant of time during transit.

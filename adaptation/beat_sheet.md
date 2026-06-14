@@ -1,10 +1,10 @@
-# Beat Sheet — Act I Scene-Reviewed Draft
+# Beat Sheet — Act I Human-Reviewed Draft
 
-This beat sheet maps the reviewed Act I scene YAML sequence into a feature-film spine. Page targets remain provisional until the full feature structure is known.
+This beat sheet maps the reviewed Act I scene YAML sequence into a feature-film spine and includes the human adaptation decisions that resolve the prior open questions.
 
 | Beat | Approx. feature page | Scene range | Description | Status |
 |---|---:|---|---|---|
-| Opening Image | 1 | CH01_SC01 | A lone heir waits in the amethyst palace as elemental light departs the Garden at the beginning and end of the universe. | reviewed |
+| Opening Image | 1 | CH01_SC01 | A lone heir waits in the amethyst palace as elemental light departs the Garden at the beginning and end of the universe. The sequence is wordless and emotionally mirrors the ending. | reviewed |
 | Theme Image | 2–3 | CH01_SC01 | A son thinks of his father before the story reveals who father and son truly are. | reviewed |
 | Ordinary World | 4–8 | CH02_SC01 | Aaron's life is defined by farm burden, woods, birds, and longing beyond Tara. | reviewed |
 | Threshold Foreshadow | 8–10 | CH02_SC02 | Aaron follows the gold leaf and experiences the river's first uncanny call: Here. | reviewed |
@@ -14,18 +14,18 @@ This beat sheet maps the reviewed Act I scene YAML sequence into a feature-film 
 | Aftermath / First Care | 23–28 | CH04_SC01–CH04_SC02 | Aaron brings Aura to the farm and confirms the impossible event was physically real. | reviewed |
 | First Objective | 28–34 | CH04_SC03–CH04_SC04 | Aaron identifies The Teacher in Eros as the path to answers and leaves Tara with Aura. | reviewed |
 | Break from Home | 34–40 | CH05_SC01–CH05_SC03 | Aaron and Aura board the Elgia, secure passage, and watch Tara fall behind. | reviewed |
-| Motif Planted | 40–43 | CH05_SC04 | The Captain translates the Elgia phrase: the horizon of love has no end. | reviewed |
+| Motif Planted | 40–43 | CH05_SC04 | The Captain translates the Elgia phrase in a bittersweet tone: the horizon of love has no end. | reviewed |
 | Voyage / Promise of Mystery | 43–50 | CH06_SC01–CH06_SC02 | Shipboard routine gives Aaron confidence, and the Captain confirms The Teacher's celestial authority. | reviewed |
 | Reality Break | 50–56 | CH06_SC03–CH06_SC04 | Aura creates the sapphire fruit and pulls down the stars, making Aaron fear for his sanity. | reviewed |
-| New World | 56–63 | CH07_SC01–CH07_SC04 | Eros overwhelms Aaron; market clues lead toward the Academy. | reviewed |
-| Road to the Academy | 63–68 | CH07_SC05–CH07_SC06 | Aura's silver secures Peridot, Aura lights the road, and the Academy admits them. | reviewed |
-| Midpoint Revelation | 68–76 | CH07_SC07–CH07_SC08 | The Teacher explains Einai/Ousia, reframing Aura as the substance of Aaron's imagination. | reviewed |
-| Crisis of Trust | 76–82 | CH08_SC01–CH08_SC03 | Aaron flees, confronts Aura, and tests her power with the light and gem. | reviewed |
-| Acceptance Image | 82–90 | CH08_SC04–CH08_SC05 | Aura creates the cottage; Aaron accepts she is more than his imagination; Aura asks to go home. | reviewed |
-| Break into Cosmic Story | 90–98 | CH09_SC01–CH09_SC04 | Aaron learns to untether, travels through plasma with Aura, and arrives at the Kingdom. | reviewed |
-| Revelation of Scope | 98–106 | CH10_SC01–CH10_SC03 | Eternity names the Kingdom, reveals its impossible architecture, the Garden of Time, and Aura's origin. | reviewed |
-| Relationship Clarification | 106–110 | CH11_SC01–CH11_SC02 | Aaron and Aura clarify that she is her own Ousia, and the Elgia phrase appears in the Garden. | reviewed |
-| Act I Resolution | 110–118 | CH11_SC03–CH11_SC04 | Eternity presents the Portara, reveals the father-son loop, and Aaron walks through the gate. | reviewed |
+| New World / Eros Expansion | 56–66 | CH07_SC01–CH07_SC04 | Eros overwhelms Aaron; preserve or expand the market world-building while the clues lead toward the Academy. | reviewed |
+| Road to the Academy | 66–71 | CH07_SC05–CH07_SC06 | Aura's silver secures Peridot, Aura lights the road, and the Academy admits them. | reviewed |
+| Midpoint Revelation | 71–80 | CH07_SC07–CH07_SC08 | The Teacher explains Einai/Ousia. The film may augment the book's language for clarity while keeping the explanation true but incomplete. | reviewed |
+| Crisis of Trust | 80–86 | CH08_SC01–CH08_SC03 | Aaron flees, confronts Aura, and tests her power with the light and gem. | reviewed |
+| Acceptance Image | 86–94 | CH08_SC04–CH08_SC05 | Aura creates the cottage; Aaron accepts she is more than his imagination; Aura asks to go home. | reviewed |
+| Break into Cosmic Story | 94–102 | CH09_SC01–CH09_SC04 | Aaron learns to untether, travels through plasma with Aura, and arrives at the Kingdom. | reviewed |
+| Revelation of Scope | 102–110 | CH10_SC01–CH10_SC03 | Eternity names the Kingdom, reveals its impossible architecture, the Garden of Time, and Aura's origin. | reviewed |
+| Relationship Clarification | 110–114 | CH11_SC01–CH11_SC02 | Aaron and Aura clarify that she is her own Ousia, and the Elgia phrase appears in the Garden. | reviewed |
+| Final Threshold / Film Ending | 114–122 | CH11_SC03–CH11_SC04 | Eternity presents the Portara, reveals the father-son loop, and Aaron walks through the gate. There is no Act II framing in this production plan. | reviewed |
 
 ## Emotional spine
 
@@ -50,12 +50,18 @@ This beat sheet maps the reviewed Act I scene YAML sequence into a feature-film 
 | Proof / acceptance | CH08_SC04 | Aura creates the cottage and Aaron accepts she is more than imagination. |
 | Cosmic break | CH09_SC03–CH09_SC04 | Aaron and Aura transit to the Kingdom. |
 | Lore revelation | CH10_SC03 | Aura's origin and Eternity's lineage are revealed. |
-| Act break | CH11_SC04 | Aaron walks through the Portara. |
+| Final threshold | CH11_SC04 | Aaron walks through the Portara. |
 
-## Adaptation questions to resolve before locking scenes
+## Human decisions resolved
 
-- Where exactly does Act II begin after the Portara?
-- Should the Overture remain wordless, be narrated, or intercut with the Act I ending?
-- How much of The Teacher's Einai/Ousia language should remain literal dialogue versus visualized explanation?
-- Should the Captain's translation land comic, wistful, or bittersweet in its first appearance?
-- Does the feature target require compressing the Eros market sequence further while preserving the necessary clues?
+- **No Act II:** the current adaptation plan treats the Portara as the film ending, not as a transition into an immediate Act II block.
+- **Overture:** wordless, wise, allusive, and emotionally mirroring the ending.
+- **Teacher explanation:** augment whatever the book says where needed for clarity, while preserving the true-but-incomplete Einai/Ousia structure.
+- **Captain translation:** bittersweet.
+- **Eros market:** do not compress; keep it full length or expand it for fantasy world-building.
+
+## Remaining pre-lock checks
+
+- Confirm no scene-boundary adjustments are needed after the Eros market expansion decision.
+- Confirm whether any additional Eros market micro-scenes should be added before locking.
+- Confirm the Portara ending is the film endpoint.

@@ -1,0 +1,16 @@
+location_id: LOC_EROS_MARKET
+name: Market of Eros
+description: Crowded commercial maze where Aaron and Aura search for The Teacher.
+geography: Market streets and alleys along the Eros port.
+architecture: Vendor stalls, ale houses, medical stores, jewelry booths, horse-stable area.
+lighting: Daylight fading into twilight and lamplighter glow.
+mood: Wonder turning into frustration.
+recurring_props:
+- cardamom
+- chili
+- purple fabric
+- pocket scopes
+- green textbook
+color_palette: busy saturated market colors, spice reds, twilight lavender
+visual_reference_notes: Dense sensory world; avoid making it generic medieval market.
+continuity_notes: Can be compressed, but must preserve flower-shop clue, textbook clue, and route to stables.

@@ -1,0 +1,311 @@
+# Consolidated Act I scene inventory.
+# Review this file before expanding into one YAML file per scene.
+scenes:
+  - scene_id: CH01_SC01
+    chapter: CH01
+    title: Kingdom at the Beginning and End
+    location: LOC_KINGDOM_BEGINNING_END
+    characters: [CHAR_ETERNITY]
+    scene_purpose: Mythic prologue foreshadowing Aura, the palace, and the father-son time loop.
+    status: draft
+  - scene_id: CH02_SC01
+    chapter: CH02
+    title: Aaron in the Woods
+    location: LOC_TARA_WOODS
+    characters: [CHAR_AARON]
+    scene_purpose: Establish Aaron's ordinary world, farm burdens, longing for freedom, and envy of birds.
+    status: draft
+  - scene_id: CH02_SC02
+    chapter: CH02
+    title: The Gold Leaf and River Crossing
+    location: LOC_TARA_RIVER
+    characters: [CHAR_AARON]
+    scene_purpose: Introduce the river as threshold and Aaron's first experience of the uncanny call.
+    status: draft
+  - scene_id: CH02_SC03
+    chapter: CH02
+    title: Lake Tara Sunset
+    location: LOC_LAKE_TARA
+    characters: [CHAR_AARON]
+    scene_purpose: Close the ordinary-world day with Aaron wishing for something other than farm responsibility.
+    status: draft
+  - scene_id: CH03_SC01
+    chapter: CH03
+    title: Aaron Wakes Under the Stars
+    location: LOC_LAKE_TARA
+    characters: [CHAR_AARON]
+    scene_purpose: Shift peaceful longing into dread through rumble, vibration, and unnaturally clear stars.
+    status: draft
+  - scene_id: CH03_SC02
+    chapter: CH03
+    title: The Rain of Lights Attacks Tara
+    location: LOC_TARA_VALLEY
+    characters: [CHAR_AARON]
+    scene_purpose: Deliver the inciting spectacle and drive Aaron toward the river.
+    status: draft
+  - scene_id: CH03_SC03
+    chapter: CH03
+    title: Aura Appears in the Split River
+    location: LOC_TARA_RIVER
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Introduce Aura through impact, vapor, empathy, and impossible recognition.
+    status: draft
+  - scene_id: CH03_SC04
+    chapter: CH03
+    title: Thought-Mirroring Panic
+    location: LOC_TARA_RIVER
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Establish Aura's mind-emotion link with Aaron and end the inciting sequence with her name.
+    status: draft
+  - scene_id: CH04_SC01
+    chapter: CH04
+    title: Return to the Farm
+    location: LOC_TARA_WOODS
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Let Aaron choose care and bring Aura out of danger.
+    status: draft
+  - scene_id: CH04_SC02
+    chapter: CH04
+    title: Recovery and Memory
+    location: LOC_AARON_FARM
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Confirm that the rain of lights was not a dream and that Aura remains physically present.
+    status: draft
+  - scene_id: CH04_SC03
+    chapter: CH04
+    title: The Teacher Objective
+    location: LOC_AARON_FARM
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Give Aaron and Aura the first concrete goal: travel to Eros to find The Teacher.
+    status: draft
+  - scene_id: CH04_SC04
+    chapter: CH04
+    title: Leaving Tara
+    location: LOC_AARON_FARM
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Commit Aaron to adventure and separate him from the farm life he has outgrown.
+    status: draft
+  - scene_id: CH05_SC01
+    chapter: CH05
+    title: Boarding the Elgia
+    location: LOC_TARA_PORT
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_MATIS]
+    scene_purpose: Move the story from rural Tara to sea passage and show Aura's social influence.
+    status: draft
+  - scene_id: CH05_SC02
+    chapter: CH05
+    title: Captain's Quarters
+    location: LOC_ELGIA
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_CAPTAIN_ELGIA, CHAR_MATIS]
+    scene_purpose: Secure passage to Eros and introduce the Elgia inscription.
+    status: draft
+  - scene_id: CH05_SC03
+    chapter: CH05
+    title: Tara Falls Behind
+    location: LOC_ELGIA_DECK
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_ILYICH, CHAR_JERICKS]
+    scene_purpose: Mark the point of no return and Aaron's growing attachment to Aura.
+    status: draft
+  - scene_id: CH05_SC04
+    chapter: CH05
+    title: The Captain Translates the Phrase
+    location: LOC_ELGIA_DECK
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_CAPTAIN_ELGIA]
+    scene_purpose: Plant the translated thematic phrase that returns in the Garden and Portara.
+    status: draft
+  - scene_id: CH06_SC01
+    chapter: CH06
+    title: Life Aboard the Elgia
+    location: LOC_ELGIA_DECK
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_MATIS, CHAR_ILYICH, CHAR_CAPTAIN_ELGIA]
+    scene_purpose: Build shipboard routine and temporary community before the next supernatural reveal.
+    status: draft
+  - scene_id: CH06_SC02
+    chapter: CH06
+    title: The First Point of Aries
+    location: LOC_ELGIA_DECK
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_CAPTAIN_ELGIA]
+    scene_purpose: Make The Teacher credible through celestial navigation and ship lore.
+    status: draft
+  - scene_id: CH06_SC03
+    chapter: CH06
+    title: Aura Pulls Down the Stars
+    location: LOC_ELGIA_DECK
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_JERICKS]
+    scene_purpose: Reveal that Aura can create or rearrange perceived reality in response to Aaron's wants.
+    status: draft
+  - scene_id: CH06_SC04
+    chapter: CH06
+    title: Aaron Tries to Sleep
+    location: LOC_ELGIA_HULL
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Ground the cosmic reveal in Aaron's anxiety and fear for his sanity.
+    status: draft
+  - scene_id: CH07_SC01
+    chapter: CH07
+    title: Arrival in Eros
+    location: LOC_EROS_PORT
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_CAPTAIN_ELGIA, CHAR_JERICKS]
+    scene_purpose: Open the larger world and give Aaron his first view of Eros.
+    status: draft
+  - scene_id: CH07_SC02
+    chapter: CH07
+    title: Market Search
+    location: LOC_EROS_MARKET
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Turn wonder into frustration as Aaron and Aura fail to find The Teacher.
+    status: draft
+  - scene_id: CH07_SC03
+    chapter: CH07
+    title: Flower Shop Clue
+    location: LOC_EROS_FLOWER_SHOP
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_FLOWER_SELLER]
+    scene_purpose: Point the search north toward the Academy.
+    status: draft
+  - scene_id: CH07_SC04
+    chapter: CH07
+    title: Academy Textbook and West Eros Stables
+    location: LOC_EROS_MARKET
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_EROS_BOY]
+    scene_purpose: Give practical directions and move Aaron and Aura to Peridot.
+    status: draft
+  - scene_id: CH07_SC05
+    chapter: CH07
+    title: Ride to the Academy
+    location: LOC_TRITASELO_PASS
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_PERIDOT]
+    scene_purpose: Move from city commerce to ancient mystery while showing Aura's light-making.
+    status: draft
+  - scene_id: CH07_SC06
+    chapter: CH07
+    title: The Academy Door
+    location: LOC_ACADEMY
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_BALD_SENTRY]
+    scene_purpose: Enter The Teacher's domain and shift into solemn philosophical space.
+    status: draft
+  - scene_id: CH07_SC07
+    chapter: CH07
+    title: The Teacher Names Aura
+    location: LOC_ACADEMY_LIBRARY
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_TEACHER]
+    scene_purpose: Deliver the Einai/Ousia explanation and destabilize Aaron's faith in Aura.
+    status: draft
+  - scene_id: CH07_SC08
+    chapter: CH07
+    title: The Den Conversation
+    location: LOC_ACADEMY_DEN
+    characters: [CHAR_AARON, CHAR_TEACHER]
+    scene_purpose: Force Aaron to confront the possibility that Aura is his imagination made substance.
+    status: draft
+  - scene_id: CH08_SC01
+    chapter: CH08
+    title: Aaron Flees the Academy
+    location: LOC_ACADEMY
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_PERIDOT]
+    scene_purpose: Externalize Aaron's fear by physically leaving The Teacher's explanation behind.
+    status: draft
+  - scene_id: CH08_SC02
+    chapter: CH08
+    title: Make Us a Light
+    location: LOC_TRITASELO_PASS
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_PERIDOT]
+    scene_purpose: Begin Aaron's test of Aura through direct imagined creation.
+    status: draft
+  - scene_id: CH08_SC03
+    chapter: CH08
+    title: The Thousand-Faceted Gem
+    location: LOC_TRITASELO_PASS
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Show that Aura can create something Aaron believes should be impossible.
+    status: draft
+  - scene_id: CH08_SC04
+    chapter: CH08
+    title: The Cottage Is Created
+    location: LOC_FOREST_COTTAGE
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_PERIDOT]
+    scene_purpose: Recontextualize the rain of lights as Aura's creative force and create the Act I love/home image.
+    status: draft
+  - scene_id: CH08_SC05
+    chapter: CH08
+    title: Aura Wants to Go Home
+    location: LOC_FOREST_COTTAGE
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Reveal Aura's own objective and prepare the leap beyond Eros.
+    status: draft
+  - scene_id: CH09_SC01
+    chapter: CH09
+    title: Trust Conflict
+    location: LOC_FOREST_COTTAGE
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Put Aaron's doubt and Aura's purpose in direct conflict.
+    status: draft
+  - scene_id: CH09_SC02
+    chapter: CH09
+    title: Untethering the Imagination
+    location: LOC_FOREST_COTTAGE
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_PERIDOT]
+    scene_purpose: Teach the mechanism of travel: release the mind from the present place.
+    status: draft
+  - scene_id: CH09_SC03
+    chapter: CH09
+    title: Plasma Transit
+    location: LOC_COSMIC_TRANSIT
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Convert emotional trust into cosmic movement through wind, plasma, and embrace.
+    status: draft
+  - scene_id: CH09_SC04
+    chapter: CH09
+    title: Arrival at Aura's Home
+    location: LOC_KINGDOM_BEGINNING_END
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_ETERNITY]
+    scene_purpose: Reveal the palace and introduce the waiting figure at the threshold.
+    status: draft
+  - scene_id: CH10_SC01
+    chapter: CH10
+    title: Meeting Eternity
+    location: LOC_KINGDOM_BEGINNING_END
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_ETERNITY]
+    scene_purpose: Name the Kingdom and establish Eternity as guide and Father of Time.
+    status: draft
+  - scene_id: CH10_SC02
+    chapter: CH10
+    title: Palace of Impossible Rooms
+    location: LOC_KINGDOM_BEGINNING_END
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_ETERNITY]
+    scene_purpose: Make the cosmic rules visual through pendulum, tesseract, and impossible architecture.
+    status: draft
+  - scene_id: CH10_SC03
+    chapter: CH10
+    title: Garden of Time
+    location: LOC_GARDEN_OF_TIME
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_ETERNITY]
+    scene_purpose: Reveal the Garden, Aura's origin, and the incomplete nature of The Teacher's explanation.
+    status: draft
+  - scene_id: CH11_SC01
+    chapter: CH11
+    title: Aaron and Aura in the Garden
+    location: LOC_GARDEN_OF_TIME
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Give Aaron emotional space to understand Aura as her own Ousia.
+    status: draft
+  - scene_id: CH11_SC02
+    chapter: CH11
+    title: Plaque in the Garden
+    location: LOC_GARDEN_OF_TIME
+    characters: [CHAR_AARON, CHAR_AURA]
+    scene_purpose: Bring the Elgia phrase into the Kingdom and prepare its final emotional use.
+    status: draft
+  - scene_id: CH11_SC03
+    chapter: CH11
+    title: The Portara
+    location: LOC_PORTARA_CHAMBER
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_ETERNITY]
+    scene_purpose: Present Aaron's mission and the gate that will send him to a new beginning.
+    status: draft
+  - scene_id: CH11_SC04
+    chapter: CH11
+    title: Father and Son at the Gate
+    location: LOC_PORTARA_CHAMBER
+    characters: [CHAR_AARON, CHAR_AURA, CHAR_ETERNITY]
+    scene_purpose: End Act I with Eternity's reveal and Aaron walking through the Portara.
+    status: draft

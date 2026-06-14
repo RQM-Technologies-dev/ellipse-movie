@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after expanding the Act I scene inventory onto `main`.
+This is the current working checklist after converting the Act I story bible into individual production assets on `main`.
 
 ## Completed
 
@@ -15,12 +15,13 @@ This is the current working checklist after expanding the Act I scene inventory 
 - Act I treatment draft added.
 - Act I beat sheet draft added.
 - Act I scene inventory expanded into one YAML file per scene.
+- Act I story bible converted into individual character, location, and lore files.
 
 ## Immediate next tasks
 
-1. Review the generated scene files against the manuscript before marking any scene `locked`.
-2. Convert `story/act_i_story_bible.md` into individual character, location, and lore YAML files.
-3. Produce the clean manuscript layer under `manuscript/clean/` without changing `manuscript/full_text.md`.
+1. Produce the clean manuscript layer under `manuscript/clean/` without changing `manuscript/full_text.md`.
+2. Review the generated scene files against the clean manuscript before marking any scene `locked`.
+3. Fill each scene YAML with `time_of_day`, `emotional_turn`, `plot_turn`, `summary`, `key_dialogue`, `props`, `continuity_notes`, and `adaptation_notes`.
 4. Update `adaptation/treatment.md` and `adaptation/beat_sheet.md` after the clean source and scene files are reviewed.
 
 ## Hold until review
@@ -34,17 +35,15 @@ Do not start shot lists, storyboard prompts, video prompts, or generated media u
 
 ## Recommended next commit
 
-`Convert Act I story bible into character, location, and lore YAML files`
+`Produce clean Act I manuscript layer`
 
 Expected output:
 
-- `story/characters/CHAR_AARON.yaml`
-- `story/characters/CHAR_AURA.yaml`
+- `manuscript/clean/act_i_clean.md`
+- `manuscript/clean/cleanup_log.md`
+- `manuscript/clean/chapters/CH01_overture.md`
 - ...
-- `story/locations/LOC_TARA_WOODS.yaml`
-- `story/locations/LOC_PORTARA_CHAMBER.yaml`
-- `story/lore/einai_ousia.md`
-- `story/lore/portara.md`
+- `manuscript/clean/chapters/CH11_ellipse.md`
 
 Run validation afterward:
 

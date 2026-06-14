@@ -1,0 +1,15 @@
+location_id: LOC_ELGIA_DECK
+name: Deck of the Elgia
+description: Main deck where Aaron observes crew life, the Captain translates the phrase, and Aura pulls down the stars.
+geography: Open ship deck at sea, near foremast and rail.
+architecture: Wood deck, rails, masts, captain's quarters entrance, rudder area.
+lighting: Sea daylight, twilight meals, luminous starfield at night.
+mood: Wonder, shipboard camaraderie, supernatural revelation.
+recurring_props:
+- foremast
+- rail
+- stars
+- sapphire fruit
+color_palette: deep blue, star silver, sail ivory, luminous white
+visual_reference_notes: The star descent should feel beautiful and reality-breaking, not like a simple magic trick.
+continuity_notes: Jericks is at the rudder during Aura's star reveal.

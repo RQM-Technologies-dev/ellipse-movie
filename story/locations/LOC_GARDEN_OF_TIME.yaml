@@ -1,0 +1,15 @@
+location_id: LOC_GARDEN_OF_TIME
+name: Garden of Time
+description: Garden that provides the scaffolding of all beings and reveals Aura's origin.
+geography: Open garden connected to the palace atrium and nebula outside.
+architecture: Garden paths, impossible flora, plaque hidden under topaz ivy.
+lighting: Warm light from trillion stars; colors can be felt as well as seen.
+mood: Revelation, harmony, origin, emotional stillness.
+recurring_props:
+- topaz ivy
+- engraved plaque
+- impossible flowers
+- semi-transparent fruit
+color_palette: multispectral, topaz, amethyst, star warmth
+visual_reference_notes: Avoid ordinary garden look; color/sensation should feel metaphysical.
+continuity_notes: Aura is revealed as Spirit of All Things / her own Ousia here.

@@ -1,0 +1,66 @@
+shotlist_id: SHOTLIST_CH10_SC03
+scene_id: CH10_SC03
+title: Garden of Time
+status: drafted
+source_scene: adaptation/scenes/CH10_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Reveal the Garden as the living origin space of Aura, time, and all beings while keeping the exposition emotionally anchored in Aaron.
+shots:
+- shot_id: CH10_SC03_SH001
+  type: threshold reveal
+  framing: Eternity leading Aaron and Aura from palace geometry into the open Garden
+  camera: move from controlled architecture into living color and warmth
+  action: The Garden of Time opens before Aaron.
+  purpose: Contrast palace order with living origin.
+- shot_id: CH10_SC03_SH002
+  type: sensory wonder
+  framing: flowers, leaves, and colors Aaron can feel rather than only see
+  camera: discover through Aaron's reaction first, then the environment
+  action: Aaron experiences colors beyond ordinary sight.
+  purpose: Make the Garden metaphysical without losing human access.
+- shot_id: CH10_SC03_SH003
+  type: three-character spread
+  framing: Aaron, Aura, and Eternity separating into the Garden
+  camera: wide readable geography with each figure held in relation
+  action: The trio explores different parts of the Garden.
+  purpose: Let the place feel alive and navigable.
+- shot_id: CH10_SC03_SH004
+  type: scaffolding image
+  framing: morphing leaf, impossible flower, or branching structure
+  camera: close natural detail that suggests cosmic order
+  action: Eternity says the Garden provides the scaffolding of all beings.
+  purpose: Translate lore into image.
+- shot_id: CH10_SC03_SH005
+  type: Aura origin
+  framing: Aura within Garden light
+  camera: Aaron's view, reverent and newly understanding
+  action: Eternity explains Aura was born of the Garden.
+  purpose: Correct The Teacher without erasing him.
+- shot_id: CH10_SC03_SH006
+  type: Teacher correction
+  framing: Aaron processing the word Einai
+  camera: intimate close with Garden movement behind him
+  action: Aaron asks about Einai and Eternity says The Teacher's iterations get lost over time.
+  purpose: Clarify true-but-incomplete lore.
+- shot_id: CH10_SC03_SH007
+  type: time rivers
+  framing: Garden pathways or light streams branching from the Kingdom
+  camera: visualized branching movement without literal lecture staging
+  action: Eternity explains that time does not flow like a uniform river.
+  purpose: Give the time logic a cinematic image.
+- shot_id: CH10_SC03_SH008
+  type: lineage reveal
+  framing: Eternity, Aura, and Aaron held in one composition
+  camera: settle into a still, legible emotional triangle
+  action: Eternity reveals Aura is his mother.
+  purpose: Shift cosmic exposition into family revelation.
+- shot_id: CH10_SC03_SH009
+  type: aftermath hold
+  framing: Aaron absorbing the impossible lineage
+  camera: quiet hold on Aaron's face against Garden warmth
+  action: Aaron's sense of time and family changes.
+  purpose: Prepare the emotional clarity of the final movement.
+notes:
+- Keep the Garden warmer and more alive than the palace halls.
+- Use visuals to carry the lore whenever possible.
+- Aura must feel autonomous and sacred here, not like Aaron's projection.

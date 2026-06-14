@@ -1,0 +1,59 @@
+shotlist_id: SHOTLIST_CH03_SC03
+scene_id: CH03_SC03
+title: Aura Appears in the Split River
+status: drafted
+source_scene: adaptation/scenes/CH03_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Introduce Aura as wounded, impossible, and emotionally tied to Aaron after the terror of the rain of lights.
+shots:
+- shot_id: CH03_SC03_SH001
+  type: aftermath close
+  framing: Aaron injured on the riverbank
+  camera: low, disoriented, sensory recovery
+  action: Aaron wakes to pain, buzzing, and the sound of water.
+  purpose: Ground the impossible event in physical consequence.
+- shot_id: CH03_SC03_SH002
+  type: river reveal
+  framing: split river curving around a new mound
+  camera: slow reveal through Aaron's blurred perception
+  action: The impossible geography comes into focus.
+  purpose: Show the threshold has changed.
+- shot_id: CH03_SC03_SH003
+  type: distortion detail
+  framing: flexing air above the mound
+  camera: subtle lensing or scale distortion
+  action: Distance seems unstable around the new land.
+  purpose: Make the space feel nonordinary.
+- shot_id: CH03_SC03_SH004
+  type: compelled approach
+  framing: Aaron entering the cold current
+  camera: tracking from behind as his body moves before his mind catches up
+  action: Aaron wades toward the mound.
+  purpose: Echo the earlier river call.
+- shot_id: CH03_SC03_SH005
+  type: vapor reveal
+  framing: dark blue and silver vapor drifting over the mound
+  camera: push through vapor toward a human shape
+  action: A soft voice whispers the Elgia phrase.
+  purpose: Introduce Aura through sound before full image.
+- shot_id: CH03_SC03_SH006
+  type: first face
+  framing: Aura emerging muddy and wounded with turquoise eyes
+  camera: Aaron's perspective, intimate and stunned
+  action: Aura steps from the vapor and says Aaron's name.
+  purpose: Create the defining first image of Aura.
+- shot_id: CH03_SC03_SH007
+  type: empathy beat
+  framing: Aaron's face reacting to Aura's wounds
+  camera: close emotional exchange without explanation
+  action: Aaron feels her pain as if it were his own.
+  purpose: Establish their emotional link.
+- shot_id: CH03_SC03_SH008
+  type: erosion urgency
+  framing: water eating away the mound beneath Aura
+  camera: widen to reveal danger returning
+  action: Aaron reaches for Aura and pulls her toward the shore.
+  purpose: Convert wonder into action.
+notes:
+- Aura's turquoise eyes, mud, wounds, and blue/silver vapor are mandatory continuity anchors.
+- Keep this intimate after the large rain-of-lights spectacle.

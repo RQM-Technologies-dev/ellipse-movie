@@ -1,0 +1,59 @@
+shotlist_id: SHOTLIST_CH11_SC03
+scene_id: CH11_SC03
+title: The Portara
+status: drafted
+source_scene: adaptation/scenes/CH11_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Present the Portara as the final threshold and clarify Aaron's burden without overexplaining mechanics.
+shots:
+- shot_id: CH11_SC03_SH001
+  type: approach
+  framing: Eternity leading Aaron through third-floor palace corridor
+  camera: measured tracking through amethyst architecture
+  action: Light without origin guides them toward the chamber.
+  purpose: Build solemn anticipation.
+- shot_id: CH11_SC03_SH002
+  type: threshold reveal
+  framing: towering Pezzotaite arch filling the chamber
+  camera: reveal from Aaron's scale upward
+  action: Aaron sees the Portara for the first time.
+  purpose: Make the gate overwhelming and inevitable.
+- shot_id: CH11_SC03_SH003
+  type: material detail
+  framing: organic and geometric crystals at the base
+  camera: slow detail pass with refracted light
+  action: The arch refracts light across the amethyst walls.
+  purpose: Establish the Portara's visual identity.
+- shot_id: CH11_SC03_SH004
+  type: mission statement
+  framing: Eternity and Aaron circling the gate
+  camera: keep the Portara present between or behind them
+  action: Eternity explains the gate will send Aaron to his world, but not his past.
+  purpose: Tie mission to threshold.
+- shot_id: CH11_SC03_SH005
+  type: Aaron doubt
+  framing: Aaron facing the arch that appears to lead nowhere
+  camera: medium close, gate dominating background
+  action: Aaron questions why he needs the gate if Aura can travel.
+  purpose: Make mechanics emotionally unsettling.
+- shot_id: CH11_SC03_SH006
+  type: burden
+  framing: Eternity leaning on staff
+  camera: quiet close with age and weight visible
+  action: Eternity says others will follow Aaron's path.
+  purpose: Reveal responsibility.
+- shot_id: CH11_SC03_SH007
+  type: direct ask
+  framing: Aaron demanding the truth from Eternity
+  camera: tighter, emotional pressure
+  action: Aaron asks what Eternity wants from him.
+  purpose: Bring mission down to identity.
+- shot_id: CH11_SC03_SH008
+  type: answer
+  framing: Eternity's face and staff in refracted light
+  camera: still, clear, emotionally legible
+  action: Eternity asks Aaron to be exactly who he is.
+  purpose: Land the moral instruction.
+notes:
+- Do not overexplain the Portara mechanics.
+- The audience should feel the emotional stakes before understanding the rules.

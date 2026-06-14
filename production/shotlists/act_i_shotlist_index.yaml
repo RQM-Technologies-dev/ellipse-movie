@@ -20,9 +20,11 @@ scene_shotlists:
 - scene_id: CH03_SC01
   status: pending
 - scene_id: CH03_SC02
-  status: pending
+  path: production/shotlists/scenes/CH03_SC02_shotlist.yaml
+  status: drafted
 - scene_id: CH03_SC03
-  status: pending
+  path: production/shotlists/scenes/CH03_SC03_shotlist.yaml
+  status: drafted
 - scene_id: CH03_SC04
   status: pending
 - scene_id: CH04_SC01
@@ -46,7 +48,8 @@ scene_shotlists:
 - scene_id: CH06_SC02
   status: pending
 - scene_id: CH06_SC03
-  status: pending
+  path: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  status: drafted
 - scene_id: CH06_SC04
   status: pending
 - scene_id: CH07_SC01
@@ -77,7 +80,8 @@ scene_shotlists:
 - scene_id: CH08_SC03
   status: pending
 - scene_id: CH08_SC04
-  status: pending
+  path: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  status: drafted
 - scene_id: CH08_SC05
   status: pending
 - scene_id: CH09_SC01
@@ -85,7 +89,8 @@ scene_shotlists:
 - scene_id: CH09_SC02
   status: pending
 - scene_id: CH09_SC03
-  status: pending
+  path: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+  status: drafted
 - scene_id: CH09_SC04
   status: pending
 - scene_id: CH10_SC01
@@ -93,20 +98,27 @@ scene_shotlists:
 - scene_id: CH10_SC02
   status: pending
 - scene_id: CH10_SC03
-  status: pending
+  path: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  status: drafted
 - scene_id: CH11_SC01
   status: pending
 - scene_id: CH11_SC02
   status: pending
 - scene_id: CH11_SC03
-  status: pending
+  path: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+  status: drafted
 - scene_id: CH11_SC04
-  status: pending
+  path: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  status: drafted
 next_priority:
-- CH03_SC02
-- CH03_SC03
-- CH06_SC03
-- CH08_SC04
-- CH09_SC03
-- CH11_SC03
-- CH11_SC04
+- CH03_SC01
+- CH03_SC04
+- CH07_SC06
+- CH07_SC07
+- CH07_SC08
+- CH08_SC01
+- CH08_SC02
+- CH08_SC03
+- CH09_SC04
+- CH10_SC01
+- CH10_SC02

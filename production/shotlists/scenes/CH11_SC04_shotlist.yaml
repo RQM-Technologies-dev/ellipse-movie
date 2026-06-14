@@ -1,0 +1,66 @@
+shotlist_id: SHOTLIST_CH11_SC04
+scene_id: CH11_SC04
+title: Father and Son at the Gate
+status: drafted
+source_scene: adaptation/scenes/CH11_SC04.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: End the film with the father-son reveal, the Elgia phrase payoff, and Aaron's choice to enter the Portara.
+shots:
+- shot_id: CH11_SC04_SH001
+  type: Aura entrance
+  framing: Aura entering the Portara chamber
+  camera: Aaron's perspective softening when she appears
+  action: Aura's presence steadies Aaron.
+  purpose: Reassert trust before the final choice.
+- shot_id: CH11_SC04_SH002
+  type: final uncertainty
+  framing: Aaron between Aura, Eternity, and the gate
+  camera: balanced three-point blocking with Portara looming
+  action: Aaron asks if he will ever see Eternity again.
+  purpose: Build farewell emotion.
+- shot_id: CH11_SC04_SH003
+  type: withheld answer
+  framing: Eternity with old-man warmth and cosmic sadness
+  camera: close but not fully explanatory
+  action: Eternity refuses to ruin the surprise.
+  purpose: Keep mystery alive.
+- shot_id: CH11_SC04_SH004
+  type: death question
+  framing: Aaron looking into the gate
+  camera: quiet, stripped down, emotionally direct
+  action: Aaron asks if he will die.
+  purpose: Bring the threshold to its simplest fear.
+- shot_id: CH11_SC04_SH005
+  type: reveal line
+  framing: Eternity calling Aaron Dad
+  camera: hold on Eternity, then Aaron's reaction
+  action: Eternity says the translated Elgia phrase.
+  purpose: Complete the father-son loop.
+- shot_id: CH11_SC04_SH006
+  type: phrase resonance
+  framing: flashes or echoes of river, Captain's door, Garden plaque, and Portara light
+  camera: brief emotional association, not exposition dump
+  action: The phrase gathers its meanings.
+  purpose: Pay off the motif.
+- shot_id: CH11_SC04_SH007
+  type: final look
+  framing: Aaron looking to Aura before the gate
+  camera: close emotional exchange
+  action: Aura's smile gives him courage.
+  purpose: Anchor the final decision in trust.
+- shot_id: CH11_SC04_SH008
+  type: crossing
+  framing: Aaron entering the Portara
+  camera: follow until the light or frame takes him
+  action: Aaron walks through the gate.
+  purpose: End on choice, mystery, and forward motion.
+- shot_id: CH11_SC04_SH009
+  type: final feeling
+  framing: Portara chamber after Aaron crosses or light swallowing frame
+  camera: quiet release
+  action: The film ends without explaining where he lands.
+  purpose: Leave the audience with wonder and grief.
+notes:
+- This is the film endpoint.
+- Echo the Overture's heir thinking of his father.
+- The final feeling matters more than exposition.

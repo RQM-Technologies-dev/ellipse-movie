@@ -1,0 +1,65 @@
+shotlist_id: SHOTLIST_CH06_SC03
+scene_id: CH06_SC03
+title: Aura Pulls Down the Stars
+status: drafted
+source_scene: adaptation/scenes/CH06_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Reveal Aura's reality-shaping power through wonder that becomes terrifying for Aaron.
+shots:
+- shot_id: CH06_SC03_SH001
+  type: night deck entry
+  framing: Aaron climbing onto a quiet moonlit deck
+  camera: gentle discovery from hull to open sky
+  action: Aaron searches for Aura while Jericks remains at the rudder.
+  purpose: Establish isolation and scale.
+- shot_id: CH06_SC03_SH002
+  type: Aura at forecastle
+  framing: Aura against sea and starfield
+  camera: calm lateral reveal
+  action: Aura appears beside Aaron as if she belongs to the night.
+  purpose: Recenter the scene on the relationship.
+- shot_id: CH06_SC03_SH003
+  type: sapphire fruit reveal
+  framing: Aura's hand with impossible fruit
+  camera: simple close reveal, no flashy effect
+  action: Aura offers a sapphire fruit because Aaron wanted one.
+  purpose: Make the first miracle casual and unsettling.
+- shot_id: CH06_SC03_SH004
+  type: Aaron suspicion
+  framing: Aaron studying fruit, Aura, and deck
+  camera: tight reaction coverage
+  action: Aaron asks where it came from.
+  purpose: Show reality beginning to break for him.
+- shot_id: CH06_SC03_SH005
+  type: invocation
+  framing: Aura raising both arms to the sky
+  camera: widen to include masts and stars
+  action: Aura rotates her wrist and pulls downward.
+  purpose: Prepare the impossible with clear blocking.
+- shot_id: CH06_SC03_SH006
+  type: star descent
+  framing: luminous motes lowering over the deck
+  camera: floating movement through foreground lights
+  action: Stars become a thick layer around Aaron.
+  purpose: Make wonder tangible and spatial.
+- shot_id: CH06_SC03_SH007
+  type: inside the stars
+  framing: Aaron surrounded by blues, yellows, and whites
+  camera: orbit or drift around Aaron while preserving his fear
+  action: Lights brush past him and swirl near the foremast.
+  purpose: Transform beauty into psychological shock.
+- shot_id: CH06_SC03_SH008
+  type: return to sky
+  framing: Aura lifting her palm as lights rise
+  camera: follow motes back into their celestial positions
+  action: The Elgia continues as if nothing happened.
+  purpose: Make Aura's control feel effortless.
+- shot_id: CH06_SC03_SH009
+  type: breath cue
+  framing: Aaron frozen until Aura nudges him
+  camera: close emotional beat
+  action: Aaron gasps back into himself.
+  purpose: Land his fear for sanity.
+notes:
+- The star descent should be serene and terrifying at once.
+- Keep camera motivated by Aaron's discovery, not by spectacle alone.

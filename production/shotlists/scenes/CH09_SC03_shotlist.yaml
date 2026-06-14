@@ -1,0 +1,65 @@
+shotlist_id: SHOTLIST_CH09_SC03
+scene_id: CH09_SC03
+title: Plasma Transit
+status: drafted
+source_scene: adaptation/scenes/CH09_SC03.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Turn Aaron's trust in Aura into cosmic motion and bridge the forest to the Kingdom.
+shots:
+- shot_id: CH09_SC03_SH001
+  type: farewell gesture
+  framing: Aaron releasing Peridot and returning to Aura
+  camera: quiet grounded beginning before cosmic transition
+  action: Aaron removes his hand from Peridot and chooses Aura.
+  purpose: Mark leaving the ordinary world.
+- shot_id: CH09_SC03_SH002
+  type: embrace anchor
+  framing: Aura leaning into Aaron's chest
+  camera: close two-shot centered on contact
+  action: Aaron wraps his arms around Aura.
+  purpose: Make the embrace the constant of time.
+- shot_id: CH09_SC03_SH003
+  type: inner light
+  framing: warm glow from Aaron's chest and Aura's body
+  camera: slow tightening as distance distorts around them
+  action: Light begins inside the emotional connection.
+  purpose: Show travel begins with trust.
+- shot_id: CH09_SC03_SH004
+  type: spatial distortion
+  framing: forest geometry expanding and contracting
+  camera: lensing effect with readable silhouettes
+  action: Distance stops behaving normally.
+  purpose: Prepare nonlocal movement.
+- shot_id: CH09_SC03_SH005
+  type: wind sphere
+  framing: dust and wind forming a sphere around them
+  camera: orbit or circular motion around the embrace
+  action: Invisible force accelerates them in an unfamiliar direction.
+  purpose: Give the travel a physical grammar.
+- shot_id: CH09_SC03_SH006
+  type: plasma build
+  framing: iron and magnesium light in the wind sphere
+  camera: follow sparks as they become elemental plasma
+  action: Color and sound intensify around Aaron and Aura.
+  purpose: Echo Overture and rain of lights through trust.
+- shot_id: CH09_SC03_SH007
+  type: apex
+  framing: Aaron tucked into Aura as ammolite, silver, turquoise, and azure flare
+  camera: tighten on human anchor amid chaos
+  action: The transit reaches overwhelming velocity.
+  purpose: Keep emotion stronger than spectacle.
+- shot_id: CH09_SC03_SH008
+  type: decay to gold
+  framing: plasma decaying into gold and wind
+  camera: slow down with the light
+  action: Roars recede and the ground begins to return.
+  purpose: Transition out of chaos.
+- shot_id: CH09_SC03_SH009
+  type: new ground
+  framing: Aaron's feet on cracked regolith
+  camera: tilt from ground to Aaron and Aura
+  action: The dust settles on a new world.
+  purpose: Confirm arrival through physical contact.
+notes:
+- The embrace is the visual anchor.
+- The sequence should echo previous light events but feel chosen rather than imposed.

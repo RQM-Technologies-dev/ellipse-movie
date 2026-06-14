@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after locking the Act I scene YAML files and beginning Act I shot-list generation on `main`.
+This is the current working checklist after generating Act I shot lists for the major visual anchors on `main`.
 
 ## Completed
 
@@ -24,13 +24,14 @@ This is the current working checklist after locking the Act I scene YAML files a
 - Project-wide visual direction added under `docs/visual_direction.md`.
 - Act I scene YAML files locked.
 - Act I shot-list generation started under `production/shotlists/`.
+- Major visual-anchor shot lists drafted.
 
 ## Immediate next tasks
 
-1. Continue generating scene shot lists under `production/shotlists/scenes/`.
-2. Prioritize major visual anchors: Rain of Lights, Aura Appears, Stars over the Elgia, The Teacher/Athenaeum, Cottage Creation, Cosmic Transit, Garden of Time, Portara.
-3. Review the drafted Eros Market sequence shot list for continuous-motion logic.
-4. After shot lists are reviewed, begin storyboard prompt planning.
+1. Continue generating the remaining scene shot lists under `production/shotlists/scenes/`.
+2. Prioritize connective and threshold scenes next: Aaron wakes under the stars, thought-mirroring panic, Academy entry, Teacher/Athenaeum, Teacher's den, Aaron flees, Make Us a Light, Thousand-Faceted Gem, Kingdom arrival, Meeting Eternity, and Palace of Impossible Rooms.
+3. Review drafted shot lists against `docs/visual_direction.md` for motivated camera movement, readable geography, emotional continuity, and classic adventure scale.
+4. After all shot lists are drafted and reviewed, begin storyboard prompt planning.
 
 ## Hold until shot-list review
 
@@ -43,17 +44,13 @@ Do not start storyboard prompts, video prompts, or generated media until:
 
 ## Recommended next commit
 
-`Generate Act I shot lists for major visual anchors`
+`Generate remaining Act I connective shot lists`
 
 Expected output:
 
-- `production/shotlists/scenes/CH03_SC02_shotlist.yaml`
-- `production/shotlists/scenes/CH03_SC03_shotlist.yaml`
-- `production/shotlists/scenes/CH06_SC03_shotlist.yaml`
-- `production/shotlists/scenes/CH08_SC04_shotlist.yaml`
-- `production/shotlists/scenes/CH09_SC03_shotlist.yaml`
-- `production/shotlists/scenes/CH11_SC03_shotlist.yaml`
-- `production/shotlists/scenes/CH11_SC04_shotlist.yaml`
+- Shot lists for all remaining `pending` scenes in `production/shotlists/act_i_shotlist_index.yaml`.
+- The index updated so every scene is either `drafted` or `covered_by_sequence`.
+- No storyboard prompts until shot-list review is complete.
 
 Run validation afterward:
 

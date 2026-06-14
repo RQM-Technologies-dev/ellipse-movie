@@ -1,0 +1,72 @@
+shotlist_id: SHOTLIST_CH08_SC04
+scene_id: CH08_SC04
+title: The Cottage Is Created
+status: drafted
+source_scene: adaptation/scenes/CH08_SC04.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Reframe the rain of lights as Aura's creative power and build the film's central home/love image.
+shots:
+- shot_id: CH08_SC04_SH001
+  type: request setup
+  framing: Aaron facing Aura beside suspended fire
+  camera: intimate two-shot with forest darkness around them
+  action: Aaron asks Aura to create a home.
+  purpose: Make the spectacle begin from emotional need.
+- shot_id: CH08_SC04_SH002
+  type: Aura stillness
+  framing: Aura balanced and pensive before creation
+  camera: quiet hold before movement
+  action: Aura prepares without theatricality.
+  purpose: Contrast calm intent with coming force.
+- shot_id: CH08_SC04_SH003
+  type: first pulse
+  framing: light building around Aura's arms
+  camera: tighten on hands and wrists rotating skyward
+  action: Energy gathers and the ground begins to tremble.
+  purpose: Link body, imagination, and matter.
+- shot_id: CH08_SC04_SH004
+  type: rain-of-lights echo
+  framing: pulses ascending through trees
+  camera: rising movement following colored light
+  action: Successive pulses hover above the land.
+  purpose: Make Aaron recognize the visual language.
+- shot_id: CH08_SC04_SH005
+  type: Aaron realization
+  framing: Aaron's face under returning elemental light
+  camera: close reaction with flashes crossing his eyes
+  action: Aaron understands this is the rain of lights.
+  purpose: Recontextualize terror as creation.
+- shot_id: CH08_SC04_SH006
+  type: material formation
+  framing: walls and stream forming from dust and light
+  camera: follow elements becoming architecture
+  action: Petrified wood, amethyst, water, and fire assemble.
+  purpose: Show imagination becoming habitable world.
+- shot_id: CH08_SC04_SH007
+  type: storm peak
+  framing: Aura radiant, wind tearing through the woods
+  camera: wide with Aaron, Aura, Peridot, and forming cottage all readable
+  action: Magnesium, azure, rhodonite, and dust culminate in final flash.
+  purpose: Keep spectacle spatially coherent.
+- shot_id: CH08_SC04_SH008
+  type: aftermath reveal
+  framing: two-story cottage around a fresh stream
+  camera: slow reveal from Aaron's feet at the brook to the full structure
+  action: The new home stands where forest had been.
+  purpose: Land the miracle as beautiful and real.
+- shot_id: CH08_SC04_SH009
+  type: Aura fallen
+  framing: Aura on the ground as blue/silver vapor evaporates
+  camera: Aaron moves toward her, concerned
+  action: Aaron asks if she is alright.
+  purpose: Show creation has cost.
+- shot_id: CH08_SC04_SH010
+  type: acceptance
+  framing: Aaron and Aura before the cottage
+  camera: intimate close after spectacle
+  action: Aaron says she is more than his own imagination.
+  purpose: Complete the emotional turn.
+notes:
+- Reuse rain-of-lights palette with a creation emotion.
+- Board the human anchor before the spectacle.
+- The cottage should feel miraculous, intimate, and newly born.

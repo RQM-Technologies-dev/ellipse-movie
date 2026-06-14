@@ -1,0 +1,60 @@
+shotlist_id: SHOTLIST_CH03_SC02
+scene_id: CH03_SC02
+title: The Rain of Lights Attacks Tara
+status: drafted
+source_scene: adaptation/scenes/CH03_SC02.yaml
+visual_direction: docs/visual_direction.md
+scene_intent: Turn Aaron's peaceful ordinary world into terrifying cosmic disruption while forcing him toward the river threshold.
+shots:
+- shot_id: CH03_SC02_SH001
+  type: dread build
+  framing: Aaron standing at Lake Tara as the rumble returns
+  camera: slow push from stillness into unease
+  action: Aaron tries to identify the sound as the ground begins to tremble.
+  purpose: Shift the scene from quiet night into danger.
+- shot_id: CH03_SC02_SH002
+  type: first strike
+  framing: flash reflecting across Aaron and the lake
+  camera: hard contrast from darkness to blinding light
+  action: A flash and roar knock Aaron off his feet.
+  purpose: Make the rain of lights physically violent.
+- shot_id: CH03_SC02_SH003
+  type: sky reveal
+  framing: turquoise trail carving across the sky
+  camera: Aaron's perspective upward, disoriented
+  action: Shockwaves ripple through branches and open sky.
+  purpose: Establish the elemental spectacle.
+- shot_id: CH03_SC02_SH004
+  type: environmental chaos
+  framing: trees, birds, and valley trail under falling lights
+  camera: kinetic movement with Aaron's escape path
+  action: Birds explode through the trees as descending lights multiply.
+  purpose: Make the world feel under attack.
+- shot_id: CH03_SC02_SH005
+  type: survival movement
+  framing: Aaron running through valley obstacles
+  camera: handheld or urgent tracking with readable geography
+  action: Aaron trips, recovers, and keeps moving toward the river.
+  purpose: Keep spectacle anchored in Aaron's body.
+- shot_id: CH03_SC02_SH006
+  type: irrational pull
+  framing: river split path glimpsed through flashes
+  camera: light pulses reveal the way forward
+  action: Aaron feels drawn toward the river rather than choosing rational escape.
+  purpose: Foreshadow Aura's call.
+- shot_id: CH03_SC02_SH007
+  type: impact setup
+  framing: Aaron reaching the water's edge
+  camera: momentary stillness before blast
+  action: The sky and air ignite in iron and turquoise.
+  purpose: Prepare the decisive physical turn.
+- shot_id: CH03_SC02_SH008
+  type: blast
+  framing: Aaron thrown backward through woods
+  camera: violent directional motion, then sensory drop-out
+  action: The explosion slams him away from the river.
+  purpose: End the sequence with injury and blackout.
+notes:
+- The rain should feel frightening before it becomes meaningful later.
+- Use elemental color as threat, not beauty.
+- Keep Aaron's path readable so the later river emergence feels geographically connected.

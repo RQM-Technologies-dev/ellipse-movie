@@ -1,0 +1,14 @@
+location_id: LOC_TARA_VALLEY
+name: Tara Valley Trail
+description: Aaron's flight path during the rain of lights.
+geography: Valley trail between Lake Tara, woods, mountains, and river.
+architecture: Natural trail, tree lines, open exposure.
+lighting: Extreme flashes of turquoise, silver, iron, and darkness from descending lights.
+mood: Panic, bombardment, disorientation.
+recurring_props:
+- falling lights
+- shockwaves
+- panicked birds
+color_palette: black, turquoise, silver, molten ammolite, iron
+visual_reference_notes: Chaotic but geographically readable path toward the river.
+continuity_notes: Aaron runs toward the river under irrational pull, not random escape.

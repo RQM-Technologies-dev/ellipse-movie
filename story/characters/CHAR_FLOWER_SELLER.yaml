@@ -1,0 +1,16 @@
+character_id: CHAR_FLOWER_SELLER
+name: Flower Seller
+age_range: older adult
+role: minor clue-giver
+physical_description: Older woman in an Eros flower shop.
+wardrobe: Merchant clothing appropriate to a floral shop.
+personality: Welcoming, observant, helpful.
+character_arc: Points Aaron and Aura toward the Academy north of Eros.
+relationships:
+- character_id: CHAR_AARON
+  relationship: provides Academy clue
+- character_id: CHAR_AURA
+  relationship: sells protocultures to Aura
+voice_notes: Warm, local, slightly curious about out-of-town travelers.
+visual_reference_notes: Mint doorway, flowers, protocultures, gentle shop lighting.
+continuity_notes: Her clue should bridge the market search to the Academy path.

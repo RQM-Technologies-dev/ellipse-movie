@@ -1,0 +1,15 @@
+# Video Prompt Schema
+# Copy this file and rename it using the shot ID (e.g., CH01_SC01_SH001_video.yaml).
+# Fill in all applicable fields. Use null for unknown or not-yet-determined values.
+
+prompt_id: ""            # e.g., CH01_SC01_SH001_VID_v1
+shot_id: ""              # e.g., CH01_SC01_SH001
+source_image: ""         # Path to the approved storyboard frame used as the starting image
+video_prompt: ""         # Full text prompt describing the motion and action in the clip
+camera_motion: ""        # e.g., static, slow push in, pan right, handheld drift
+subject_motion: ""       # Description of how the subject moves in the clip
+duration_seconds: null   # Target duration in seconds (typically 4–8)
+resolution: ""           # e.g., 1920x1080, 3840x2160
+audio_notes: ""          # Notes for audio sync (not generated here; for editorial reference)
+continuity_notes: ""     # Match requirements with adjacent shots
+status: "draft"          # draft | approved | locked

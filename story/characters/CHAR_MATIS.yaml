@@ -1,0 +1,18 @@
+character_id: CHAR_MATIS
+name: Matis
+age_range: young adult
+role: Elgia sailor / boarding contact
+physical_description: Younger sailor loading cargo when Aaron and Aura approach the Elgia.
+wardrobe: Working sailor clothing.
+personality: Practical, wary, quickly softened by Aura's presence.
+character_arc: Minor supporting role who helps Aaron and Aura board and settle aboard the Elgia.
+relationships:
+- character_id: CHAR_AARON
+  relationship: first Elgia crew contact
+- character_id: CHAR_AURA
+  relationship: persuaded by Aura to help
+- character_id: CHAR_CAPTAIN_ELGIA
+  relationship: subordinate crew member
+voice_notes: Plain, practical, skeptical until Aura intervenes.
+visual_reference_notes: Young working sailor, cargo and pulley context.
+continuity_notes: Name and role should stay tied to boarding and practical ship logistics.

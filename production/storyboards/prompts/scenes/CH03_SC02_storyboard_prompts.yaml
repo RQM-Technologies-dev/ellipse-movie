@@ -1,0 +1,57 @@
+prompt_set_id: SB_SET_CH03_SC02
+scene_id: CH03_SC02
+source_shotlist: production/shotlists/scenes/CH03_SC02_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH03_SC02_SH001
+  source_shot_id: CH03_SC02_SH001
+  source_shotlist: production/shotlists/scenes/CH03_SC02_shotlist.yaml
+  scene_or_sequence_id: CH03_SC02
+  title: Dread at Lake Tara
+  status: draft
+  prompt: Night storyboard frame of Aaron standing near Lake Tara as the rumble returns, dark water and trees around him, stars unnaturally clear, his body tense before the first visible strike.
+  negative_prompt: no daylight, no peaceful sunset, no monster, no modern clothing, no text.
+  continuity: Lake Tara at night; Aaron alone; dread before spectacle.
+  camera: Slow push from stillness into unease, low enough to feel vulnerable.
+  blocking: Aaron foreground, lake midground, trees and sky surrounding him.
+  emotional_intent: Quiet dread, confusion.
+  next_handoff: Ground tremor and flash interrupt the stillness.
+- storyboard_prompt_id: SB_CH03_SC02_SH003
+  source_shot_id: CH03_SC02_SH003
+  source_shotlist: production/shotlists/scenes/CH03_SC02_shotlist.yaml
+  scene_or_sequence_id: CH03_SC02
+  title: Turquoise Trail Across the Sky
+  status: draft
+  prompt: Disoriented upward storyboard frame from Aaron's perspective: a fiery turquoise trail rips across the night sky above Tara, branches shaking from shockwaves, stars overwhelmed by violent elemental light.
+  negative_prompt: no fireworks celebration, no meteor shower beauty, no sci-fi spaceship, no calm mood.
+  continuity: Rain of Lights is terrifying first; elemental color as threat.
+  camera: Aaron's perspective upward, tilted and unstable.
+  blocking: Tree silhouettes frame the sky; light trail dominates but environment remains readable.
+  emotional_intent: Terror, awe under attack.
+  next_handoff: Chaos spills into the valley trail and Aaron runs.
+- storyboard_prompt_id: SB_CH03_SC02_SH005
+  source_shot_id: CH03_SC02_SH005
+  source_shotlist: production/shotlists/scenes/CH03_SC02_shotlist.yaml
+  scene_or_sequence_id: CH03_SC02
+  title: Aaron Runs Toward the River
+  status: draft
+  prompt: Kinetic storyboard frame of Aaron running through the valley trail under falling lights, birds scattering through branches, ground and trees illuminated by violent flashes, his path readable toward the river.
+  negative_prompt: no abstract blur-only action, no heroic confidence, no battle scene with enemies.
+  continuity: Aaron is injured and afraid; path must lead toward river threshold.
+  camera: Urgent tracking with readable geography.
+  blocking: Aaron foreground in motion; river direction suggested ahead; falling lights behind and above.
+  emotional_intent: Survival panic and irrational pull.
+  next_handoff: Light pulses reveal the river edge.
+- storyboard_prompt_id: SB_CH03_SC02_SH008
+  source_shot_id: CH03_SC02_SH008
+  source_shotlist: production/shotlists/scenes/CH03_SC02_shotlist.yaml
+  scene_or_sequence_id: CH03_SC02
+  title: Iron-Turquoise Blast
+  status: draft
+  prompt: Violent storyboard frame of Aaron blasted backward from the river edge by an immense iron and turquoise explosion, woods and water distorted by shockwave, sensory chaos about to drop into blackout.
+  negative_prompt: no gore, no superhero pose, no clean magic duel, no city destruction.
+  continuity: Explosion physically throws Aaron and sets up wounded riverbank aftermath.
+  camera: Directional motion, impact line clear from river toward woods.
+  blocking: Aaron midair or just thrown; river edge and blast source readable.
+  emotional_intent: Physical terror, rupture.
+  next_handoff: Blackout into injured aftermath at split river.

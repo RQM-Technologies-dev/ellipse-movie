@@ -1,0 +1,57 @@
+prompt_set_id: SB_SET_CH01_SC01
+scene_id: CH01_SC01
+source_shotlist: production/shotlists/scenes/CH01_SC01_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH01_SC01_SH001
+  source_shot_id: CH01_SC01_SH001
+  source_shotlist: production/shotlists/scenes/CH01_SC01_shotlist.yaml
+  scene_or_sequence_id: CH01_SC01
+  title: Impossible Amethyst Palace
+  status: draft
+  prompt: Wide storyboard frame of an impossible amethyst palace suspended in cosmic twilight, star reflections embedded in the architecture, scale immense but readable, a classic adventure opening image with awe and mystery.
+  negative_prompt: no modern city, no spacecraft, no horror-gothic castle, no copied film still, no text overlays.
+  continuity: Kingdom at the Beginning and End; amethyst architecture; cosmic twilight; no exposition.
+  camera: slow reverent establishing reveal; readable geography before spectacle.
+  blocking: Palace dominates frame; no character emphasis yet; architecture leads the eye toward the Garden.
+  emotional_intent: Awe, mystery, sacred scale.
+  next_handoff: Architectural lines guide toward the star-reflective halls.
+- storyboard_prompt_id: SB_CH01_SC01_SH003
+  source_shot_id: CH01_SC01_SH003
+  source_shotlist: production/shotlists/scenes/CH01_SC01_shotlist.yaml
+  scene_or_sequence_id: CH01_SC01
+  title: Lone Heir at Garden Threshold
+  status: draft
+  prompt: Storyboard frame of a lone heir silhouetted at the Garden threshold inside the amethyst palace, tiny against cosmic architecture, still and waiting, emotional focus on father-son longing without dialogue.
+  negative_prompt: no dialogue bubbles, no modern costume, no direct portrait glamour, no exposition symbols.
+  continuity: Figure should later be compatible with Eternity; wordless Overture; father-son emotional echo.
+  camera: Environment-to-human reveal; medium-wide frame preserving palace scale.
+  blocking: Heir stands still at threshold; Garden light and architecture frame him.
+  emotional_intent: Solitude, anticipation, ache.
+  next_handoff: His attention pulls the board toward the Garden disturbance.
+- storyboard_prompt_id: SB_CH01_SC01_SH005
+  source_shot_id: CH01_SC01_SH005
+  source_shotlist: production/shotlists/scenes/CH01_SC01_shotlist.yaml
+  scene_or_sequence_id: CH01_SC01
+  title: Elemental Light Rises
+  status: draft
+  prompt: Storyboard frame of elemental light swelling from the Garden landscape, iron, magnesium, chromium, aluminum, and impossible color rising upward, the heir still visible for scale, spectacle anchored in human longing.
+  negative_prompt: no generic fireball, no sci-fi laser, no explosion-only chaos, no crowded characters.
+  continuity: Visual motif must echo rain of lights, cottage creation, and cosmic transit.
+  camera: Rising movement implied by composition; light arcs upward while the heir remains grounded.
+  blocking: Foreground Garden disturbance, midground heir, background amethyst palace and stars.
+  emotional_intent: Beautiful departure, destiny beginning.
+  next_handoff: Light leaves the Garden and becomes distant.
+- storyboard_prompt_id: SB_CH01_SC01_SH008
+  source_shot_id: CH01_SC01_SH008
+  source_shotlist: production/shotlists/scenes/CH01_SC01_shotlist.yaml
+  scene_or_sequence_id: CH01_SC01
+  title: Heir Thinking of His Father
+  status: draft
+  prompt: Quiet final Overture storyboard frame: the heir alone after the light has departed, amethyst halls still, Garden quiet, the composition emotionally mirroring the film ending with grief, wonder, and unanswered father-son longing.
+  negative_prompt: no visible text, no explanatory symbol, no melodramatic pose, no modern objects.
+  continuity: Wordless; mirrors Portara ending emotionally; do not explain causal loop.
+  camera: Nearly still final beat, medium-wide or close-medium depending on emotion.
+  blocking: Heir centered but small against cosmic architecture.
+  emotional_intent: Grief, patience, sacred mystery.
+  next_handoff: Cut from cosmic longing to Aaron's ordinary world in Tara.

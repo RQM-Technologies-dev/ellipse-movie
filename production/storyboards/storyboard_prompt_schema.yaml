@@ -1,0 +1,45 @@
+schema_id: STORYBOARD_PROMPT_SCHEMA_V1
+schema_name: Ellipse Storyboard Prompt Schema
+version: 1
+required_fields:
+- storyboard_prompt_id
+- source_shot_id
+- source_shotlist
+- scene_or_sequence_id
+- title
+- status
+- prompt
+- negative_prompt
+- continuity
+- camera
+- blocking
+- emotional_intent
+- next_handoff
+field_definitions:
+  storyboard_prompt_id: Stable unique ID for the storyboard prompt, usually SB_<SHOT_ID>.
+  source_shot_id: Shot ID from the reviewed shot list.
+  source_shotlist: Path to the source shot-list YAML.
+  scene_or_sequence_id: Scene ID such as CH03_SC02 or sequence ID such as SEQ_CH07_EROS_MARKET.
+  title: Short human-readable board title.
+  status: draft, reviewed, or locked.
+  prompt: Main storyboard prompt for composition, subject, action, and mood.
+  negative_prompt: Elements to avoid in the storyboard image.
+  continuity: Character, location, object, visual motif, and lore constraints.
+  camera: Camera angle, lens feel, movement implication, and geography guidance.
+  blocking: Character/object staging, foreground/midground/background, and spatial handoff.
+  emotional_intent: The feeling the board must communicate.
+  next_handoff: The visual, emotional, object, sound, or movement cue that hands off to the next board.
+status_values:
+- draft
+- reviewed
+- locked
+review_rules:
+- Prompts must cite a reviewed shot-list source.
+- Prompts must preserve character and location IDs.
+- Prompts must be useful for storyboard composition, not final render detail only.
+- Prompts must follow docs/visual_direction.md.
+- Prompts must not request direct copying of any existing copyrighted shot, frame, or film still.
+- Prompts may reference broad classic adventure grammar, readable geography, motivated camera movement, and emotional clarity.
+output_folder_pattern:
+  scene_prompts: production/storyboards/prompts/scenes/CH##_SC##_storyboard_prompts.yaml
+  sequence_prompts: production/storyboards/prompts/sequences/SEQ_<ID>_storyboard_prompts.yaml

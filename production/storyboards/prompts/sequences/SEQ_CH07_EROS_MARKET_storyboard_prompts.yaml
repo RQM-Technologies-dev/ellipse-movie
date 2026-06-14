@@ -1,0 +1,135 @@
+prompt_set_id: SB_SET_SEQ_CH07_EROS_MARKET
+sequence_id: SEQ_CH07_EROS_MARKET
+source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_ERM_SH001
+  source_shot_id: ERM_SH001
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: First Step Into Eros
+  status: draft
+  prompt: Wide storyboard frame of Aaron emerging from the Elgia ramp into the vast port of Eros, vanilla sails, dockhands, banners, layered city movement, Aura beside him, the market opening beyond them as a living fantasy world.
+  negative_prompt: no empty dock, no modern city, no montage collage, no copied film still.
+  continuity: Eros must dwarf Tara; Aaron and Aura arrive from the Elgia; first step into the market sequence.
+  camera: Reveal Eros with Aaron's first step off the ramp; geography readable from ship to harbor to market.
+  blocking: Aaron and Aura foreground; dockhands and sails midground; market gates and banners background.
+  emotional_intent: Awe, scale, adventure beginning.
+  next_handoff: Crowd flow pulls them into the market current.
+- storyboard_prompt_id: SB_ERM_SH002
+  source_shot_id: ERM_SH002
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Market Current
+  status: draft
+  prompt: Continuous-motion storyboard frame of Aaron and Aura being carried into a dense Eros market current, bodies crossing foreground, vendor stalls and food smoke midground, vivid fabrics and birds overhead, the camera moving with them.
+  negative_prompt: no static shopping scene, no empty street, no disconnected montage panels.
+  continuity: This is a stitched sequence, not a compressed montage.
+  camera: Motivated tracking through foreground bodies and vendor movement.
+  blocking: Crowd movement creates a natural path; Aaron turns toward wonders while Aura moves calmly.
+  emotional_intent: Delight, sensory overload.
+  next_handoff: Aaron's gaze jumps from one world-building detail to another.
+- storyboard_prompt_id: SB_ERM_SH004
+  source_shot_id: ERM_SH004
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Aura Moves Too Easily
+  status: draft
+  prompt: Storyboard frame of Aura passing through the crowded market as people make room too easily, Aaron watching her from beside or slightly behind, suspicion beginning under the wonder, no obvious magic effect.
+  negative_prompt: no glowing spell, no hypnotized crowd, no villainous Aura, no frozen extras.
+  continuity: Aura's social influence remains subtle; Aaron notices without understanding.
+  camera: Keep Aaron's reaction in frame while Aura's path clears through the crowd.
+  blocking: Foreground vendors, Aura moving cleanly midground, Aaron's watchful face visible.
+  emotional_intent: Unease beneath delight.
+  next_handoff: Vendor chain pulls Aaron back into world-building.
+- storyboard_prompt_id: SB_ERM_SH005
+  source_shot_id: ERM_SH005
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Strange Vendor Chain
+  status: draft
+  prompt: Layered fantasy-market storyboard frame of successive vendors crossing Aaron and Aura's path: cardamom and chili smoke, purple fabric, a bird seller, Euclidian roots, pocket scopes, snargle pods, all arranged as a single chained movement through Eros.
+  negative_prompt: no generic medieval fair, no modern signs, no isolated product display, no text-heavy frame.
+  continuity: Eros is a living fantasy world; preserve full world-building texture.
+  camera: Hand off visually from one vendor call to the next.
+  blocking: Vendors create foreground frames; Aaron and Aura pass through midground; market continues in depth.
+  emotional_intent: Wonder, abundance, kinetic discovery.
+  next_handoff: A fragrance pulls Aura toward the flower shop.
+- storyboard_prompt_id: SB_ERM_SH007
+  source_shot_id: ERM_SH007
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Flower Shop Pocket of Calm
+  status: draft
+  prompt: Storyboard frame inside a calm mint-doored flower shop off the Eros market, open windows, protocultures and vivid flowers lining the walls, older flower seller greeting Aaron and Aura as the noisy market softens outside.
+  negative_prompt: no sterile florist, no modern cash register, no empty shelves, no romantic cliché framing.
+  continuity: Flower seller gives first Academy clue; contrast loud market with calm pocket.
+  camera: Move from street bustle into softer color and quiet.
+  blocking: Flower seller behind displays; Aura near protocultures; Aaron ready to ask about The Teacher.
+  emotional_intent: Relief, clue discovery.
+  next_handoff: Return from calm shop into the market's noise.
+- storyboard_prompt_id: SB_ERM_SH009
+  source_shot_id: ERM_SH009
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Twilight Fatigue
+  status: draft
+  prompt: Twilight storyboard frame of Eros market stalls closing, lamplighters moving through lavender sky, Aaron visibly tired and discouraged, Aura still composed, the search feeling lost as the city continues around them.
+  negative_prompt: no empty street, no full night yet, no dramatic villain threat.
+  continuity: Wonder turns to fatigue before the Academy textbook clue.
+  camera: Follow market energy fading into twilight.
+  blocking: Lamplighters in background, closing merchants midground, Aaron and Aura foreground.
+  emotional_intent: Fatigue, uncertainty, fading wonder.
+  next_handoff: Aaron notices the boy with the green textbook.
+- storyboard_prompt_id: SB_ERM_SH010
+  source_shot_id: ERM_SH010
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Academy Textbook Boy
+  status: draft
+  prompt: Character-driven storyboard frame of a defensive ten-year-old boy with a heavy bag and thick green Academy textbook, silver triangle visible on the cover, Aaron leaning in with sudden hope, twilight market behind them.
+  negative_prompt: no adult scholar, no modern schoolbook, no glowing magic book, no exposition board.
+  continuity: Textbook clue gives directions to Tritaselo Pass and the Academy.
+  camera: Discover the silver triangle with Aaron.
+  blocking: Boy guards the book; Aaron focused; Aura observes; market traffic continues behind.
+  emotional_intent: Renewed hope, urgency.
+  next_handoff: Aaron and Aura rush toward West Eros Stables.
+- storyboard_prompt_id: SB_ERM_SH012
+  source_shot_id: ERM_SH012
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Peridot and Aura's Silver
+  status: draft
+  prompt: Grounded stable storyboard frame: West Eros stable keeper at gate with hay fork, Aura's silver changing his attitude, Peridot revealed as a stunning dark horse in twilight, Aaron watching the practical miracle unfold.
+  negative_prompt: no royal stable fantasy excess, no modern saddle shop, no cartoon horse.
+  continuity: Aura's silver secures Peridot; stable is practical and work-worn.
+  camera: Start transactional, then reveal Peridot as the prize.
+  blocking: Stable keeper foreground/gate, Aura offering silver, Aaron near Peridot's reveal.
+  emotional_intent: Urgency, practical magic, threshold momentum.
+  next_handoff: Aaron helps Aura mount Peridot.
+- storyboard_prompt_id: SB_ERM_SH013
+  source_shot_id: ERM_SH013
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Aaron's Aura Glimpse
+  status: draft
+  prompt: Subjective storyboard frame as Aaron helps Aura mount Peridot and briefly senses the stable, horse, his arm, Aura's face, and surrounding world as one connected extension of Aura, beautiful and unsettling but not fully explained.
+  negative_prompt: no abstract psychedelic overload, no villain transformation, no literal diagram.
+  continuity: Foreshadows Garden of Time and Aura as Spirit of All Things.
+  camera: Brief connective visual impression centered on Aaron's physical contact with Aura.
+  blocking: Aaron's hand, Aura on saddle, Peridot, stable environment all visually linked.
+  emotional_intent: Awe, unease, metaphysical foreshadow.
+  next_handoff: Peridot exits the market into night.
+- storyboard_prompt_id: SB_ERM_SH014
+  source_shot_id: ERM_SH014
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  scene_or_sequence_id: SEQ_CH07_EROS_MARKET
+  title: Exit Into Night
+  status: draft
+  prompt: Storyboard frame of Peridot cantering away from Eros market lanterns into a darker road, Aaron and Aura riding together, city warmth falling behind, the Academy journey beginning under night.
+  negative_prompt: no daylight, no static horse portrait, no city gate battle, no modern streetlights.
+  continuity: End of continuous Eros sequence; transition toward Tritaselo Pass and Academy.
+  camera: Track from city warmth into darker road.
+  blocking: Peridot moving away from market; lanterns recede in background; road opens ahead.
+  emotional_intent: Momentum, threshold, adventure deepening.
+  next_handoff: Night ride toward Academy marker.

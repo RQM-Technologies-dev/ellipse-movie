@@ -1,0 +1,57 @@
+prompt_set_id: SB_SET_CH03_SC03
+scene_id: CH03_SC03
+source_shotlist: production/shotlists/scenes/CH03_SC03_shotlist.yaml
+status: draft
+prompts:
+- storyboard_prompt_id: SB_CH03_SC03_SH002
+  source_shot_id: CH03_SC03_SH002
+  source_shotlist: production/shotlists/scenes/CH03_SC03_shotlist.yaml
+  scene_or_sequence_id: CH03_SC03
+  title: Split River Mound
+  status: draft
+  prompt: Storyboard frame of the Tara river split unnaturally around a newly formed mound, night atmosphere, cold water, smoke and faint embers in the distance, Aaron's blurred injured perspective recovering.
+  negative_prompt: no daylight, no ordinary island, no bridge, no fantasy castle.
+  continuity: Same river geography as earlier crossing; new mound caused by the rain of lights.
+  camera: Slow reveal through Aaron's disoriented perception.
+  blocking: River branches frame the mound; Aaron low at bank or edge.
+  emotional_intent: Disorientation, impossible geography.
+  next_handoff: Aaron is compelled into the current.
+- storyboard_prompt_id: SB_CH03_SC03_SH005
+  source_shot_id: CH03_SC03_SH005
+  source_shotlist: production/shotlists/scenes/CH03_SC03_shotlist.yaml
+  scene_or_sequence_id: CH03_SC03
+  title: Blue Silver Vapor
+  status: draft
+  prompt: Intimate storyboard frame pushing through dark blue and silver vapor above the river mound, a human silhouette barely visible inside the haze, cold current around the mound, quiet after catastrophe.
+  negative_prompt: no horror ghost, no angel wings, no neon sci-fi smoke.
+  continuity: Aura's first reveal must use blue-silver vapor and wounded mystery.
+  camera: Push through vapor toward shape.
+  blocking: Vapor foreground, silhouette midground, river framing both sides.
+  emotional_intent: Mystery, empathy beginning.
+  next_handoff: Aura's face emerges.
+- storyboard_prompt_id: SB_CH03_SC03_SH006
+  source_shot_id: CH03_SC03_SH006
+  source_shotlist: production/shotlists/scenes/CH03_SC03_shotlist.yaml
+  scene_or_sequence_id: CH03_SC03
+  title: Aura First Face
+  status: draft
+  prompt: Storyboard frame of Aura emerging from vapor, muddy and wounded, pale skin, torn clothes, deep-cut turquoise eyes, looking directly toward Aaron as if she knows him.
+  negative_prompt: no glamour portrait, no clean costume, no adult styling, no villain expression.
+  continuity: Aura appears young, bruised, muddy, scraped, with mandatory turquoise eyes.
+  camera: Aaron's stunned perspective, intimate close-medium.
+  blocking: Aura centered within departing vapor; river and mound still visible.
+  emotional_intent: Empathy, shock, impossible recognition.
+  next_handoff: Aaron moves toward her pain.
+- storyboard_prompt_id: SB_CH03_SC03_SH008
+  source_shot_id: CH03_SC03_SH008
+  source_shotlist: production/shotlists/scenes/CH03_SC03_shotlist.yaml
+  scene_or_sequence_id: CH03_SC03
+  title: Mound Erodes
+  status: draft
+  prompt: Urgent storyboard frame of Aaron reaching for Aura as water eats away the newly formed mound, cold current splitting around them, night vapor thinning, danger returning after the quiet reveal.
+  negative_prompt: no romantic pose, no calm lake, no action-hero rescue exaggeration.
+  continuity: Aaron chooses care; river retakes its position.
+  camera: Wider frame revealing both characters and eroding ground.
+  blocking: Aura on unstable mound, Aaron reaching from safer path toward shore.
+  emotional_intent: Protective urgency.
+  next_handoff: They struggle through the current to shore.

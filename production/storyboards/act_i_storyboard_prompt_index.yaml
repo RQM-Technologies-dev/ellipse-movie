@@ -1,0 +1,65 @@
+project: Ellipse
+unit: Act I / film adaptation target
+status: in_progress
+source_layer: production/shotlists/act_i_shotlist_index.yaml
+source_layer_status: reviewed
+schema: production/storyboards/storyboard_prompt_schema.yaml
+visual_direction: docs/visual_direction.md
+prompt_sets:
+- id: CH01_SC01
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH01_SC01_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH01_SC01_storyboard_prompts.yaml
+  status: drafted
+- id: SEQ_CH07_EROS_MARKET
+  type: sequence
+  source_shotlist: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  prompt_file: production/storyboards/prompts/sequences/SEQ_CH07_EROS_MARKET_storyboard_prompts.yaml
+  status: drafted
+- id: CH03_SC02
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH03_SC02_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH03_SC02_storyboard_prompts.yaml
+  status: drafted
+- id: CH03_SC03
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH03_SC03_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH03_SC03_storyboard_prompts.yaml
+  status: drafted
+- id: CH06_SC03
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH06_SC03_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH06_SC03_storyboard_prompts.yaml
+  status: pending
+- id: CH08_SC04
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH08_SC04_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH08_SC04_storyboard_prompts.yaml
+  status: pending
+- id: CH09_SC03
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH09_SC03_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH09_SC03_storyboard_prompts.yaml
+  status: pending
+- id: CH10_SC03
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH10_SC03_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH10_SC03_storyboard_prompts.yaml
+  status: pending
+- id: CH11_SC03
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH11_SC03_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH11_SC03_storyboard_prompts.yaml
+  status: pending
+- id: CH11_SC04
+  type: scene
+  source_shotlist: production/shotlists/scenes/CH11_SC04_shotlist.yaml
+  prompt_file: production/storyboards/prompts/scenes/CH11_SC04_storyboard_prompts.yaml
+  status: pending
+next_priority:
+- draft_remaining_visual_anchor_storyboard_prompts
+- review_prompt_schema_against_visual_direction
+- generate_remaining_scene_storyboard_prompts
+hold_until_review:
+- video_prompts
+- generated_media

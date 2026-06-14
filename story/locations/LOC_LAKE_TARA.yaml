@@ -1,0 +1,14 @@
+location_id: LOC_LAKE_TARA
+name: Lake Tara
+description: Ice-melt basin where Aaron watches sunset, falls asleep, and first hears the rumble.
+geography: Water basin formed from mountain ice melt near Tara's settlement.
+architecture: Natural lake clearing.
+lighting: Orange/crimson sunset; later star reflections under clear night sky.
+mood: Peaceful last ordinary-world image, then dread.
+recurring_props:
+- grass clearing
+- sunset horizon
+- star reflections
+color_palette: orange, crimson, dark blue, star silver
+visual_reference_notes: Use as contrast between ordinary beauty and approaching cosmic violence.
+continuity_notes: Aaron falls asleep here before The Rain of Lights begins.

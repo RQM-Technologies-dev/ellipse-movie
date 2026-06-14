@@ -8,14 +8,14 @@ characters:
 - CHAR_AURA
 - CHAR_CAPTAIN_ELGIA
 scene_purpose: Plant the phrase translation that will pay off emotionally at the Portara.
-emotional_turn: Tension with the Captain softens into amused nostalgia.
+emotional_turn: Tension with the Captain softens into bittersweet nostalgia.
 plot_turn: Aaron learns the inscription means the horizon of love has no end.
-summary: After observing how Aura has improved the crew's work, the Captain approaches Aaron and Aura. Aaron asks about the silver lettering on the Captain's door, and the Captain translates it with a chuckle.
+summary: After observing how Aura has improved the crew's work, the Captain approaches Aaron and Aura. Aaron asks about the silver lettering on the Captain's door, and the Captain translates it with warmth, ache, and humor.
 key_dialogue: 'Captain: ''The horizon of your love, has no end.'''
 props:
 - captain's door inscription
 - deck
 - crew tasks
 continuity_notes: The translation must match the Garden plaque and Eternity's final Portara line.
-adaptation_notes: Play the translation slightly comic now so it can become devastating later.
-status: reviewed
+adaptation_notes: Play the first translation as bittersweet ship lore so it can become devastating later.
+status: locked

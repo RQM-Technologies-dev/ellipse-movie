@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after adding the Eros Market continuous sequence plan and project visual-direction note on `main`.
+This is the current working checklist after locking the Act I scene YAML files and beginning Act I shot-list generation on `main`.
 
 ## Completed
 
@@ -22,31 +22,38 @@ This is the current working checklist after adding the Eros Market continuous se
 - Human adaptation decisions applied: no Act II framing, wordless Overture, augmented Teacher explanation, bittersweet Captain translation, and full/expanded Eros market.
 - Eros Market continuous sequence plan added under `adaptation/sequences/`.
 - Project-wide visual direction added under `docs/visual_direction.md`.
+- Act I scene YAML files locked.
+- Act I shot-list generation started under `production/shotlists/`.
 
 ## Immediate next tasks
 
-1. Mark approved scene YAML files from `reviewed` to `locked`.
-2. After scenes are locked, begin Act I shot-list generation under `production/shotlists/`.
-3. Use `docs/visual_direction.md` as the blocking, camera-angle, and storyboard north star.
+1. Continue generating scene shot lists under `production/shotlists/scenes/`.
+2. Prioritize major visual anchors: Rain of Lights, Aura Appears, Stars over the Elgia, The Teacher/Athenaeum, Cottage Creation, Cosmic Transit, Garden of Time, Portara.
+3. Review the drafted Eros Market sequence shot list for continuous-motion logic.
+4. After shot lists are reviewed, begin storyboard prompt planning.
 
-## Hold until lock
+## Hold until shot-list review
 
 Do not start storyboard prompts, video prompts, or generated media until:
 
-- scene statuses are locked,
-- character and location IDs remain stable after review,
-- Aura / Einai / Ousia continuity remains confirmed,
-- the Portara ending is confirmed as the film endpoint.
+- shot lists exist for all locked scenes,
+- shot lists are reviewed against `docs/visual_direction.md`,
+- character and location IDs remain stable,
+- visual continuity for Aura / Einai / Ousia, rain of lights, Eros, the Kingdom, and the Portara is confirmed.
 
 ## Recommended next commit
 
-`Lock reviewed Act I scene YAML files`
+`Generate Act I shot lists for major visual anchors`
 
 Expected output:
 
-- Approved `adaptation/scenes/CH##_SC##.yaml` statuses move from `reviewed` to `locked`.
-- Treatment, beat sheet, and Eros sequence plan remain aligned with the locked scene sequence.
-- Shot-list generation can begin after lock.
+- `production/shotlists/scenes/CH03_SC02_shotlist.yaml`
+- `production/shotlists/scenes/CH03_SC03_shotlist.yaml`
+- `production/shotlists/scenes/CH06_SC03_shotlist.yaml`
+- `production/shotlists/scenes/CH08_SC04_shotlist.yaml`
+- `production/shotlists/scenes/CH09_SC03_shotlist.yaml`
+- `production/shotlists/scenes/CH11_SC03_shotlist.yaml`
+- `production/shotlists/scenes/CH11_SC04_shotlist.yaml`
 
 Run validation afterward:
 

@@ -1,0 +1,117 @@
+shotlist_id: SHOTLIST_SEQ_CH07_EROS_MARKET
+sequence_id: SEQ_CH07_EROS_MARKET
+title: Eros Market Continuous Sequence Shot List
+status: drafted
+source_sequence: adaptation/sequences/CH07_eros_market_sequence.yaml
+source_scenes:
+- CH07_SC01
+- CH07_SC02
+- CH07_SC03
+- CH07_SC04
+- CH07_SC05
+visual_direction: docs/visual_direction.md
+sequence_intent: Present Eros as a living fantasy world through continuous chained discovery from port arrival to Peridot and the Academy road.
+shots:
+- shot_id: ERM_SH001
+  beat_id: ERM_01
+  type: arrival reveal
+  framing: Aaron emerging from the Elgia into harbor scale
+  camera: reveal Eros with Aaron's first step off the ramp
+  action: The ship opens onto vanilla sails, dockhands, banners, and layered city movement.
+  purpose: Make Eros larger than Tara and larger than Aaron expected.
+- shot_id: ERM_SH002
+  beat_id: ERM_02
+  type: moving crowd handoff
+  framing: Aaron and Aura entering the market current
+  camera: motivated tracking through foreground bodies and vendor movement
+  action: Crowd flow pulls them from harbor edge into market density.
+  purpose: Begin the sequence as continuous motion rather than montage.
+- shot_id: ERM_SH003
+  beat_id: ERM_03
+  type: wonder detail chain
+  framing: Aaron turning between vendors and objects
+  camera: follow Aaron's eyes from food smoke to fabric to birds to scopes
+  action: Aaron is delighted and nearly overwhelmed by everything he sees.
+  purpose: Let world-building carry character emotion.
+- shot_id: ERM_SH004
+  beat_id: ERM_04
+  type: Aura influence beat
+  framing: Aura passing through bodies that make room too easily
+  camera: keep Aaron in frame noticing the subtle social shift
+  action: People soften, redirect, or accept her presence without obvious magic.
+  purpose: Seed Aaron's suspicion through blocking.
+- shot_id: ERM_SH005
+  beat_id: ERM_05
+  type: vendor chain
+  framing: successive vendors crossing the path
+  camera: hand off from one vendor call to the next
+  action: Cardamom, chili, purple fabric, bird seller, Euclidian roots, pocket scopes, and snargle pods create a living market.
+  purpose: Preserve and expand fantasy texture.
+- shot_id: ERM_SH006
+  beat_id: ERM_06
+  type: sensory redirection
+  framing: Aura sensing fragrance before Aaron understands
+  camera: sound and crowd compress slightly as Aura turns toward the alley
+  action: The market's noise gives way to a scent trail toward the flower shop.
+  purpose: Motivate the clue through world texture.
+- shot_id: ERM_SH007
+  beat_id: ERM_07
+  type: calm pocket
+  framing: mint doorway and flower shop interior
+  camera: move from street bustle into softer color and quiet
+  action: The flower seller greets them, Aura buys protocultures, and Aaron asks about The Teacher.
+  purpose: Deliver the first clue without killing the sequence momentum.
+- shot_id: ERM_SH008
+  beat_id: ERM_08
+  type: re-entry
+  framing: Aaron and Aura stepping back into louder market flow
+  camera: return to wide layered motion
+  action: The city continues around them as if the clue was only one thread.
+  purpose: Keep Eros from feeling like a plot-only errand.
+- shot_id: ERM_SH009
+  beat_id: ERM_09
+  type: time shift
+  framing: lamplighters and closing stalls under lavender sky
+  camera: follow market energy fading into twilight
+  action: Merchants close, lamps appear, Aaron's legs and confidence fade.
+  purpose: Move wonder into fatigue and renewed stakes.
+- shot_id: ERM_SH010
+  beat_id: ERM_10
+  type: clue encounter
+  framing: boy with heavy bag and green Academy textbook
+  camera: discover the silver triangle with Aaron
+  action: The boy defensively explains the book and gives directions to Tritaselo Pass.
+  purpose: Make exposition character-driven.
+- shot_id: ERM_SH011
+  beat_id: ERM_11
+  type: urgency transition
+  framing: Aaron and Aura cutting through closing market lanes
+  camera: kinetic movement toward West Eros Stables
+  action: Stable banner appears as night settles.
+  purpose: Convert clue into motion.
+- shot_id: ERM_SH012
+  beat_id: ERM_12
+  type: practical obstacle
+  framing: stable keeper, hay fork, gate, and Peridot reveal
+  camera: start grounded and transactional, then reveal Peridot as a prize
+  action: Aura's silver changes the stable keeper's attitude and secures the horse.
+  purpose: Show Aura bending circumstances in practical form.
+- shot_id: ERM_SH013
+  beat_id: ERM_13
+  type: subjective flash
+  framing: Aaron helping Aura mount Peridot
+  camera: brief connective visual impression across stable, horse, Aaron's arm, Aura's face
+  action: Aaron glimpses everything as an extension of Aura.
+  purpose: Plant Garden/All Things continuity before the Kingdom.
+- shot_id: ERM_SH014
+  beat_id: ERM_14
+  type: exit image
+  framing: Peridot cantering away from market lanterns
+  camera: track from city warmth into darker road
+  action: The market falls behind as they ride toward Tritaselo Pass.
+  purpose: End the sequence by transforming world-building into forward adventure.
+notes:
+- Do not treat this as a montage.
+- Each shot should hand off to the next through motion, sound, character gaze, vendor action, or environmental cue.
+- Preserve readable geography despite crowd density.
+- Camera should discover Eros with Aaron and remain emotionally anchored to his awe, suspicion, fatigue, and renewed urgency.

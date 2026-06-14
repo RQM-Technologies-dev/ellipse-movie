@@ -7,7 +7,7 @@ characters:
 - CHAR_AARON
 - CHAR_AURA
 - CHAR_ETERNITY
-scene_purpose: End Act I with Eternity's reveal and Aaron walking through the Portara.
+scene_purpose: End the film with Eternity's reveal and Aaron walking through the Portara.
 emotional_turn: Fear resolves into trust and impossible grief.
 plot_turn: Eternity reveals the father-son connection and Aaron crosses through the Portara.
 summary: Aura enters and reassures Aaron by her presence. Aaron asks whether he will see Eternity again and whether he will die; Eternity answers by calling him Dad and repeating the translated Elgia phrase. Aaron walks through the gate.
@@ -17,6 +17,6 @@ props:
 - Aura's smile
 - Eternity's staff
 - refracted light
-continuity_notes: This is the Act I endpoint and must echo the Overture's heir thinking of his father.
-adaptation_notes: Cut Act I on Aaron entering the gate. Do not explain where he lands until Act II.
-status: reviewed
+continuity_notes: This is the film endpoint and must echo the Overture's heir thinking of his father.
+adaptation_notes: End on Aaron entering the gate. Do not explain where he lands; the final feeling matters more than exposition.
+status: locked

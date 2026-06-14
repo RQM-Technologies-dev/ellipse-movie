@@ -1,7 +1,7 @@
 sequence_id: SEQ_CH07_EROS_MARKET
 chapter: CH07
 title: Eros Market Continuous Sequence
-status: reviewed
+status: locked
 source_scenes:
 - CH07_SC01
 - CH07_SC02

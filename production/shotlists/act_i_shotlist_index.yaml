@@ -1,0 +1,112 @@
+project: Ellipse
+unit: Act I / film adaptation target
+status: in_progress
+source_lock_status: scenes_locked
+visual_direction: docs/visual_direction.md
+sequence_shotlists:
+- sequence_id: SEQ_CH07_EROS_MARKET
+  path: production/shotlists/sequences/SEQ_CH07_EROS_MARKET_shotlist.yaml
+  status: drafted
+scene_shotlists:
+- scene_id: CH01_SC01
+  path: production/shotlists/scenes/CH01_SC01_shotlist.yaml
+  status: drafted
+- scene_id: CH02_SC01
+  status: pending
+- scene_id: CH02_SC02
+  status: pending
+- scene_id: CH02_SC03
+  status: pending
+- scene_id: CH03_SC01
+  status: pending
+- scene_id: CH03_SC02
+  status: pending
+- scene_id: CH03_SC03
+  status: pending
+- scene_id: CH03_SC04
+  status: pending
+- scene_id: CH04_SC01
+  status: pending
+- scene_id: CH04_SC02
+  status: pending
+- scene_id: CH04_SC03
+  status: pending
+- scene_id: CH04_SC04
+  status: pending
+- scene_id: CH05_SC01
+  status: pending
+- scene_id: CH05_SC02
+  status: pending
+- scene_id: CH05_SC03
+  status: pending
+- scene_id: CH05_SC04
+  status: pending
+- scene_id: CH06_SC01
+  status: pending
+- scene_id: CH06_SC02
+  status: pending
+- scene_id: CH06_SC03
+  status: pending
+- scene_id: CH06_SC04
+  status: pending
+- scene_id: CH07_SC01
+  status: covered_by_sequence
+  sequence_id: SEQ_CH07_EROS_MARKET
+- scene_id: CH07_SC02
+  status: covered_by_sequence
+  sequence_id: SEQ_CH07_EROS_MARKET
+- scene_id: CH07_SC03
+  status: covered_by_sequence
+  sequence_id: SEQ_CH07_EROS_MARKET
+- scene_id: CH07_SC04
+  status: covered_by_sequence
+  sequence_id: SEQ_CH07_EROS_MARKET
+- scene_id: CH07_SC05
+  status: covered_by_sequence
+  sequence_id: SEQ_CH07_EROS_MARKET
+- scene_id: CH07_SC06
+  status: pending
+- scene_id: CH07_SC07
+  status: pending
+- scene_id: CH07_SC08
+  status: pending
+- scene_id: CH08_SC01
+  status: pending
+- scene_id: CH08_SC02
+  status: pending
+- scene_id: CH08_SC03
+  status: pending
+- scene_id: CH08_SC04
+  status: pending
+- scene_id: CH08_SC05
+  status: pending
+- scene_id: CH09_SC01
+  status: pending
+- scene_id: CH09_SC02
+  status: pending
+- scene_id: CH09_SC03
+  status: pending
+- scene_id: CH09_SC04
+  status: pending
+- scene_id: CH10_SC01
+  status: pending
+- scene_id: CH10_SC02
+  status: pending
+- scene_id: CH10_SC03
+  status: pending
+- scene_id: CH11_SC01
+  status: pending
+- scene_id: CH11_SC02
+  status: pending
+- scene_id: CH11_SC03
+  status: pending
+- scene_id: CH11_SC04
+  status: pending
+next_priority:
+- CH03_SC02
+- CH03_SC03
+- CH06_SC03
+- CH08_SC04
+- CH09_SC03
+- CH11_SC03
+- CH11_SC04

@@ -1,0 +1,61 @@
+shotlist_id: SHOTLIST_CH01_SC01
+scene_id: CH01_SC01
+title: Kingdom at the Beginning and End
+status: drafted
+source_scene: adaptation/scenes/CH01_SC01.yaml
+visual_direction: docs/visual_direction.md
+sequence_role: opening_image
+scene_intent: Establish the film's wordless mythic thesis through cosmic scale, father/son longing, and the launch of elemental light from the Garden.
+shots:
+- shot_id: CH01_SC01_SH001
+  type: establishing
+  framing: impossible amethyst palace suspended in cosmic twilight
+  camera: slow, reverent reveal; readable geography before spectacle
+  action: The palace exists at the beginning and end of the universe.
+  purpose: Establish awe, scale, and the film's epic grammar.
+- shot_id: CH01_SC01_SH002
+  type: environmental detail
+  framing: amethyst halls reflecting stars
+  camera: gliding discovery through reflective architecture
+  action: Walls carry starlight as if the palace is remembering the cosmos.
+  purpose: Link architecture to cosmic order.
+- shot_id: CH01_SC01_SH003
+  type: character reveal
+  framing: lone heir silhouetted in the Garden threshold
+  camera: move from environment to human anchor
+  action: The heir watches the Garden, still and waiting.
+  purpose: Anchor spectacle in longing.
+- shot_id: CH01_SC01_SH004
+  type: inciting image
+  framing: vibration displacing the Garden air
+  camera: tighten from wide awe to subtle impossible movement
+  action: A disturbance begins in the Garden.
+  purpose: Begin the causal chain without explanation.
+- shot_id: CH01_SC01_SH005
+  type: spectacle build
+  framing: elemental light swelling from the landscape
+  camera: rising movement with the light, keeping the heir in relation to it
+  action: Iron, magnesium, chromium, aluminum, and impossible color erupt upward.
+  purpose: Create the visual motif later echoed by the rain of lights and cottage creation.
+- shot_id: CH01_SC01_SH006
+  type: departure
+  framing: the light leaps skyward and becomes distant
+  camera: follow the light until it becomes star-like, then let it disappear
+  action: The impossible spectra departs the Kingdom.
+  purpose: Suggest loss, destiny, and movement toward Aaron's world.
+- shot_id: CH01_SC01_SH007
+  type: emotional close
+  framing: heir alone after the Garden settles
+  camera: quiet return to the human figure
+  action: The halls stop growing and silence returns.
+  purpose: Mirror the ending's father/son feeling.
+- shot_id: CH01_SC01_SH008
+  type: final beat
+  framing: heir thinking of his father
+  camera: still or nearly still, no exposition
+  action: The heir waits.
+  purpose: Leave the audience with the unresolved emotional question.
+notes:
+- Keep the Overture wordless.
+- Do not explain the Portara, Eternity, or the causal loop.
+- Storyboard as emotional foreshadowing, not exposition.

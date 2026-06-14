@@ -1,14 +1,28 @@
-# Shot Lists
+# Act I Shot Lists
 
-This folder contains one YAML file per scene's shot list, based on `shot_schema.yaml`.
+Shot-list generation begins after scene lock. These files translate locked scene YAML, treatment, beat sheet, Eros sequence planning, and `docs/visual_direction.md` into production-facing shot plans.
 
-## Naming Convention
+## Current status
 
-Files should be named using the scene ID, e.g. `CH01_SC01_shots.yaml`.
+- Act I scene YAML files are locked.
+- The Eros Market continuous sequence has a draft shot list.
+- The Overture has a starter shot list because it defines the film's visual thesis.
+- Remaining scenes should receive shot lists in scene order.
 
-## Instructions
+## Visual direction
 
-1. Complete the scene YAML files in `adaptation/scenes/` first.
-2. Create a shot list file for each scene using `shot_schema.yaml` as a template.
-3. Number shots sequentially within each scene: `CH01_SC01_SH001`, `CH01_SC01_SH002`, etc.
-4. Run `python tools/scripts/validate_yaml.py` to check for parse errors.
+Use `docs/visual_direction.md` as the global reference for blocking, camera-angle planning, and storyboards: classic adventure scale, wonder, suspense, emotional clarity, kinetic discovery, readable geography, and motivated camera movement.
+
+This is a broad cinematic direction, not a shot-for-shot imitation request.
+
+## Folder pattern
+
+- `production/shotlists/scenes/` for individual locked scene shot lists.
+- `production/shotlists/sequences/` for multi-scene continuous sequences.
+- `production/shotlists/act_i_shotlist_index.yaml` for generation tracking.
+
+## Next shot-list tasks
+
+1. Expand individual shot lists for all locked scene YAML files.
+2. Start with major visual anchors: Rain of Lights, Elgia departure, Stars over the Elgia, Teacher/Athenaeum, Cottage Creation, Cosmic Transit, Garden of Time, Portara.
+3. Keep storyboards and AI video prompts downstream of shot-list review.

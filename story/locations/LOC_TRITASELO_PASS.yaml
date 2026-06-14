@@ -1,0 +1,15 @@
+location_id: LOC_TRITASELO_PASS
+name: Tritaselo Pass
+description: Road north from Eros toward the Academy bluffs.
+geography: Country road and pass with thickening pines and Academy marker.
+architecture: No built architecture except trimmed tree marker with triangle sign.
+lighting: Night; Aura's hovering light illuminates the path.
+mood: Transition from city to ancient mystery.
+recurring_props:
+- hovering light
+- pine marker
+- triangle sign
+- Peridot
+color_palette: dark pine green, moonlight, Aura light
+visual_reference_notes: The road should grow increasingly solemn as pines thicken.
+continuity_notes: The Academy marker is a triangle that circles around itself.

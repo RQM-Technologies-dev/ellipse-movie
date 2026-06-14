@@ -11,6 +11,14 @@ patterns:
     CHAPTER ONE
     Chapter 1:
 
+If no conventional chapter headings are present, the script falls back to the
+named Act I movements used by Ellipse:
+
+    Overture
+    The Clouds
+    The Rain of Lights
+    ...
+
 Output files are named chapter_001.md, chapter_002.md, etc.
 
 Usage:
@@ -37,6 +45,37 @@ CHAPTER_RE = re.compile(
     re.IGNORECASE,
 )
 
+ELLIPSE_SECTION_TITLES = [
+    "Overture",
+    "The Clouds",
+    "The Rain of Lights",
+    "Passacaglia",
+    "The Seas",
+    "The Stars",
+    "The Teacher",
+    "Paramours",
+    "Transformation",
+    "The Father of Time",
+    "Ellipse",
+]
+
+
+def find_ellipse_section_boundaries(lines: list[str]) -> list[int]:
+    """Find Ellipse movement headings after the Act I marker."""
+    try:
+        act_start = next(
+            idx for idx, line in enumerate(lines) if line.strip().lower() == "act i"
+        )
+    except StopIteration:
+        act_start = 0
+
+    titles = set(ELLIPSE_SECTION_TITLES)
+    return [
+        idx
+        for idx, line in enumerate(lines[act_start + 1 :], start=act_start + 1)
+        if line.strip() in titles
+    ]
+
 
 def split_chapters(manuscript_path: str, chapters_dir: str) -> None:
     """Split the manuscript into per-chapter files."""
@@ -50,16 +89,21 @@ def split_chapters(manuscript_path: str, chapters_dir: str) -> None:
     with open(abs_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    # Find chapter boundary line indices
+    # Find chapter boundary line indices.
     boundaries = [i for i, line in enumerate(lines) if CHAPTER_RE.match(line.strip())]
 
     if not boundaries:
-        print("WARNING: No chapter boundaries detected in the manuscript.")
-        print(
-            "Chapter detection looks for headings like '# Chapter 1', 'CHAPTER ONE', etc."
-        )
-        print("The full text will be written as a single file: chapter_001.md")
-        boundaries = [0]
+        boundaries = find_ellipse_section_boundaries(lines)
+        if boundaries:
+            print("No conventional chapter headings detected.")
+            print("Using Ellipse Act I movement headings instead.")
+        else:
+            print("WARNING: No chapter boundaries detected in the manuscript.")
+            print(
+                "Chapter detection looks for headings like '# Chapter 1', 'CHAPTER ONE', etc."
+            )
+            print("The full text will be written as a single file: chapter_001.md")
+            boundaries = [0]
     elif len(boundaries) == 1:
         print("WARNING: Only one chapter boundary detected. This may be correct,")
         print("or the chapter headings may not match the expected patterns.")

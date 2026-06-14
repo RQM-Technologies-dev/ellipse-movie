@@ -1,0 +1,14 @@
+character_id: CHAR_EROS_BOY
+name: Eros Boy
+age_range: around 10
+role: minor clue-giver
+physical_description: Boy carrying a bag too heavy for his size and a thick green Academy textbook.
+wardrobe: Simple city child clothing; carrying school/book materials.
+personality: Proud, defensive when accused of stealing, useful despite being young.
+character_arc: Gives practical directions to the Academy and identifies the textbook as connected to The Teacher.
+relationships:
+- character_id: CHAR_AARON
+  relationship: gives directions to Tritaselo Pass and the Academy
+voice_notes: Young, defensive, proud of the book.
+visual_reference_notes: Green textbook with silver triangle on cover.
+continuity_notes: The textbook title is `Complex Harmonies and Their Directions in Time`.

@@ -1,0 +1,15 @@
+location_id: LOC_PORTARA_CHAMBER
+name: Portara Chamber
+description: Room containing the Pezzotaite arch that sends Aaron into the next phase of the story.
+geography: Interior palace room on the third floor.
+architecture: Amethyst walls, towering Pezzotaite arch, organic/geometric crystal growth at base and sides.
+lighting: Originless palace light refracting through Pezzotaite.
+mood: Threshold, farewell, burden, destiny.
+recurring_props:
+- Pezzotaite Portara
+- Eternity's staff
+- amethyst walls
+- refracted light
+color_palette: pezzotaite pink, amethyst purple, refracted white, ice blue
+visual_reference_notes: The gate should feel ancient, righteous, and proportionally overwhelming.
+continuity_notes: Act I ends here when Eternity calls Aaron Dad and Aaron walks through the gate.

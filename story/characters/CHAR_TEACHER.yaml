@@ -1,0 +1,16 @@
+character_id: CHAR_TEACHER
+name: The Teacher
+age_range: older adult
+role: mentor / partial explainer / philosophical challenger
+physical_description: Tall dark man in gray robes, intense gaze, solemn physical presence.
+wardrobe: Long gray robes associated with the Academy.
+personality: Disciplined, incisive, difficult to impress, patient but severe when explaining metaphysical truth.
+character_arc: Functions as a destabilizing mentor; he gives Aaron a true but incomplete explanation of Aura.
+relationships:
+- character_id: CHAR_AARON
+  relationship: explains Einai/Ousia and forces Aaron into crisis
+- character_id: CHAR_AURA
+  relationship: recognizes and scrutinizes her differently than others do
+voice_notes: Measured, scholarly, direct, with controlled authority.
+visual_reference_notes: Ancient Academy scholar; avoid wizard clichés and copyrighted references.
+continuity_notes: The Teacher is not wrong; he is incomplete. His explanation must be corrected and expanded by Eternity, not discarded.

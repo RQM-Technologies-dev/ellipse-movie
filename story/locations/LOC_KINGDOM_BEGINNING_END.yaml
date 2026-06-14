@@ -1,0 +1,16 @@
+location_id: LOC_KINGDOM_BEGINNING_END
+name: Kingdom at the Beginning and End of the Universe
+description: Cosmic palace realm where Eternity waits and where Aura's origin is revealed.
+geography: Rested in a nebula at the beginning and end of the universe, on cracked regolith under star-warmed twilight.
+architecture: Amethyst palace, star-reflective halls, crystal columns, elliptical chamber, impossible rooms, spiral stairs.
+lighting: Aduro twilight of stars; neither ordinary day nor night.
+mood: Cosmic awe, ancient familiarity, destiny.
+recurring_props:
+- amethyst gates
+- crystal columns
+- pendulum
+- tesseract shadow
+- Eternity's staff
+color_palette: amethyst purple, star white, pink silk sky, ice blue
+visual_reference_notes: The palace should feel impossible but ordered, like music made architecture.
+continuity_notes: The Overture and Act I ending occur in the same cosmic realm.

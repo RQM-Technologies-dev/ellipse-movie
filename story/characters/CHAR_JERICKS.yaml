@@ -1,0 +1,16 @@
+character_id: CHAR_JERICKS
+name: Jericks
+age_range: adult
+role: Elgia sailor / suspicious deck presence
+physical_description: Large, surly sailor often positioned near the rudder or deck.
+wardrobe: Rough sailor clothing.
+personality: Suspicious, gruff, not warmly social.
+character_arc: Minor tension-building presence during the Elgia voyage.
+relationships:
+- character_id: CHAR_AARON
+  relationship: intimidating sailor Aaron tries to avoid
+- character_id: CHAR_AURA
+  relationship: witness to Aura's unusual presence aboard ship
+voice_notes: Sparse, gruff, suspicious.
+visual_reference_notes: Rudder/deck silhouette, rough beard and sailor posture.
+continuity_notes: Keep Jericks as a background tension element rather than a major antagonist.

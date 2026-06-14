@@ -1,0 +1,16 @@
+character_id: CHAR_BALD_SENTRY
+name: Bald Academy Sentry
+age_range: adult
+role: silent threshold guardian
+physical_description: Bald-headed man with neutral face wearing a long gray robe.
+wardrobe: Long gray robe descending to his feet.
+personality: Silent, peaceful, formal.
+character_arc: Admits Aaron and Aura into the Academy without explanation.
+relationships:
+- character_id: CHAR_TEACHER
+  relationship: Academy helper or sentry
+- character_id: CHAR_AARON
+  relationship: admits him into the Academy
+voice_notes: Mostly silent; communicates with nods.
+visual_reference_notes: Candlelit foyer, gray robe, neutral face.
+continuity_notes: Use as a quiet threshold figure, not a comedic doorman.

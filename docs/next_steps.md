@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after reviewing and filling the Act I scene YAML files on `main`.
+This is the current working checklist after updating the Act I treatment and beat sheet from the reviewed scene YAML files on `main`.
 
 ## Completed
 
@@ -18,12 +18,14 @@ This is the current working checklist after reviewing and filling the Act I scen
 - Act I story bible converted into individual character, location, and lore files.
 - Clean Act I manuscript layer produced under `manuscript/clean/` without changing the raw manuscript.
 - Act I scene YAML files reviewed and filled with scene metadata.
+- Act I treatment and beat sheet updated from reviewed scene YAML.
 
 ## Immediate next tasks
 
-1. Perform a final human review of the filled scene YAML files before changing any scene status from `reviewed` to `locked`.
-2. Update `adaptation/treatment.md` and `adaptation/beat_sheet.md` using the filled scene YAML files as the source of truth.
-3. After scenes are locked, begin Act I shot-list generation under `production/shotlists/`.
+1. Perform a final human review of the filled scene YAML files, treatment, and beat sheet.
+2. Resolve the remaining adaptation questions in `adaptation/beat_sheet.md`.
+3. Mark approved scene YAML files from `reviewed` to `locked`.
+4. After scenes are locked, begin Act I shot-list generation under `production/shotlists/`.
 
 ## Hold until lock
 
@@ -36,13 +38,13 @@ Do not start storyboard prompts, video prompts, or generated media until:
 
 ## Recommended next commit
 
-`Update Act I treatment and beat sheet from reviewed scene YAML`
+`Lock reviewed Act I scene YAML files after human approval`
 
 Expected output:
 
-- `adaptation/treatment.md` reflects the reviewed scene sequence.
-- `adaptation/beat_sheet.md` reflects the reviewed scene sequence.
-- Scene status remains `reviewed` until final approval.
+- Approved `adaptation/scenes/CH##_SC##.yaml` statuses move from `reviewed` to `locked`.
+- Any scene-boundary edits from human review are applied.
+- Treatment and beat sheet remain aligned with the locked scene sequence.
 
 Run validation afterward:
 

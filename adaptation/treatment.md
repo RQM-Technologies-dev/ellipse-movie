@@ -1,83 +1,131 @@
-# Treatment — Act I Foundation Draft
+# Treatment — Act I Scene-Reviewed Draft
 
-This treatment is a first-pass adaptation spine for Act I. It is written from the film's point of view and should be revised after the clean manuscript layer and per-scene YAML expansion are complete.
+This treatment reflects the reviewed Act I scene YAML sequence. It should be treated as the current prose adaptation spine until the scene files are formally locked.
 
 ## Adaptation thesis
 
-Act I is the story of Aaron moving from ordinary longing into cosmic responsibility. He begins as a teenage farm boy who wants the world to open beyond Tara; by the end of the act, he has crossed through the Portara after learning that his love, imagination, and future are bound to Aura, Eternity, and the Kingdom at the Beginning and End of the Universe.
+Act I is Aaron's passage from ordinary longing into cosmic responsibility. He begins as a farm boy who wants the world to open beyond Tara; by the end of the act, he has crossed through the Portara after learning that his love, imagination, and future are bound to Aura, Eternity, and the Kingdom at the Beginning and End of the Universe.
 
-The adaptation should preserve the musical-movement structure of the source while giving film audiences a clear emotional throughline: Aaron wants freedom, receives it in the form of Aura, fears that she may only be his own desire made visible, and finally accepts that she is real, autonomous, and essential to the future he must shape.
+The film should preserve the source's musical-movement structure while giving the audience a clear emotional throughline: Aaron wants freedom, receives Aura as the impossible answer to that desire, fears she may only be his own imagination made visible, then accepts that she is autonomous, real, and essential to the future he must shape.
 
-## Act I treatment
+## Scene-backed Act I treatment
 
-A lone figure waits in an impossible palace at the beginning and end of the universe. Amethyst halls reflect the stars. In the Garden, a vibration swells into a rain of elemental light: iron, magnesium, chromium, aluminum, and impossible color. The light launches away like a star, leaving the palace silent. The heir remains, thinking of his father.
+### Overture — CH01
 
-In Tara, Aaron escapes the farm on a rare day of freedom. He is lean, restless, and sun-darkened, with frightening ocean-blue eyes. The harvest has left him exhausted, but the woods restore him. Birds become the first image of the life he wants: a life above the ordinary path, high enough to see the sun breaking over the clouds.
+A lone heir waits in an impossible amethyst palace at the beginning and end of the universe. In the Garden, a vibration swells into elemental light: iron, magnesium, chromium, aluminum, and impossible color. The surge departs like a star, leaving the halls silent. The heir remains, thinking of his father.
 
-Aaron walks north toward the river descending from the mountains. A gold leaf racing through the water captures his imagination, and the river becomes a threshold before he understands why. While crossing upstream, he stops in the current. A strange balance moves through his body: water, weight, clouds, wind. A word, or feeling, arrests him: Here. The moment breaks, and Aaron returns to the world, but the river has marked him.
+### The Clouds — CH02
 
-At Lake Tara, Aaron watches the sunset. The orange and crimson light should feel like the last peaceful image of his ordinary life. He lies in the grass and wishes for something else to happen, anything other than returning to farm responsibility. He falls asleep imagining the path back toward the river.
+In Tara, Aaron escapes farm responsibility for a rare day of freedom. He is a restless teenage boy with ocean-blue eyes, restored by the woods and haunted by the thought of birds flying above the life he knows. The woods define his ordinary world, but his envy of flight defines his deeper want.
 
-Night. Aaron wakes under a sky dense with stars. A rumble crosses the lake. The ground vibrates. At first he thinks of storm or earthquake, but the sound is traveling, not weather. Then the sky opens. A rain of lights strikes Tara in terrifying color and shockwave: turquoise, silver, molten ammolite, iron. Aaron runs toward the mountains, pulled toward the river by a force that feels irrational but unavoidable.
+Aaron follows the river north. A gold leaf racing through the current catches his imagination, and the river becomes a threshold before he understands why. During an upstream crossing, he stops in the water and senses a delicate balance between body, current, clouds, and wind. A single feeling arrests him: Here.
 
-At the river, an explosion throws him backward through the woods. When he wakes, bruised and bleeding, the river has split around a mound of new land. The air itself distorts, flexing length and scale. Aaron wades out as if his body has made the decision before his mind can consent. In dark blue and silver vapor, a girl appears, muddy and wounded, with deep-cut turquoise eyes. She speaks an unknown phrase: Lasant. Enta ty. Then she says Aaron's name.
+At Lake Tara, Aaron watches the sunset and wishes for something other than farm duties. He falls asleep in the grass imagining the path back toward the river, placing himself exactly where the inciting event will find him.
 
-Aaron rescues the girl from the eroding mound. On shore, she begins echoing his thoughts and fear. His panic rises as she voices what he has not said. When he demands it stop, the world quiets. She stands before him and gives the story its central name: Aura.
+### The Rain of Lights — CH03
 
-The aftermath is quiet and intimate. Aaron brings Aura back through the woods toward his farm, noticing her injuries and offering ointment and shelter. Aura seems detached from pain and gives strange answers, including that she is Tara. Dawn rises before they reach the farm.
+Aaron wakes under a sky dense with stars. The lake trembles. A rumble crosses the landscape like something moving, not weather. The night erupts into the rain of lights: shockwaves, turquoise trails, molten ammolite, silver, iron, and violent sound. Aaron runs toward the river, pulled by a force he cannot rationalize, and an iron-turquoise explosion throws him backward through the woods.
 
-Aaron wakes later in pain and realizes the night was not a dream. His bandages, injuries, and Aura asleep in the next room prove that reality has changed. In the kitchen, he remembers sailors' stories about the Teacher of Eros, a man said to know the stars. If anyone can explain the rain of lights and Aura, it might be him. Aura recognizes the title: the Astronomer of Eros. When Aaron asks whether she knows him, she answers with certainty: We will.
+When he wakes, wounded and disoriented, the river has split around a mound of new land. The air distorts. Aaron wades out before he understands what he is doing. In dark blue and silver vapor, a muddy young girl with deep turquoise eyes appears. She whispers the Elgia phrase — Lasant… Enta ty — then says Aaron's name.
 
-Aura's silver removes the practical obstacle of travel. Aaron hesitates because of duty, money, and the impossible speed of everything that has happened. Yet his longing for Eros and the wider world overwhelms him. Within two days, he packs. Aura tells him to trust her, that they will be a good team. Aaron leaves Tara with her.
+Aaron rescues the girl from the eroding mound, but on shore she begins speaking thoughts he has not said aloud. His empathy becomes panic. When his mind demands everything stop, the river quiets, and the girl names herself: Aura.
 
-At the port, they board the Elgia, a three-masted ship bound for Eros. Aura's presence softens Matis, then the Captain. Silver buys passage. Aaron notices a mysterious inscription on the Captain's door, written in the same language Aura spoke at the river. The ship casts off, and Tara recedes. Aaron has crossed a point of no return.
+### Passacaglia — CH04
 
-The Elgia sequence should broaden the story's world while deepening Aura's mystery. Crewmen like Ilyich, Jericks, and Matis form a rough shipboard texture. Aura receives a dress, moves through the crew with strange ease, and makes leaving feel effortless. The Captain eventually translates the inscription: the horizon of your love has no end. The line is comic in the moment, but it becomes the act's emotional key.
+The terror settles into a fragile, intimate aftermath. Aaron notices Aura's injuries and brings her through the woods toward his farm. Aura is strangely detached from pain and says she is Tara, deepening the mystery instead of explaining it. By sunrise, Aaron has chosen to care for her.
 
-By the fourth day, Aaron's anxiety has faded into the rhythm of ship life. Under the stars, he asks the Captain about the Teacher. The Captain points to the Ram and the First Point of Aries, explaining that the Teacher taught him celestial navigation and balance. The Teacher becomes more than a rumor; he becomes the likely answer.
+At the farm, Aaron wakes in pain and realizes the night was not a dream. His bandages prove the rain of lights happened, and Aura asleep in the next room proves she is still here. In the kitchen, he remembers sailors' stories of The Teacher of Eros, an astronomer who might know what happened.
 
-That night, Aaron wakes hungry and finds Aura on deck. She produces a sapphire fruit because he wanted one. When he asks how, she raises her arms and pulls the stars down over the Elgia. Luminous motes fill the deck like a river of sky before returning to their places. Aaron is awestruck and terrified. Aura has not merely charmed people; she can alter the world according to desire.
+Aura recognizes the title. When Aaron asks whether she knows The Teacher, she answers, We will. Her silver removes the money obstacle, and Aaron's imagination fills with Eros: ships, markets, and the larger world he has always wanted. Within two days, he packs and leaves Tara with Aura.
 
-The Elgia reaches Eros in a burst of scale, color, and commerce. Aaron steps into a city full of vanilla sails, banners, spices, fabrics, roots, scopes, birds, alleys, and crowds. He and Aura search for the Teacher. The search becomes frustrating, and Aaron's suspicion returns: silver appears when needed, doors open too easily, and Aura remains calm while reality bends around her.
+### The Seas — CH05
 
-A flower seller tells them the Teacher now runs an academy north of the city. Later, a boy with a green Academy textbook gives practical directions: north through the city, through Tritaselo Pass, by horse. At West Eros Stables, Aura's silver secures Peridot, an Erosian Black Hair horse. As Aaron helps Aura onto the horse, he glimpses everything as an extension of her: the stable, the horse, his arm, her face. He cannot yet understand what he has seen.
+At the port, Aaron recognizes the Elgia, a three-masted ship bound for Eros. The ship does not take passengers, but Aura steps forward and softens Matis, the young sailor loading cargo. In the Captain's quarters, Aaron notices a silver inscription on the door in a strange language. Aura slips silver into Aaron's pocket, the Captain accepts payment, and the Elgia prepares to cast off.
 
-They ride into darkness. Aura raises a hovering light from her hand. Pines thicken. The Academy marker appears: a triangle circling around itself. At the bluffside Academy, oil lamps, gray robes, marble, geometric sculptures, and crashing waves create the solemn feeling of entering an ancient threshold.
+As Tara recedes, Aaron realizes he is beyond return. Aura's presence makes leaving feel effortless. Sailors pause, soften, or redirect under her gaze. Jericks and Ilyich become part of the rough shipboard world, while Aaron notices Aura's quiet authority over men who should frighten them.
 
-The Teacher appears. Unlike others, he is not swayed by Aura. He studies her. In the Athenaeum, Aaron tells him about the rain of lights. The Teacher says Aaron came for answers about the night, but what he truly wants answers for is Aura. He explains that Aura is Einai: energy without form. In contact with a human, Einai becomes Ousia, the substance form of the human's imagination. Aura, he says, is the manifestation of Aaron's thoughts.
+Later, the Captain approaches, half-suspicious and half-impressed by the way Aura has improved the crew's work. Aaron asks about the inscription. The Captain translates it lightly: The horizon of your love has no end. The line lands as ship lore now, but it becomes the emotional key to the Act I ending.
 
-In a private den, the Teacher presses the idea further. Aura exists, but not as a girl. She reflects what Aaron wants and produces what he requires. Aaron realizes the explanation fits too many moments: the thought-mirroring, the silver, the fruit, the stars. His trust fractures.
+### The Stars — CH06
 
-Aaron flees the Academy. Aura follows. In the woods, Aaron confronts her with the Teacher's explanation. She does not deny it in the way he wants. Instead, she offers to show him. He asks her to make a light. A fire appears, suspended between branches. He imagines a jewelry box containing a thousand-faceted stone of impossible color. Aura creates it instantly. Then Aaron asks for a home: strong, warm, built around water, large enough for a family.
+By the fourth day aboard the Elgia, Aaron's anxiety fades into routine. The crew becomes familiar. Aaron learns knots, shares meals, watches the horizon with Aura, and eventually asks the Captain about The Teacher. Under the stars, the Captain points to the Ram and the First Point of Aries, explaining that The Teacher taught him celestial navigation and balance. The Teacher becomes credible as the person who might answer Aaron's questions.
 
-Aura creates the cottage in a storm of light. Pulses rise and descend. Magnesium, azure, rhodonite, dust, wind, and elemental color build walls, water, and warmth. Aaron recognizes the rain of lights: it was Aura. When the dust clears, a two-story cottage of petrified wood and amethyst stands around a fresh spring. Aaron accepts that Aura may not be human, but she is more than his imagination.
+That night, Aaron cannot sleep. He finds Aura on deck, and when his stomach growls, she produces a sapphire fruit because he wanted one. When Aaron asks how, she raises her arms and pulls the stars down over the Elgia. Luminous motes drift around the deck like a river of sky, then return to their places.
 
-Aura then reveals that she can take Aaron anywhere he can imagine. She wants to go home. Her home is a kingdom in a nebula at the beginning and end of the universe. Aaron resists; he fears he has been guided, perhaps manipulated, into this moment. Aura tells him they work together: he imagines, she creates. To travel, he must untether himself from the present.
+Aaron is awestruck and terrified. Aura has not only charmed people; she has altered reality in response to desire. He retreats to the hull and says good night to her as if testing whether ordinary life still works.
 
-Aaron closes his eyes. Aura pacifies him, and a wordless current of emotion passes between them. He sees the Kingdom: palace, nebula, trillion stars. He understands, however briefly, that he and Aura are a team and will move through the universe together. He lets go of Peridot, the forest, and the present place.
+### The Teacher — CH07
 
-Aaron embraces Aura. Warm light radiates from his chest. Distance distorts. Wind forms a sphere around them, and iron, magnesium, ammolite, silver, turquoise, azure, and gold plasma whirl through the air. The sequence should visually echo the prologue and the rain of lights, but now the emotional anchor is trust rather than terror. When the ground returns, Aaron stands on cracked regolith beneath star-warmed twilight. In the distance rises the amethyst palace.
+The Elgia arrives in Eros, and Aaron steps into a world larger than anything in Tara: vanilla sails, banners, spices, fabrics, scopes, birds, alleys, and crowds. His wonder slowly turns to frustration as he and Aura fail to find The Teacher. The more the city opens around Aura, the more Aaron wonders whether everything is too easy.
 
-At the palace entrance waits Eternity: white hair, long beard, ivory cloak, ice-blue eyes, and a staff as tall as his body. He introduces himself as the Dissemination of Eternity, the Father of Time, and welcomes them to the Kingdom at the Beginning and End of the Universe.
+A flower seller provides the first clue: The Teacher runs an academy north of Eros. As twilight falls, a boy with a green Academy textbook gives the practical route: north through the city, Tritaselo Pass, by horse. At West Eros Stables, Aura's silver secures Peridot. When Aaron helps Aura mount, he glimpses everything — the stable, the horse, his arm, her face — as an extension of her.
 
-Inside, the palace reveals impossible rooms: morphing crystal columns, an elliptical chamber with a pendulum descending through stacked openings, liquid metal, a tesseract shadow, and countless corridors. Eternity rushes Aaron toward the one room he has wanted to show him for years: the Garden of Time.
+They ride into night. Aura raises a hovering light, and the road grows stranger as the pines thicken. A triangle marker leads them to the bluffside Academy, where a silent gray-robed sentry admits them into oil-lit rooms of marble and geometric sculpture.
 
-In the Garden, colors can be felt as well as seen. Eternity explains that the Garden provides the scaffolding of all beings. Aura was born here, not merely as Aaron's projection, but as the Spirit of All Things. The Teacher's explanation was partly true but incomplete. Aura is not a person in the ordinary sense, but she is real, her own Ousia. Then Eternity reveals the lineage that overturns Aaron's sense of time: Aura is his mother.
+The Teacher appears. Unlike others, he is not swayed by Aura. He studies her, then leads them into the Athenaeum. Aaron tells him about the rain of lights, and The Teacher identifies the deeper question: Aura. He explains that Aura is Einai, energy without form. When Einai contacts a human, it becomes Ousia, the substance form of that human's imagination.
 
-In the final movement, Aaron spends time with Aura in the Garden. She confirms she is her own Ousia and that it was better for him to come to understanding through experience. Aaron imagines the cottage and the possibility of living there with her, but he knows Eternity is waiting. He uncovers a plaque hidden under topaz ivy: ELGIA LORE LASANT, ENTA TY. The phrase from the river and the ship has reached the Garden.
+In a private den, The Teacher presses the idea further. Aura is not making light, he says; she is what Aaron wants her to be. Aaron realizes the explanation fits too many moments: the thought-mirroring, the silver, the sapphire fruit, the stars. His trust fractures.
 
-Eternity leads Aaron to an ancient Pezzotaite arch: the Portara. It will take Aaron back to his world, but not to his past. It will send him somewhere he can start from the beginning. Aaron must shape a future, and others will follow the path he lays out. Danger is implied, but the details remain withheld. Aaron's question becomes simple and human: what is Eternity asking of him? Eternity answers: to be exactly who he is.
+### Paramours — CH08
 
-Aura enters, and Aaron takes courage from her presence. He asks if he will ever see Eternity again. Eternity does not spoil the surprise. Aaron asks if he will die. Eternity's answer completes the Act I loop: O, Dad. The Horizon of Your Love Has No End. Father and son share a brief moment across impossible time. Aaron walks through the gate.
+Aaron flees the Academy, brushing past Aura and riding into the dark without a destination. In the woods, he finally confronts her with The Teacher's claim. Aura does not deny it in the way he wants. Instead, she offers to show him.
+
+Aaron asks her to make a light. A fire appears suspended between branches. He imagines a jewelry box containing a stone of a color no one has ever seen, and Aura produces it instantly: a thousand-faceted gem of impossible brilliance. Aaron realizes The Teacher was right, but not in a way that makes Aura meaningless.
+
+For his final test, Aaron asks Aura to create a home: strong, warm, built around water, large enough for a family. Aura erupts into pulses of color, wind, dust, magnesium, azure, rhodonite, and elemental light. Aaron recognizes the rain of lights. It was Aura. But here the same force is not destruction; it is creation. A two-story cottage of petrified wood and amethyst appears around a fresh stream.
+
+Aaron accepts that Aura may not be human, but she is more than his imagination. Then Aura reveals the next truth: she can take him anywhere he can imagine. She wants to go home.
+
+### Transformation — CH09
+
+Aura's home is a kingdom in a nebula at the beginning and end of the universe. Aaron's wonder turns to suspicion. Was Eros really his idea? Has Aura guided him into a trap? Aura tells him they work together: he imagines, she creates. To travel, he must untether his imagination from the present place.
+
+Through a calming connection, Aura helps Aaron see the Kingdom. He understands without words that they are a team and that they will move together through the universe. He releases Peridot, the forest, and the ordinary world.
+
+Aaron embraces Aura. Light radiates from his chest. Distance distorts, wind forms a sphere, and iron, magnesium, ammolite, silver, turquoise, azure, and gold plasma whip around them. The sequence visually echoes the Overture and the rain of lights, but now the emotional anchor is trust. When the ground returns, Aaron stands on cracked regolith under star-warmed twilight. Ahead rises the amethyst palace. At its entrance waits Eternity.
+
+### The Father of Time — CH10
+
+Eternity stands at the palace entrance: long white hair, beard, ivory cloak, brilliant ice-blue eyes, and a staff as tall as his body. He introduces himself as the Dissemination of Eternity, the Father of Time, and welcomes Aaron and Aura to the Kingdom at the Beginning and End of the Universe.
+
+Inside, the palace renders cosmic law as architecture: crystal columns, an elliptical chamber, a pendulum carving wakes through liquid metal, a rotating tesseract shadow, and rooms that morph as they pass. Eternity rushes Aaron toward the one room he has wanted to show him for years.
+
+In the Garden of Time, colors can be felt as well as seen. Eternity explains that the Garden provides the scaffolding of all beings. He corrects The Teacher without dismissing him: Aura is not merely Aaron's projection. She was born of the Garden, the Spirit of All Things, her own Ousia. Then Eternity reveals the lineage that overturns Aaron's sense of time: Aura is his mother.
+
+### Ellipse — CH11
+
+Aaron spends time with Aura in the Garden. He admits he feared she was only his imagination. Aura tells him she is her own Ousia and that it was better for him to discover the truth through experience. Their relationship settles into something warmer and clearer, even as Aaron wonders why he is truly here.
+
+On the way back to Eternity, Aaron uncovers a plaque hidden beneath topaz ivy. The inscription reads: ELGIA LORE LASANT, ENTA TY. The phrase from Aura's arrival and the Captain's door now belongs to the Kingdom itself.
+
+Eternity leads Aaron to the Portara, a towering Pezzotaite arch housed in an amethyst chamber. It will send Aaron back to his world, but not back to his past. It will send him somewhere he can start from the beginning. Others will follow the path he lays out. Aaron asks what Eternity is asking of him. Eternity answers: to be exactly who he is.
+
+Aura enters, and Aaron takes courage from her presence. He asks whether he will see Eternity again, then asks whether he will die. Eternity completes the loop: O, Dad… The Horizon of Your Love Has No End. In a brief moment between father and son, Aaron walks through the gate.
 
 ## Act I endpoint
 
-Act I ends when Aaron enters the Portara. The audience should understand emotionally, but not yet mechanically, that Aaron's future produces Eternity, that Aura is bound to both creation and love, and that the adventure ahead is not a side quest but the origin path of the story's cosmic order.
+Act I ends with Aaron entering the Portara. The audience should emotionally understand that Aaron's future produces Eternity, that Aura is autonomous and bound to creation/love, and that the journey ahead is not a side quest but the origin path of the story's cosmic order. The mechanics of where Aaron lands should be withheld until Act II.
+
+## Scene sequence basis
+
+This draft is based on the reviewed scene YAML sequence:
+
+- CH01_SC01
+- CH02_SC01 through CH02_SC03
+- CH03_SC01 through CH03_SC04
+- CH04_SC01 through CH04_SC04
+- CH05_SC01 through CH05_SC04
+- CH06_SC01 through CH06_SC04
+- CH07_SC01 through CH07_SC08
+- CH08_SC01 through CH08_SC05
+- CH09_SC01 through CH09_SC04
+- CH10_SC01 through CH10_SC03
+- CH11_SC01 through CH11_SC04
 
 ## Compression notes
 
-- Preserve the movement titles as adaptation sequence markers.
-- Combine some Eros market beats visually, but keep the flower-shop clue, textbook clue, and Peridot acquisition.
+- Preserve the musical movement titles as adaptation sequence markers.
+- Compress some Eros market movement visually, but keep the flower-shop clue, textbook clue, Peridot acquisition, and Academy marker.
 - Keep the Captain's translation scene because it pays off at the Portara.
-- Keep The Teacher's explanation incomplete; Eternity must later expand and correct it.
-- Do not begin shot-list or storyboard work until scene YAML files are expanded and reviewed.
+- Keep The Teacher's explanation true but incomplete; Eternity must expand and correct it.
+- Do not start shot-list or storyboard work until the reviewed scene files receive final human approval and are marked `locked`.

@@ -1,0 +1,15 @@
+location_id: LOC_TARA_RIVER
+name: Tara River
+description: Threshold river where Aaron senses the uncanny call and later finds Aura after the explosion.
+geography: Fast cold river descending from the mountains, with shallow upstream crossing and later a split current around a new mound.
+architecture: Natural river rocks, crossings, banks, and temporarily formed mound.
+lighting: Daylight during Aaron's crossing; dark blue/silver vapor and embers at night after the rain.
+mood: Threshold, danger, calling, revelation.
+recurring_props:
+- gold leaf
+- river rocks
+- new mound
+- blue and silver vapor
+color_palette: icy blue, river white, stone gray, dark blue, silver
+visual_reference_notes: Make the river feel like the first gate in the story.
+continuity_notes: The `Here` moment and Aura's arrival happen at related river locations.

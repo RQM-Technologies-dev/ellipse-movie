@@ -1,0 +1,16 @@
+character_id: CHAR_ILYICH
+name: Ilyich
+age_range: adult
+role: Elgia sailor / shipboard texture
+physical_description: Sailor associated with soot, spices, and the lower areas of the Elgia.
+wardrobe: Work-worn sailor clothing; may be soot-marked.
+personality: Quietly helpful, affected by Aura's presence.
+character_arc: Minor supporting sailor who contributes to the sense of shipboard community.
+relationships:
+- character_id: CHAR_AURA
+  relationship: gives Aura a longer dress
+- character_id: CHAR_AARON
+  relationship: occasionally asks Aaron for help aboard ship
+voice_notes: Minimal dialogue; practical shipboard tone.
+visual_reference_notes: Associate with spice racks, soot, and working cargo spaces.
+continuity_notes: His dress gift to Aura explains her wardrobe change aboard the Elgia.

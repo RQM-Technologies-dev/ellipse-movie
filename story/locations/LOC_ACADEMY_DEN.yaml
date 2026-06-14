@@ -1,0 +1,15 @@
+location_id: LOC_ACADEMY_DEN
+name: The Teacher's Den
+description: Warm private room where The Teacher presses Aaron to consider that Aura reflects his imagination.
+geography: Corner den off the Athenaeum.
+architecture: Smoke stack, fire, cushions lining walls, round low table, hanging lantern.
+lighting: Firelight and lantern glow.
+mood: Warm but claustrophobic; philosophical crisis.
+recurring_props:
+- rose-colored cushion
+- round table
+- pine smoke
+- fire
+color_palette: fire amber, rose, smoke gray, dark wood
+visual_reference_notes: Comforting environment undercut by emotionally destabilizing truth.
+continuity_notes: Aaron has not introduced himself, but The Teacher knows his name.

@@ -1,6 +1,6 @@
 # Next Steps
 
-This is the current working checklist after converting the Act I story bible into individual production assets on `main`.
+This is the current working checklist after producing the clean Act I manuscript layer on `main`.
 
 ## Completed
 
@@ -16,13 +16,13 @@ This is the current working checklist after converting the Act I story bible int
 - Act I beat sheet draft added.
 - Act I scene inventory expanded into one YAML file per scene.
 - Act I story bible converted into individual character, location, and lore files.
+- Clean Act I manuscript layer produced under `manuscript/clean/` without changing the raw manuscript.
 
 ## Immediate next tasks
 
-1. Produce the clean manuscript layer under `manuscript/clean/` without changing `manuscript/full_text.md`.
-2. Review the generated scene files against the clean manuscript before marking any scene `locked`.
-3. Fill each scene YAML with `time_of_day`, `emotional_turn`, `plot_turn`, `summary`, `key_dialogue`, `props`, `continuity_notes`, and `adaptation_notes`.
-4. Update `adaptation/treatment.md` and `adaptation/beat_sheet.md` after the clean source and scene files are reviewed.
+1. Review the generated scene files against the clean manuscript before marking any scene `locked`.
+2. Fill each scene YAML with `time_of_day`, `emotional_turn`, `plot_turn`, `summary`, `key_dialogue`, `props`, `continuity_notes`, and `adaptation_notes`.
+3. Update `adaptation/treatment.md` and `adaptation/beat_sheet.md` after the clean source and scene files are reviewed.
 
 ## Hold until review
 
@@ -35,15 +35,13 @@ Do not start shot lists, storyboard prompts, video prompts, or generated media u
 
 ## Recommended next commit
 
-`Produce clean Act I manuscript layer`
+`Review and fill Act I scene YAML files`
 
 Expected output:
 
-- `manuscript/clean/act_i_clean.md`
-- `manuscript/clean/cleanup_log.md`
-- `manuscript/clean/chapters/CH01_overture.md`
-- ...
-- `manuscript/clean/chapters/CH11_ellipse.md`
+- Each `adaptation/scenes/CH##_SC##.yaml` has complete scene metadata.
+- Scene boundaries are cross-checked against `manuscript/clean/chapters/`.
+- Scene statuses move from `draft` to `reviewed` or `locked` only after review.
 
 Run validation afterward:
 

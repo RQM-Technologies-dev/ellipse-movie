@@ -1,0 +1,17 @@
+scene_id: CH06_SC04
+chapter: CH06
+title: Aaron Tries to Sleep
+location: LOC_ELGIA_HULL
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Ground the cosmic reveal in Aaron's anxiety and fear for his sanity.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

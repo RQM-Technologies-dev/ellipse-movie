@@ -1,0 +1,18 @@
+scene_id: CH07_SC05
+chapter: CH07
+title: Ride to the Academy
+location: LOC_TRITASELO_PASS
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_PERIDOT
+scene_purpose: Move from city commerce to ancient mystery while showing Aura's light-making.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

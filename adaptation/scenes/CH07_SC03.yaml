@@ -1,0 +1,18 @@
+scene_id: CH07_SC03
+chapter: CH07
+title: Flower Shop Clue
+location: LOC_EROS_FLOWER_SHOP
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_FLOWER_SELLER
+scene_purpose: Point the search north toward the Academy.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

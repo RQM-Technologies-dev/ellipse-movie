@@ -1,0 +1,17 @@
+scene_id: CH08_SC05
+chapter: CH08
+title: Aura Wants to Go Home
+location: LOC_FOREST_COTTAGE
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Reveal Aura's own objective and prepare the leap beyond Eros.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

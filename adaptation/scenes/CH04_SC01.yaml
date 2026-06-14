@@ -1,0 +1,17 @@
+scene_id: CH04_SC01
+chapter: CH04
+title: Return to the Farm
+location: LOC_TARA_WOODS
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Let Aaron choose care and bring Aura out of danger.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

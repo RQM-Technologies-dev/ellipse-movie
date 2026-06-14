@@ -1,0 +1,18 @@
+scene_id: CH06_SC03
+chapter: CH06
+title: Aura Pulls Down the Stars
+location: LOC_ELGIA_DECK
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_JERICKS
+scene_purpose: Reveal that Aura can create or rearrange perceived reality in response to Aaron's wants.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

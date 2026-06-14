@@ -1,0 +1,17 @@
+scene_id: CH04_SC04
+chapter: CH04
+title: Leaving Tara
+location: LOC_AARON_FARM
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Commit Aaron to adventure and separate him from the farm life he has outgrown.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

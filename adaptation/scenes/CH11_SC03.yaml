@@ -1,0 +1,18 @@
+scene_id: CH11_SC03
+chapter: CH11
+title: The Portara
+location: LOC_PORTARA_CHAMBER
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_ETERNITY
+scene_purpose: Present Aaron's mission and the gate that will send him to a new beginning.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

@@ -1,0 +1,18 @@
+scene_id: CH10_SC02
+chapter: CH10
+title: Palace of Impossible Rooms
+location: LOC_KINGDOM_BEGINNING_END
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_ETERNITY
+scene_purpose: Make the cosmic rules visual through pendulum, tesseract, and impossible architecture.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

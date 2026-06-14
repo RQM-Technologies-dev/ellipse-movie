@@ -1,0 +1,18 @@
+scene_id: CH10_SC03
+chapter: CH10
+title: Garden of Time
+location: LOC_GARDEN_OF_TIME
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_ETERNITY
+scene_purpose: Reveal the Garden, Aura's origin, and the incomplete nature of The Teacher's explanation.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

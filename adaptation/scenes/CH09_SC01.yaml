@@ -1,0 +1,17 @@
+scene_id: CH09_SC01
+chapter: CH09
+title: Trust Conflict
+location: LOC_FOREST_COTTAGE
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Put Aaron's doubt and Aura's purpose in direct conflict.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

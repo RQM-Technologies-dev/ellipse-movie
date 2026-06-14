@@ -1,0 +1,18 @@
+scene_id: CH07_SC04
+chapter: CH07
+title: Academy Textbook and West Eros Stables
+location: LOC_EROS_MARKET
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_EROS_BOY
+scene_purpose: Give practical directions and move Aaron and Aura to Peridot.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

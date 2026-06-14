@@ -1,0 +1,18 @@
+scene_id: CH05_SC01
+chapter: CH05
+title: Boarding the Elgia
+location: LOC_TARA_PORT
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_MATIS
+scene_purpose: Move the story from rural Tara to sea passage and show Aura's social influence.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

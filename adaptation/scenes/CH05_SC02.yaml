@@ -1,0 +1,19 @@
+scene_id: CH05_SC02
+chapter: CH05
+title: Captain's Quarters
+location: LOC_ELGIA
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_CAPTAIN_ELGIA
+- CHAR_MATIS
+scene_purpose: Secure passage to Eros and introduce the Elgia inscription.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

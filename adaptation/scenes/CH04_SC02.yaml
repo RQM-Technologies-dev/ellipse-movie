@@ -1,0 +1,17 @@
+scene_id: CH04_SC02
+chapter: CH04
+title: Recovery and Memory
+location: LOC_AARON_FARM
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Confirm that the rain of lights was not a dream and that Aura remains physically present.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

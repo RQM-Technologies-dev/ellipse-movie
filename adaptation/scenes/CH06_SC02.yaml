@@ -1,0 +1,18 @@
+scene_id: CH06_SC02
+chapter: CH06
+title: The First Point of Aries
+location: LOC_ELGIA_DECK
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_CAPTAIN_ELGIA
+scene_purpose: Make The Teacher credible through celestial navigation and ship lore.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

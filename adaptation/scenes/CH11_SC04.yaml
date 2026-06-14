@@ -1,0 +1,18 @@
+scene_id: CH11_SC04
+chapter: CH11
+title: Father and Son at the Gate
+location: LOC_PORTARA_CHAMBER
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_ETERNITY
+scene_purpose: End Act I with Eternity's reveal and Aaron walking through the Portara.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

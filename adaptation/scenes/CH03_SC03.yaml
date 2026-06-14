@@ -1,0 +1,17 @@
+scene_id: CH03_SC03
+chapter: CH03
+title: Aura Appears in the Split River
+location: LOC_TARA_RIVER
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Introduce Aura through impact, vapor, empathy, and impossible recognition.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

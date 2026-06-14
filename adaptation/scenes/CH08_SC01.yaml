@@ -1,0 +1,18 @@
+scene_id: CH08_SC01
+chapter: CH08
+title: Aaron Flees the Academy
+location: LOC_ACADEMY
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_PERIDOT
+scene_purpose: Externalize Aaron's fear by physically leaving The Teacher's explanation behind.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

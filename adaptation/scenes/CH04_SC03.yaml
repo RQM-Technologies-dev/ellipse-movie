@@ -1,0 +1,17 @@
+scene_id: CH04_SC03
+chapter: CH04
+title: The Teacher Objective
+location: LOC_AARON_FARM
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: 'Give Aaron and Aura the first concrete goal: travel to Eros to find The Teacher.'
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

@@ -1,0 +1,16 @@
+scene_id: CH02_SC01
+chapter: CH02
+title: Aaron in the Woods
+location: LOC_TARA_WOODS
+time_of_day: ''
+characters:
+- CHAR_AARON
+scene_purpose: Establish Aaron's ordinary world, farm burdens, longing for freedom, and envy of birds.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

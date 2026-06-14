@@ -1,0 +1,19 @@
+scene_id: CH05_SC03
+chapter: CH05
+title: Tara Falls Behind
+location: LOC_ELGIA_DECK
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_ILYICH
+- CHAR_JERICKS
+scene_purpose: Mark the point of no return and Aaron's growing attachment to Aura.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

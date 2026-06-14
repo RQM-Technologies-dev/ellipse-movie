@@ -1,0 +1,18 @@
+scene_id: CH07_SC06
+chapter: CH07
+title: The Academy Door
+location: LOC_ACADEMY
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_BALD_SENTRY
+scene_purpose: Enter The Teacher's domain and shift into solemn philosophical space.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

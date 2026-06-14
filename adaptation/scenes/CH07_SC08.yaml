@@ -1,0 +1,17 @@
+scene_id: CH07_SC08
+chapter: CH07
+title: The Den Conversation
+location: LOC_ACADEMY_DEN
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_TEACHER
+scene_purpose: Force Aaron to confront the possibility that Aura is his imagination made substance.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

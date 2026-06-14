@@ -1,0 +1,18 @@
+scene_id: CH05_SC04
+chapter: CH05
+title: The Captain Translates the Phrase
+location: LOC_ELGIA_DECK
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_CAPTAIN_ELGIA
+scene_purpose: Plant the translated thematic phrase that returns in the Garden and Portara.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

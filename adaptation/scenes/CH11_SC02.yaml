@@ -1,0 +1,17 @@
+scene_id: CH11_SC02
+chapter: CH11
+title: Plaque in the Garden
+location: LOC_GARDEN_OF_TIME
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Bring the Elgia phrase into the Kingdom and prepare its final emotional use.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

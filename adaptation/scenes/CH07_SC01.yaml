@@ -1,0 +1,19 @@
+scene_id: CH07_SC01
+chapter: CH07
+title: Arrival in Eros
+location: LOC_EROS_PORT
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+- CHAR_CAPTAIN_ELGIA
+- CHAR_JERICKS
+scene_purpose: Open the larger world and give Aaron his first view of Eros.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft

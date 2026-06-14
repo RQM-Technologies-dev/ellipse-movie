@@ -1,0 +1,17 @@
+scene_id: CH11_SC01
+chapter: CH11
+title: Aaron and Aura in the Garden
+location: LOC_GARDEN_OF_TIME
+time_of_day: ''
+characters:
+- CHAR_AARON
+- CHAR_AURA
+scene_purpose: Give Aaron emotional space to understand Aura as her own Ousia.
+emotional_turn: ''
+plot_turn: ''
+summary: ''
+key_dialogue: ''
+props: []
+continuity_notes: ''
+adaptation_notes: ''
+status: draft
